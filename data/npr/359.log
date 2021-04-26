@@ -1,0 +1,5437 @@
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 1,
+  "method": "GET",
+  "time": "2021-04-17T05:52:23.012Z",
+  "url": "http://www.slcfd.com/Bids"
+}
+
+{
+  "bodySize": 4877,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=a5zb2eujnboixw3cangguw5v; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "67489"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T05:52:24.329Z",
+  "url": "http://www.slcfd.com/Bids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.337Z",
+  "url": "http://www.slcfd.com/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 3,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.338Z",
+  "url": "http://www.slcfd.com/-1493553499.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 4,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.340Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:52:24.503Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 5,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.625Z",
+  "url": "http://www.slcfd.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 6,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.626Z",
+  "url": "http://www.slcfd.com/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.928Z",
+  "url": "http://www.slcfd.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.929Z",
+  "url": "http://www.slcfd.com/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-17T05:52:24.930Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.208Z",
+  "url": "http://www.slcfd.com/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-17T05:52:25.237Z",
+  "url": "http://www.slcfd.com/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=a5zb2eujnboixw3cangguw5v; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "67489"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T05:52:25.239Z",
+  "url": "http://www.slcfd.com/Bids"
+}
+
+{
+  "bodySize": 74598,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "380276812,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.257Z",
+  "url": "http://www.slcfd.com/-1493553499.css"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.508Z",
+  "url": "http://www.slcfd.com/-2031684067.js"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.509Z",
+  "url": "http://www.slcfd.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.516Z",
+  "url": "http://www.slcfd.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.516Z",
+  "url": "http://www.slcfd.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.549Z",
+  "url": "http://www.slcfd.com/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.549Z",
+  "url": "http://www.slcfd.com/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "380276812,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.562Z",
+  "url": "http://www.slcfd.com/-1493553499.css"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:52:25.602Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:25.794Z",
+  "url": "http://www.slcfd.com/901781768.css"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.100Z",
+  "url": "http://www.slcfd.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:24 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:23 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.127Z",
+  "url": "http://www.slcfd.com/-2031684067.js"
+}
+
+{
+  "bodySize": 48808,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:25 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.127Z",
+  "url": "http://www.slcfd.com/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.177Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=659"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.182Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=242"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.184Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=244"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.199Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=238"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.210Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=245"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.210Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=249"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.210Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=247"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.253Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Employee1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.253Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Public%20Records%20Icon1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.254Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Billing%20Info%20Billing%20Info%20Billing%20Info%20Icon1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.254Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Fire%20Permits1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.254Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Request%20Tour%20Icon1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.254Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/ChildSafety1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.261Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=660"
+}
+
+{
+  "bodySize": 317,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "317"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.469Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=242"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "317"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.469Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=242"
+}
+
+{
+  "bodySize": 7882,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "38606"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.479Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=659"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "38606"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.482Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=659"
+}
+
+{
+  "bodySize": 292,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "292"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.484Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=238"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "292"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.485Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=238"
+}
+
+{
+  "bodySize": 250,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "250"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.487Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=244"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "250"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.487Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=244"
+}
+
+{
+  "bodySize": 176,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "176"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.495Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=245"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "176"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.496Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=245"
+}
+
+{
+  "bodySize": 363,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "363"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.756Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=249"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "363"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.757Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=249"
+}
+
+{
+  "bodySize": 453,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "453"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.777Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Employee1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "453"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.777Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Employee1.png"
+}
+
+{
+  "bodySize": 540,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "540"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.784Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Billing%20Info%20Billing%20Info%20Billing%20Info%20Icon1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "540"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.784Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Billing%20Info%20Billing%20Info%20Billing%20Info%20Icon1.png"
+}
+
+{
+  "bodySize": 395,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "395"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.785Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=247"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "395"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.786Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=247"
+}
+
+{
+  "bodySize": 520,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "520"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.792Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Public%20Records%20Icon1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "520"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.792Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Public%20Records%20Icon1.png"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:52:25 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:25 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:26.974Z",
+  "url": "http://www.slcfd.com/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-17T05:52:26.999Z",
+  "url": "http://www.slcfd.com/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-17T05:52:27.936Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-17T05:52:27.937Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 465,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "465"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.937Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Fire%20Permits1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "465"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.937Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Fire%20Permits1.png"
+}
+
+{
+  "bodySize": 598,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "598"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.938Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/ChildSafety1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "598"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.938Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/ChildSafety1.png"
+}
+
+{
+  "bodySize": 429299,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "429299"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.938Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=660"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "429299"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.939Z",
+  "url": "http://www.slcfd.com/ImageRepository/Document?documentID=660"
+}
+
+{
+  "bodySize": 564,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "564"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.940Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Request%20Tour%20Icon1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 25 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Mar 2021 05:52:26 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:26 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "564"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:27.940Z",
+  "url": "http://www.slcfd.com/ImageRepository/Path?filePath=/documents/Intranet/45/Request%20Tour%20Icon1.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-17T05:52:27.941Z",
+  "url": "http://siteimproveanalytics.com/js/siteanalyze_6174356.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-17T05:52:27.959Z",
+  "url": "http://www.slcfd.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638747959"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-17T05:52:27.964Z",
+  "url": "http://www.slcfd.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618638747964"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.024Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7CSource+Sans+Pro:600,700,regular%7C"
+}
+
+{
+  "bodySize": 1009,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.202Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7CSource+Sans+Pro:600,700,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.203Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7CSource+Sans+Pro:600,700,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.224Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.228Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.232Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.238Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 36,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.241Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.255Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.256Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.256Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.256Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": null,
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.279Z",
+  "url": "http://www.slcfd.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618638747964"
+}
+
+{
+  "bodySize": 36361,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.282Z",
+  "url": "http://www.slcfd.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638747959"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:27 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.282Z",
+  "url": "http://www.slcfd.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638747959"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 37,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.288Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 30276,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 03:04:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 03:04:55 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:30 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "10053"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.401Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf"
+}
+
+{
+  "bodySize": 28392,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170788"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.402Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 30450,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 18:01:02 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 18:01:02 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:09 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "42686"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.403Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf"
+}
+
+{
+  "bodySize": 28442,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "444938"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.405Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 03:04:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 03:04:55 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:30 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "10053"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.405Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 18:01:02 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 18:01:02 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:09 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "42686"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.412Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170788"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.413Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 40076,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 02:00:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 02:00:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:17 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "445944"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.413Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 02:00:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 02:00:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:17 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "445944"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.414Z",
+  "url": "http://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "444938"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.414Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.624Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.624Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.629Z",
+  "url": "http://www.slcfd.com/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.slcfd.com/Bids"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-17T05:52:28.630Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.924Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:28.925Z",
+  "url": "http://www.slcfd.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 2555,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:29.025Z",
+  "url": "http://www.slcfd.com/Assets/Styles/Print.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:29.025Z",
+  "url": "http://www.slcfd.com/Assets/Styles/Print.css"
+}
+
+{
+  "bodySize": 12080,
+  "contentType": "application/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=utf-8"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "__cfduid=d900ae8a993390c5155cee6e3b3c4a12a1618638748; expires=Mon, 17-May-21 05:52:28 GMT; path=/; domain=.siteimproveanalytics.com; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "x-amz-id-2",
+      "value": "1Tz7+/Ps8aLeaxc4QYNflEaaoASevAwKOFnzMtiovq5Tv9QQ494A3ZzND4rOrZLOXzyD+JfBz/s="
+    },
+    {
+      "name": "x-amz-request-id",
+      "value": "X4KY2VRTGBZKMFQE"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400, no-transform"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 06 Apr 2020 15:19:27 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ed2248520e8fe363084edd884bc8aac6\""
+    },
+    {
+      "name": "CF-Cache-Status",
+      "value": "MISS"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cf-request-id",
+      "value": "097ffc52f70000fce5daad0000000001"
+    },
+    {
+      "name": "Report-To",
+      "value": "{\"max_age\":604800,\"group\":\"cf-nel\",\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=qrb5UJ526xd5Ym2lw2Ed9JrkwwG0RE39yi4rQMipzKWeALTGrQ%2FHTOJ%2FCE1aicRSx8Y%2F2jrwDMxshzytbipArlQ6XaZ%2FXjTgONE9iE%2BJcnF%2FXLxkXXSNyKo%3D\"}]}"
+    },
+    {
+      "name": "NEL",
+      "value": "{\"report_to\":\"cf-nel\",\"max_age\":604800}"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "CF-RAY",
+      "value": "6413633188cefce5-KIX"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:29.166Z",
+  "url": "http://siteimproveanalytics.com/js/siteanalyze_6174356.js"
+}
+
+{
+  "contentType": "application/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:28 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=utf-8"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "__cfduid=d900ae8a993390c5155cee6e3b3c4a12a1618638748; expires=Mon, 17-May-21 05:52:28 GMT; path=/; domain=.siteimproveanalytics.com; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "x-amz-id-2",
+      "value": "1Tz7+/Ps8aLeaxc4QYNflEaaoASevAwKOFnzMtiovq5Tv9QQ494A3ZzND4rOrZLOXzyD+JfBz/s="
+    },
+    {
+      "name": "x-amz-request-id",
+      "value": "X4KY2VRTGBZKMFQE"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400, no-transform"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 06 Apr 2020 15:19:27 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ed2248520e8fe363084edd884bc8aac6\""
+    },
+    {
+      "name": "CF-Cache-Status",
+      "value": "MISS"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cf-request-id",
+      "value": "097ffc52f70000fce5daad0000000001"
+    },
+    {
+      "name": "Report-To",
+      "value": "{\"max_age\":604800,\"group\":\"cf-nel\",\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=qrb5UJ526xd5Ym2lw2Ed9JrkwwG0RE39yi4rQMipzKWeALTGrQ%2FHTOJ%2FCE1aicRSx8Y%2F2jrwDMxshzytbipArlQ6XaZ%2FXjTgONE9iE%2BJcnF%2FXLxkXXSNyKo%3D\"}]}"
+    },
+    {
+      "name": "NEL",
+      "value": "{\"report_to\":\"cf-nel\",\"max_age\":604800}"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "CF-RAY",
+      "value": "6413633188cefce5-KIX"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:52:29.166Z",
+  "url": "http://siteimproveanalytics.com/js/siteanalyze_6174356.js"
+}
+

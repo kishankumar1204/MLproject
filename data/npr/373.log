@@ -1,0 +1,5276 @@
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 1,
+  "method": "GET",
+  "time": "2021-04-17T05:53:01.683Z",
+  "url": "http://www.frankfort.ky.gov/Bids"
+}
+
+{
+  "bodySize": 4877,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=nbcdlgi2ru400fhsy11na2bs; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "70672"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T05:53:03.727Z",
+  "url": "http://www.frankfort.ky.gov/Bids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-17T05:53:03.731Z",
+  "url": "http://www.frankfort.ky.gov/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 3,
+  "method": "GET",
+  "time": "2021-04-17T05:53:03.732Z",
+  "url": "http://www.frankfort.ky.gov/-2005989927.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 4,
+  "method": "GET",
+  "time": "2021-04-17T05:53:03.733Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:53:03.889Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 5,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.028Z",
+  "url": "http://www.frankfort.ky.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 6,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.029Z",
+  "url": "http://www.frankfort.ky.gov/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.029Z",
+  "url": "http://www.frankfort.ky.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.030Z",
+  "url": "http://www.frankfort.ky.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.333Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.595Z",
+  "url": "http://www.frankfort.ky.gov/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-17T05:53:04.631Z",
+  "url": "http://www.frankfort.ky.gov/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=nbcdlgi2ru400fhsy11na2bs; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "70672"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T05:53:04.632Z",
+  "url": "http://www.frankfort.ky.gov/Bids"
+}
+
+{
+  "bodySize": 74587,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1661580095,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.641Z",
+  "url": "http://www.frankfort.ky.gov/-2005989927.css"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.671Z",
+  "url": "http://www.frankfort.ky.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.671Z",
+  "url": "http://www.frankfort.ky.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.945Z",
+  "url": "http://www.frankfort.ky.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.946Z",
+  "url": "http://www.frankfort.ky.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.955Z",
+  "url": "http://www.frankfort.ky.gov/-2031684067.js"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:04.956Z",
+  "url": "http://www.frankfort.ky.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.175Z",
+  "url": "http://www.frankfort.ky.gov/901781768.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1661580095,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:03 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.257Z",
+  "url": "http://www.frankfort.ky.gov/-2005989927.css"
+}
+
+{
+  "bodySize": 48808,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.333Z",
+  "url": "http://www.frankfort.ky.gov/237693563.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:53:05.559Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.575Z",
+  "url": "http://www.frankfort.ky.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.605Z",
+  "url": "http://www.frankfort.ky.gov/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.657Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1438"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.657Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=31"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.657Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=35"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.657Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=37"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.684Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.761Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=297"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.761Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=304"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.762Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1006"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.762Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=298"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.763Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=306"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.763Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=300"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.763Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.764Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=957"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.780Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-17T05:53:05.783Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "bodySize": 639,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "639"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.949Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=35"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "639"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.950Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=35"
+}
+
+{
+  "bodySize": 535,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "535"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.960Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=31"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "535"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.961Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=31"
+}
+
+{
+  "bodySize": 10741,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "10741"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.963Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1438"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "10741"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.963Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1438"
+}
+
+{
+  "bodySize": 543,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "543"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.976Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=37"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "543"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.977Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=37"
+}
+
+{
+  "bodySize": 666,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "666"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.992Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "666"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:05.992Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "bodySize": 9331,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11222"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.236Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=297"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11222"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.237Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=297"
+}
+
+{
+  "bodySize": 6435,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "15103"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.266Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=304"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "15103"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.267Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=304"
+}
+
+{
+  "bodySize": 10779,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "18526"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.268Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1006"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "18526"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.269Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=1006"
+}
+
+{
+  "bodySize": 7883,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "14651"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.279Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=298"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "14651"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.280Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=298"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:53:04 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:04 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:06.284Z",
+  "url": "http://www.frankfort.ky.gov/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-17T05:53:06.314Z",
+  "url": "http://www.frankfort.ky.gov/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.255Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.255Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 12588,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "12588"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.266Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=306"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "12588"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.266Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=306"
+}
+
+{
+  "bodySize": 27043,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "27043"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.267Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=300"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "27043"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.267Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=300"
+}
+
+{
+  "bodySize": 33603,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "33603"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.268Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "33603"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.268Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "bodySize": 221,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "221"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.268Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "221"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.268Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "bodySize": 326,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "326"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.269Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "326"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.269Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "bodySize": 111760,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "111760"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.269Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=957"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:05 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "111760"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.269Z",
+  "url": "http://www.frankfort.ky.gov/ImageRepository/Document?documentID=957"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.294Z",
+  "url": "http://www.frankfort.ky.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638787293"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.295Z",
+  "url": "http://www.frankfort.ky.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618638787295"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.352Z",
+  "url": "http://fonts.googleapis.com/css?family=Merriweather:700%7CPoppins:200,500,700,regular%7C"
+}
+
+{
+  "bodySize": 937,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.504Z",
+  "url": "http://fonts.googleapis.com/css?family=Merriweather:700%7CPoppins:200,500,700,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.505Z",
+  "url": "http://fonts.googleapis.com/css?family=Merriweather:700%7CPoppins:200,500,700,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.546Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.551Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.555Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.559Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.568Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.568Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.569Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.569Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 36,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.591Z",
+  "url": "http://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf"
+}
+
+{
+  "bodySize": 59371,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.619Z",
+  "url": "http://www.frankfort.ky.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638787293"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.620Z",
+  "url": "http://www.frankfort.ky.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638787293"
+}
+
+{
+  "contentType": null,
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.627Z",
+  "url": "http://www.frankfort.ky.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618638787295"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 37,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.652Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 16136,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.707Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.707Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
+}
+
+{
+  "bodySize": 16092,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 16276,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:14 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:14 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 26998,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:48 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:52:48 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 10 Sep 2020 17:08:44 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "19"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf"
+}
+
+{
+  "bodySize": 15804,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.708Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.709Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:52:48 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:52:48 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 10 Sep 2020 17:08:44 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "19"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.748Z",
+  "url": "http://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.978Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:06 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:07.979Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.983Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-17T05:53:07.984Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:08.296Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:08.297Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 2555,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:08.297Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Styles/Print.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:53:08.298Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.frankfort.ky.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-17T05:53:08.398Z",
+  "url": "http://www.frankfort.ky.gov/Assets/Images/SiteToolsIconSprite.png"
+}
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+

@@ -1,0 +1,4759 @@
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 1,
+  "method": "GET",
+  "time": "2021-04-17T06:11:19.052Z",
+  "url": "http://www.centerline.gov/Bids"
+}
+
+{
+  "bodySize": 4877,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=utm5vzhihkkr0anzavjkyp2c; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "59437"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T06:11:20.763Z",
+  "url": "http://www.centerline.gov/Bids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-17T06:11:20.768Z",
+  "url": "http://www.centerline.gov/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 3,
+  "method": "GET",
+  "time": "2021-04-17T06:11:20.769Z",
+  "url": "http://www.centerline.gov/1656831435.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 4,
+  "method": "GET",
+  "time": "2021-04-17T06:11:20.770Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T06:11:20.975Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 5,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.105Z",
+  "url": "http://www.centerline.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 6,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.106Z",
+  "url": "http://www.centerline.gov/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.107Z",
+  "url": "http://www.centerline.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.107Z",
+  "url": "http://www.centerline.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.108Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:21.677Z",
+  "url": "http://www.centerline.gov/901781768.css"
+}
+
+{
+  "bodySize": 74587,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-2019140403,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:21.714Z",
+  "url": "http://www.centerline.gov/1656831435.css"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:21.725Z",
+  "url": "http://www.centerline.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:21.725Z",
+  "url": "http://www.centerline.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-17T06:11:21.761Z",
+  "url": "http://www.centerline.gov/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=utm5vzhihkkr0anzavjkyp2c; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "59437"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-17T06:11:21.762Z",
+  "url": "http://www.centerline.gov/Bids"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T06:11:21.867Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-2019140403,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:22.038Z",
+  "url": "http://www.centerline.gov/1656831435.css"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:22.060Z",
+  "url": "http://www.centerline.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:22.060Z",
+  "url": "http://www.centerline.gov/-2031684067.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:22.060Z",
+  "url": "http://www.centerline.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 52451,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:22.435Z",
+  "url": "http://www.centerline.gov/237693563.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:24.001Z",
+  "url": "http://www.centerline.gov/-2031684067.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:24.040Z",
+  "url": "http://www.centerline.gov/237693563.js"
+}
+
+{
+  "bodySize": 63233,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:24.130Z",
+  "url": "http://www.centerline.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 06:11:21 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:20 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:24.417Z",
+  "url": "http://www.centerline.gov/901781768.css"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:21 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:24.712Z",
+  "url": "http://www.centerline.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.765Z",
+  "url": "http://www.centerline.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.774Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=28"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.790Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=36"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.795Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=29"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.850Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=43"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.851Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=41"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.851Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=45"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.851Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=47"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.851Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=49"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.860Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=50"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.860Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.860Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.860Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.861Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-17T06:11:24.884Z",
+  "url": "http://www.centerline.gov/Toggle"
+}
+
+{
+  "bodySize": 3433,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3433"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.785Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=28"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3433"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.785Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=28"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-17T06:11:25.785Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-17T06:11:25.786Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 2555,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.786Z",
+  "url": "http://www.centerline.gov/Assets/Styles/Print.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.786Z",
+  "url": "http://www.centerline.gov/Assets/Styles/Print.css"
+}
+
+{
+  "bodySize": 211,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "211"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.795Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=36"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "211"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.795Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=36"
+}
+
+{
+  "bodySize": 163,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "163"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.796Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=29"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:23 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "163"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.796Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=29"
+}
+
+{
+  "bodySize": 881,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "881"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.797Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=43"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "881"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.797Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=43"
+}
+
+{
+  "bodySize": 812,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "812"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.797Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=41"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "812"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.797Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=41"
+}
+
+{
+  "bodySize": 985,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "985"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.798Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=45"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "985"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.798Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=45"
+}
+
+{
+  "bodySize": 43980,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43980"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.798Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=49"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43980"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.798Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=49"
+}
+
+{
+  "bodySize": 391,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "391"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.799Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=50"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "391"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.799Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=50"
+}
+
+{
+  "bodySize": 721,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "721"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.799Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=47"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "721"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.799Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=47"
+}
+
+{
+  "bodySize": 473,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "473"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.800Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "473"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.800Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=52"
+}
+
+{
+  "bodySize": 449,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "449"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.800Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "449"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.800Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=54"
+}
+
+{
+  "bodySize": 367,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "367"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.800Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "367"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.801Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=56"
+}
+
+{
+  "bodySize": 236,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "236"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.801Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "236"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:25.801Z",
+  "url": "http://www.centerline.gov/ImageRepository/Document?documentID=58"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-17T06:11:25.825Z",
+  "url": "http://www.centerline.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639885825"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-17T06:11:25.890Z",
+  "url": "http://fonts.googleapis.com/css?family=Fira+Sans:200,200italic%7CMontserrat:600,700,800,italic,regular%7CPoppins:600,regular%7C"
+}
+
+{
+  "bodySize": 1718,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.071Z",
+  "url": "http://fonts.googleapis.com/css?family=Fira+Sans:200,200italic%7CMontserrat:600,700,800,italic,regular%7CPoppins:600,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.072Z",
+  "url": "http://fonts.googleapis.com/css?family=Fira+Sans:200,200italic%7CMontserrat:600,700,800,italic,regular%7CPoppins:600,regular%7C"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.092Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.092Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.104Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.110Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.118Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.126Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.141Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.185Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.185Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 61844,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.186Z",
+  "url": "http://www.centerline.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639885825"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:24 GMT"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.187Z",
+  "url": "http://www.centerline.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639885825"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.centerline.gov/Bids"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-17T06:11:26.234Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 47036,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 05:39:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 05:39:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:13:07 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "88338"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.338Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 05:39:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 05:39:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:13:07 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "88338"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.338Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+}
+
+{
+  "bodySize": 28392,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 06:21:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 06:21:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "431416"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.339Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 28442,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 09:34:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 09:34:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "160642"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.339Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 12 Apr 2021 06:21:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 12 Apr 2022 06:21:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "431416"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.375Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 09:34:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 09:34:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "160642"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.376Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 46900,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 05:39:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 05:39:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "88338"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.376Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 05:39:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 05:39:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "88338"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.376Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
+}
+
+{
+  "bodySize": 47468,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 06:11:26 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:07 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.450Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 06:11:26 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:07 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.450Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.578Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 06:11:26 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T06:11:26.578Z",
+  "url": "http://www.centerline.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+

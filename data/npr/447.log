@@ -1,0 +1,7033 @@
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 1,
+  "method": "GET",
+  "time": "2021-04-17T05:56:48.319Z",
+  "url": "http://livingstonnj.org/Bids"
+}
+
+{
+  "bodySize": 132,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Location",
+      "value": "/172/Purchasing"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:48 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "132"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-17T05:56:49.318Z",
+  "url": "http://livingstonnj.org/Bids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-17T05:56:49.318Z",
+  "url": "http://livingstonnj.org/172/Purchasing"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Location",
+      "value": "/172/Purchasing"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:48 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "132"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-17T05:56:49.319Z",
+  "url": "http://livingstonnj.org/Bids"
+}
+
+{
+  "bodySize": 72571,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=hb2y1qogykvyfahrkoxyqtm2; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=hb2y1qogykvyfahrkoxyqtm2; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=-ZloLJKMhvm4D7-2zAbw7Vgx5IiYm2j-HHXS77xEPken45YDoR91JBS6sH0Z08-VZIsjPc86obI4_aG4gwZW91o0WvUHelbktoy0QCA27mc1; path=/; HttpOnly"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:49 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:50.628Z",
+  "url": "http://livingstonnj.org/172/Purchasing"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 3,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.632Z",
+  "url": "http://livingstonnj.org/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 4,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.633Z",
+  "url": "http://livingstonnj.org/1309468962.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 5,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.634Z",
+  "url": "http://livingstonnj.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 6,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.634Z",
+  "url": "http://livingstonnj.org/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.635Z",
+  "url": "http://livingstonnj.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.636Z",
+  "url": "http://livingstonnj.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.636Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.637Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.638Z",
+  "url": "http://livingstonnj.org/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=hb2y1qogykvyfahrkoxyqtm2; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=hb2y1qogykvyfahrkoxyqtm2; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=-ZloLJKMhvm4D7-2zAbw7Vgx5IiYm2j-HHXS77xEPken45YDoR91JBS6sH0Z08-VZIsjPc86obI4_aG4gwZW91o0WvUHelbktoy0QCA27mc1; path=/; HttpOnly"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:49 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:50.639Z",
+  "url": "http://livingstonnj.org/172/Purchasing"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-17T05:56:50.640Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:56:50.763Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "bodySize": 4004,
+  "contentType": "text/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, must-revalidate"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Disposition",
+      "value": "attachment; filename=\"f.txt\""
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Server",
+      "value": "HTTP server (unknown)"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:50.793Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+}
+
+{
+  "contentType": "text/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, must-revalidate"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Disposition",
+      "value": "attachment; filename=\"f.txt\""
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Server",
+      "value": "HTTP server (unknown)"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:50.794Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+}
+
+{
+  "bodySize": 71843,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:50.944Z",
+  "url": "http://livingstonnj.org/901781768.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.248Z",
+  "url": "http://livingstonnj.org/901781768.css"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.317Z",
+  "url": "http://livingstonnj.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.317Z",
+  "url": "http://livingstonnj.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.322Z",
+  "url": "http://livingstonnj.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.322Z",
+  "url": "http://livingstonnj.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 74598,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1871699510,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.514Z",
+  "url": "http://livingstonnj.org/1309468962.css"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.528Z",
+  "url": "http://livingstonnj.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.564Z",
+  "url": "http://livingstonnj.org/-2031684067.js"
+}
+
+{
+  "bodySize": 48808,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.569Z",
+  "url": "http://livingstonnj.org/237693563.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:56:51.637Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:51.880Z",
+  "url": "http://livingstonnj.org/237693563.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1871699510,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.085Z",
+  "url": "http://livingstonnj.org/1309468962.css"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.109Z",
+  "url": "http://livingstonnj.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 24 Apr 2021 05:56:50 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:50 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.168Z",
+  "url": "http://livingstonnj.org/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.203Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.204Z",
+  "url": "http://livingstonnj.org/Common/Images/AlertCenter/alertBarBlink.svg"
+}
+
+{
+  "bodySize": 223,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.440Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.440Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.448Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=83"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.448Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=113"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.448Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=115"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.449Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=129"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.449Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=133"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.449Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=131"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.449Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=111"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.449Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=137"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.450Z",
+  "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.498Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=84"
+}
+
+{
+  "bodySize": 3599,
+  "contentType": "image/svg+xml",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/svg+xml"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 29 Apr 2020 05:27:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"03f56d9e61dd61:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3599"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.550Z",
+  "url": "http://livingstonnj.org/Common/Images/AlertCenter/alertBarBlink.svg"
+}
+
+{
+  "contentType": "image/svg+xml",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/svg+xml"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 29 Apr 2020 05:27:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"03f56d9e61dd61:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3599"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.550Z",
+  "url": "http://livingstonnj.org/Common/Images/AlertCenter/alertBarBlink.svg"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.552Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=121"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.552Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=125"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.552Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=117"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.553Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=119"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.553Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=127"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.553Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=123"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.566Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.567Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
+}
+
+{
+  "bodySize": 24990,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 10 Sep 2020 17:04:38 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "202"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.603Z",
+  "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 10 Sep 2020 17:04:38 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "202"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.606Z",
+  "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
+}
+
+{
+  "bodySize": 439,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "439"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.749Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=115"
+}
+
+{
+  "bodySize": 2930,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2930"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.750Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=83"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "439"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.750Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=115"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2930"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.751Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=83"
+}
+
+{
+  "bodySize": 281,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "281"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.762Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=129"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "281"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.762Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=129"
+}
+
+{
+  "bodySize": 375,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "375"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.764Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=133"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "375"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.765Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=133"
+}
+
+{
+  "bodySize": 398,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "398"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.779Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=113"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "398"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.780Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=113"
+}
+
+{
+  "bodySize": 4103,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:53:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "224"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.815Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:53:08 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "224"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.816Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
+}
+
+{
+  "bodySize": 18724,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:19:51 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:19:51 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "2221"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.817Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:19:51 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 06:19:51 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "2221"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.817Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+}
+
+{
+  "bodySize": 371,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "371"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.834Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=131"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:51 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "371"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:52.834Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=131"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.836Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-17T05:56:52.874Z",
+  "url": "http://livingstonnj.org/Toggle"
+}
+
+{
+  "bodySize": 256226,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "256226"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 11 Apr 2021 00:11:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 11 Apr 2022 00:11:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 18:08:41 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "539149"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.781Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "256226"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 11 Apr 2021 00:11:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 11 Apr 2022 00:11:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 18:08:41 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "539149"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.782Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.782Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 36,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.782Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 4570,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4570"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.783Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=137"
+}
+
+{
+  "bodySize": 345,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "345"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.783Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=111"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4570"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.783Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=137"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "345"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.784Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=111"
+}
+
+{
+  "bodySize": 3077,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3077"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.784Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=84"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3077"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.784Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=84"
+}
+
+{
+  "bodySize": 312,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "312"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.784Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=121"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "312"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.785Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=121"
+}
+
+{
+  "bodySize": 259,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "259"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.785Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=125"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "259"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.785Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=125"
+}
+
+{
+  "bodySize": 695,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "695"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.785Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=117"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "695"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.785Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=117"
+}
+
+{
+  "bodySize": 340,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "340"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.786Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=119"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "340"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.786Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=119"
+}
+
+{
+  "bodySize": 336,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "336"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.786Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=127"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "336"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.786Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=127"
+}
+
+{
+  "bodySize": 573,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "573"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.787Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=123"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "573"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:53.787Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=123"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 37,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.820Z",
+  "url": "http://livingstonnj.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav&_=1618639013820"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.822Z",
+  "url": "http://livingstonnj.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=172&moduleID=&themeID=1&menuContainerID=secondaryNav&_=1618639013821"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.941Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+}
+
+Error: iframe sandboxes not supported
+
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:322 in Xr
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:320 in Wr
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:323
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:439
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:315
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:316 in Ar
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:315
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:330
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:333 in os
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:332
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:330
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:316
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:485 in mv
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:500
+  http://livingstonnj.org/172/Purchasing:1499 in googleTranslateElementInit
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502 in e
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.947Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 41,
+  "method": "GET",
+  "time": "2021-04-17T05:56:53.947Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans:600,700,regular%7CSorts+Mill+Goudy:italic,regular%7C"
+}
+
+{
+  "bodySize": 986,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.057Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans:600,700,regular%7CSorts+Mill+Goudy:italic,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.057Z",
+  "url": "http://fonts.googleapis.com/css?family=Open+Sans:600,700,regular%7CSorts+Mill+Goudy:italic,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 42,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.078Z",
+  "url": "http://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEig.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 43,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.089Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 44,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.092Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhs.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 45,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.096Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.116Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.117Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.117Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.118Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 1680,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.150Z",
+  "url": "http://livingstonnj.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=172&moduleID=&themeID=1&menuContainerID=secondaryNav&_=1618639013821"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.151Z",
+  "url": "http://livingstonnj.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=172&moduleID=&themeID=1&menuContainerID=secondaryNav&_=1618639013821"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 46,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.154Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 53108,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:56:54 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 04:59:39 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.206Z",
+  "url": "http://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEig.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:56:54 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 04:59:39 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.207Z",
+  "url": "http://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEig.ttf"
+}
+
+{
+  "bodySize": 825,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "825"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 04:56:52 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 04:56:52 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "90002"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.207Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "825"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 04:56:52 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 04:56:52 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "90002"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.208Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+}
+
+{
+  "bodySize": 1847,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1847"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:47:00 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:47:00 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "594"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.208Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1847"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:47:00 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 17 Apr 2022 05:47:00 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "594"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.208Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+}
+
+{
+  "bodySize": 28848,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 05:02:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 05:02:50 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:59 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "176044"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.209Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "bodySize": 28100,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 10:21:20 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 10:21:20 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "70534"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.209Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhs.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 15 Apr 2021 05:02:50 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 15 Apr 2022 05:02:50 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:59 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "176044"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.210Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 16 Apr 2021 10:21:20 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 16 Apr 2022 10:21:20 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "70534"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.210Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhs.ttf"
+}
+
+{
+  "bodySize": 27088,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 11 Apr 2021 17:56:37 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 11 Apr 2022 17:56:37 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:22 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "475217"
+    }
+  ],
+  "id": 45,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.248Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 11 Apr 2021 17:56:37 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 11 Apr 2022 17:56:37 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:22 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "475217"
+    }
+  ],
+  "id": 45,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.249Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 46,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.482Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 46,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.482Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 75238,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.487Z",
+  "url": "http://livingstonnj.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav&_=1618639013820"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.488Z",
+  "url": "http://livingstonnj.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav&_=1618639013820"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 47,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.494Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 47,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.793Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:53 GMT"
+    }
+  ],
+  "id": 47,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:54.794Z",
+  "url": "http://livingstonnj.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 48,
+  "method": "GET",
+  "time": "2021-04-17T05:56:54.897Z",
+  "url": "http://livingstonnj.org/Assets/Styles/Print.css"
+}
+
+{
+  "bodySize": 2555,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    }
+  ],
+  "id": 48,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:55.196Z",
+  "url": "http://livingstonnj.org/Assets/Styles/Print.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    }
+  ],
+  "id": 48,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:55.197Z",
+  "url": "http://livingstonnj.org/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    }
+  ],
+  "id": 49,
+  "method": "GET",
+  "time": "2021-04-17T05:56:55.312Z",
+  "url": "http://analytics.civicplus.com/piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://livingstonnj.org/172/Purchasing"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 50,
+  "method": "GET",
+  "time": "2021-04-17T05:56:55.320Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=85"
+}
+
+{
+  "bodySize": 180823,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "180823"
+    }
+  ],
+  "id": 50,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:55.652Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=85"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:54 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "180823"
+    }
+  ],
+  "id": 50,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:55.652Z",
+  "url": "http://livingstonnj.org/ImageRepository/Document?documentID=85"
+}
+
+{
+  "bodySize": 13032,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:55 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cdea4e-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 18 Apr 2021 05:56:55 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 49,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:55.954Z",
+  "url": "http://analytics.civicplus.com/piwik.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:56:55 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cdea4e-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 18 Apr 2021 05:56:55 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 49,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-17T05:56:56.515Z",
+  "url": "http://analytics.civicplus.com/piwik.js"
+}
+

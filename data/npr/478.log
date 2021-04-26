@@ -1,0 +1,137 @@
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 1,
+  "method": "GET",
+  "time": "2021-04-17T05:58:20.363Z",
+  "url": "http://www.madison-in.gov/Bids"
+}
+
+{
+  "bodySize": 154,
+  "contentType": "text/html; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "Location",
+      "value": "https://www.madison-in.gov/Bids"
+    },
+    {
+      "name": "Server",
+      "value": ""
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' *.egovcdn.com"
+    },
+    {
+      "name": "X-POWERED-BY",
+      "value": ""
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:58:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "154"
+    }
+  ],
+  "id": 1,
+  "redirectURL": "https://www.madison-in.gov/Bids",
+  "stage": "start",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-17T05:58:21.160Z",
+  "url": "http://www.madison-in.gov/Bids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-17T05:58:21.161Z",
+  "url": "https://www.madison-in.gov/Bids"
+}
+
+{
+  "contentType": "text/html; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "Location",
+      "value": "https://www.madison-in.gov/Bids"
+    },
+    {
+      "name": "Server",
+      "value": ""
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' *.egovcdn.com"
+    },
+    {
+      "name": "X-POWERED-BY",
+      "value": ""
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 17 Apr 2021 05:58:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "154"
+    }
+  ],
+  "id": 1,
+  "redirectURL": "https://www.madison-in.gov/Bids",
+  "stage": "end",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-17T05:58:21.161Z",
+  "url": "http://www.madison-in.gov/Bids"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-17T05:58:22.949Z",
+  "url": "https://www.madison-in.gov/Bids"
+}
+

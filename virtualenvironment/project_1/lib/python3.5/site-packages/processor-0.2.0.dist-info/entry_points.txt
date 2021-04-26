@@ -1,0 +1,3 @@
+[console_scripts]
+processor = processor.__main__:main
+
