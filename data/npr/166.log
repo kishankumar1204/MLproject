@@ -11,19 +11,4332 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:42:38.724Z",
+  "time": "2021-04-27T10:27:35.203Z",
   "url": "http://pu.ingham.org/Home/CurrentBids"
 }
 
 {
-  "contentType": null,
-  "headers": [],
+  "bodySize": 161,
+  "contentType": "text/html; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "Location",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:32 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "161"
+    }
+  ],
   "id": 1,
+  "redirectURL": "https://pu.ingham.org/Home/CurrentBids",
+  "stage": "start",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-27T10:27:36.284Z",
+  "url": "http://pu.ingham.org/Home/CurrentBids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  ],
+  "id": 2,
+  "method": "GET",
+  "time": "2021-04-27T10:27:36.284Z",
+  "url": "https://pu.ingham.org/Home/CurrentBids"
+}
+
+{
+  "contentType": "text/html; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "Location",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:32 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "161"
+    }
+  ],
+  "id": 1,
+  "redirectURL": "https://pu.ingham.org/Home/CurrentBids",
+  "stage": "end",
+  "status": 301,
+  "statusText": "Moved Permanently",
+  "time": "2021-04-27T10:27:36.285Z",
+  "url": "http://pu.ingham.org/Home/CurrentBids"
+}
+
+{
+  "bodySize": 3272,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "Set-Cookie",
+      "value": ".ASPXANONYMOUS=w76GxuFx1wEkAAAANTI4ZTk0MGUtOTRhMS00YTNmLTg1OWYtMDU3ODc2NTRjMTRj0; expires=Mon, 05-Jul-2021 21:07:34 GMT; path=/; HttpOnly\nASP.NET_SessionId=z23uconji5md5sgzioqii2cl; path=/; HttpOnly; SameSite=Lax\n.ASPXANONYMOUS=w76GxuFx1wEkAAAANTI4ZTk0MGUtOTRhMS00YTNmLTg1OWYtMDU3ODc2NTRjMTRj0; expires=Mon, 05-Jul-2021 21:07:34 GMT; path=/; HttpOnly\nASP.NET_SessionId=z23uconji5md5sgzioqii2cl; path=/; HttpOnly; SameSite=Lax\nlanguage=en-US; path=/; HttpOnly"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "45630"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:38.233Z",
+  "url": "https://pu.ingham.org/Home/CurrentBids"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 3,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.236Z",
+  "url": "https://pu.ingham.org/Portals/_default/default.css?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 4,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.236Z",
+  "url": "https://pu.ingham.org/DesktopModules/DNNspot-Sitemap/module.css?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 5,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.238Z",
+  "url": "https://pu.ingham.org/DesktopModules/HTML/module.css?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 6,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.238Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/skin.css?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.238Z",
+  "url": "https://pu.ingham.org/Portals/PU/portal.css?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.239Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.239Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.240Z",
+  "url": "https://pu.ingham.org/WebResource.axd?d=Kev79fxE9m4WRShtlqpT_YX84rbrAw3bWf820caiU0r0a5pZPRic5P6bAJUPMYtOHFyLaqdwdbUWKjrC0&t=637109924440000000"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.240Z",
+  "url": "https://pu.ingham.org/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ead301a-2c07-4fc5-be19-f8423a34e117%3aea597d4b%3ab25378d2"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.240Z",
+  "url": "https://pu.ingham.org/js/dnn.modalpopup.js?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.241Z",
+  "url": "https://pu.ingham.org/js/dnncore.js?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.241Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/modernizr.custom.ingham.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.852Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/main.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-27T10:27:38.852Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/initWidgets.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "Set-Cookie",
+      "value": ".ASPXANONYMOUS=w76GxuFx1wEkAAAANTI4ZTk0MGUtOTRhMS00YTNmLTg1OWYtMDU3ODc2NTRjMTRj0; expires=Mon, 05-Jul-2021 21:07:34 GMT; path=/; HttpOnly\nASP.NET_SessionId=z23uconji5md5sgzioqii2cl; path=/; HttpOnly; SameSite=Lax\n.ASPXANONYMOUS=w76GxuFx1wEkAAAANTI4ZTk0MGUtOTRhMS00YTNmLTg1OWYtMDU3ODc2NTRjMTRj0; expires=Mon, 05-Jul-2021 21:07:34 GMT; path=/; HttpOnly\nASP.NET_SessionId=z23uconji5md5sgzioqii2cl; path=/; HttpOnly; SameSite=Lax\nlanguage=en-US; path=/; HttpOnly"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "45630"
+    }
+  ],
+  "id": 2,
   "redirectURL": null,
   "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T05:43:18.761Z",
-  "url": "http://pu.ingham.org/Home/CurrentBids"
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:38.853Z",
+  "url": "https://pu.ingham.org/Home/CurrentBids"
+}
+
+{
+  "bodySize": 3771,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:21:00 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"b39ac37cd81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "44927"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.168Z",
+  "url": "https://pu.ingham.org/Portals/_default/default.css?cdv=54"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:21:00 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"b39ac37cd81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "44927"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.170Z",
+  "url": "https://pu.ingham.org/Portals/_default/default.css?cdv=54"
+}
+
+{
+  "bodySize": 470,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 17:20:49 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ae77f6a8ab81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "470"
+    }
+  ],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.486Z",
+  "url": "https://pu.ingham.org/DesktopModules/DNNspot-Sitemap/module.css?cdv=54"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 17:20:49 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ae77f6a8ab81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "470"
+    }
+  ],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.486Z",
+  "url": "https://pu.ingham.org/DesktopModules/DNNspot-Sitemap/module.css?cdv=54"
+}
+
+{
+  "bodySize": 2064,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 17:23:53 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"7fe2c616ac81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2064"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.791Z",
+  "url": "https://pu.ingham.org/DesktopModules/HTML/module.css?cdv=54"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 17:23:53 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"7fe2c616ac81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2064"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.791Z",
+  "url": "https://pu.ingham.org/DesktopModules/HTML/module.css?cdv=54"
+}
+
+{
+  "bodySize": 3770,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Feb 2016 17:10:49 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"c0142126a669d11:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "71322"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.801Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/skin.css?cdv=54"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Feb 2016 17:10:49 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"c0142126a669d11:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "71322"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.805Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/skin.css?cdv=54"
+}
+
+The page at https://pu.ingham.org/Home/CurrentBids ran insecure content from http://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300italic,400italic,700italic,400,300,700.
+
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-27T10:27:39.806Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat%7COpen+Sans:300italic,400italic,700italic,400,300,700"
+}
+
+{
+  "bodySize": 5034,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:06:54 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"35afae3ecb81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "5034"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.853Z",
+  "url": "https://pu.ingham.org/Portals/PU/portal.css?cdv=54"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:06:54 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"35afae3ecb81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "5034"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:39.853Z",
+  "url": "https://pu.ingham.org/Portals/PU/portal.css?cdv=54"
+}
+
+{
+  "bodySize": 1332,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:27:40 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.050Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat%7COpen+Sans:300italic,400italic,700italic,400,300,700"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:27:40 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.051Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat%7COpen+Sans:300italic,400italic,700italic,400,300,700"
+}
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf.
+
+
+{
+  "bodySize": 2224,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 18:29:15 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"b6c78538b581cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2224"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.126Z",
+  "url": "https://pu.ingham.org/js/dnn.modalpopup.js?cdv=54"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 18:29:15 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"b6c78538b581cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2224"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.126Z",
+  "url": "https://pu.ingham.org/js/dnn.modalpopup.js?cdv=54"
+}
+
+{
+  "bodySize": 9567,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 18:29:12 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"50189236b581cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "9567"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.166Z",
+  "url": "https://pu.ingham.org/js/dnncore.js?cdv=54"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 18:29:12 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"50189236b581cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "9567"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.166Z",
+  "url": "https://pu.ingham.org/js/dnncore.js?cdv=54"
+}
+
+{
+  "bodySize": 16041,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"42e14f6fce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "210463"
+    }
+  ],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.189Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=54"
+}
+
+{
+  "bodySize": 16043,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:42 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"4c1a26ece81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "94840"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.190Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=54"
+}
+
+{
+  "bodySize": 15999,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 21:00:19 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 03 Dec 2019 22:54:04 GMT"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "23063"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.222Z",
+  "url": "https://pu.ingham.org/WebResource.axd?d=Kev79fxE9m4WRShtlqpT_YX84rbrAw3bWf820caiU0r0a5pZPRic5P6bAJUPMYtOHFyLaqdwdbUWKjrC0&t=637109924440000000"
+}
+
+{
+  "bodySize": 11081,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 May 2014 20:56:53 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"781ce834c96bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11081"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.438Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/modernizr.custom.ingham.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 May 2014 20:56:53 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"781ce834c96bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11081"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.439Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/modernizr.custom.ingham.js"
+}
+
+{
+  "bodySize": 1870,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Jan 2016 19:48:29 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"72f5a235724dd11:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1870"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.478Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/main.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Jan 2016 19:48:29 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"72f5a235724dd11:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1870"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.478Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/js/main.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 21:00:19 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 03 Dec 2019 22:54:04 GMT"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "23063"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.542Z",
+  "url": "https://pu.ingham.org/WebResource.axd?d=Kev79fxE9m4WRShtlqpT_YX84rbrAw3bWf820caiU0r0a5pZPRic5P6bAJUPMYtOHFyLaqdwdbUWKjrC0&t=637109924440000000"
+}
+
+{
+  "bodySize": 143829,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:27:36 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Jul 2013 00:00:00 GMT"
+    },
+    {
+      "name": "Vary",
+      "value": "User-Agent"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.722Z",
+  "url": "https://pu.ingham.org/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ead301a-2c07-4fc5-be19-f8423a34e117%3aea597d4b%3ab25378d2"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:27:36 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 17 Jul 2013 00:00:00 GMT"
+    },
+    {
+      "name": "Vary",
+      "value": "User-Agent"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-AspNet-Version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.723Z",
+  "url": "https://pu.ingham.org/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ead301a-2c07-4fc5-be19-f8423a34e117%3aea597d4b%3ab25378d2"
+}
+
+{
+  "bodySize": 1308,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:40 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"a45bd46cce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1308"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.750Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/initWidgets.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:40 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"a45bd46cce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:36 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1308"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:40.750Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/initWidgets.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:42 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"4c1a26ece81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "94840"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.148Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=54"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"42e14f6fce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:35 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "210463"
+    }
+  ],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.460Z",
+  "url": "https://pu.ingham.org/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=54"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.491Z",
+  "url": "https://ssl.google-analytics.com/ga.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.493Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/extras-bg.gif"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.493Z",
+  "url": "https://pu.ingham.org/Portals/_default/skins/ingham/images/ingham-logo.png"
+}
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf.
+
+
+The page at https://pu.ingham.org/Home/CurrentBids displayed insecure content from http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf.
+
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.544Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/patternbg.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.549Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/sprites/svg-sprite.svg"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.550Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/featured-bg.gif"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.550Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/social-media-bg.jpg"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.557Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/ingham-crest.gif"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.560Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.567Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.587Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.659Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-27T10:27:41.766Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/DotNetNukeAjaxShared.js?_=1619519261765"
+}
+
+{
+  "bodySize": 16660,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 29 May 2014 21:00:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ffb214817bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "16660"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.805Z",
+  "url": "https://pu.ingham.org/Portals/_default/skins/ingham/images/ingham-logo.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 29 May 2014 21:00:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ffb214817bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "16660"
+    }
+  ],
+  "id": 20,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.805Z",
+  "url": "https://pu.ingham.org/Portals/_default/skins/ingham/images/ingham-logo.png"
+}
+
+{
+  "bodySize": 46,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 29 May 2014 15:37:10 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"f3550db537bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "46"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.806Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/extras-bg.gif"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 29 May 2014 15:37:10 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"f3550db537bcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "46"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.806Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/extras-bg.gif"
+}
+
+{
+  "bodySize": 1097,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 20 May 2014 14:12:40 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ed7e348f3574cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1097"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.863Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/featured-bg.gif"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 20 May 2014 14:12:40 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"ed7e348f3574cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1097"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.863Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/featured-bg.gif"
+}
+
+{
+  "bodySize": 4721,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 12 May 2014 13:18:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"29a99ea1e46dcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4721"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.870Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/social-media-bg.jpg"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 12 May 2014 13:18:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"29a99ea1e46dcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4721"
+    }
+  ],
+  "id": 24,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.870Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/social-media-bg.jpg"
+}
+
+{
+  "bodySize": 2097,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 20 May 2014 14:12:37 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"aced8b8d3574cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2097"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.870Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/patternbg.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 20 May 2014 14:12:37 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"aced8b8d3574cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2097"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.870Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/patternbg.png"
+}
+
+{
+  "bodySize": 16053,
+  "contentType": "image/svg+xml",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/svg+xml"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 14 Apr 2015 19:12:31 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"54c4f0f4e676d01:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "50909"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.875Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/sprites/svg-sprite.svg"
+}
+
+{
+  "bodySize": 46274,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 09:25:41 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 11:25:41 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    },
+    {
+      "name": "Age",
+      "value": "3720"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.994Z",
+  "url": "https://ssl.google-analytics.com/ga.js"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 09:25:41 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 11:25:41 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    },
+    {
+      "name": "Age",
+      "value": "3720"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:41.994Z",
+  "url": "https://ssl.google-analytics.com/ga.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-27T10:27:42.020Z",
+  "url": "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=660134068&utmhn=pu.ingham.org&utmcs=UTF-8&utmsr=1024x768&utmvp=1600x4000&utmsc=32-bit&utmul=en-in&utmje=0&utmfl=-&utmdt=Current%20Bids&utmhid=902694718&utmr=-&utmp=%2FHome%2FCurrentBids&utmht=1619519262019&utmac=UA-30489415-1&utmcc=__utma%3D1.334182236.1619519262.1619519262.1619519262.1%3B%2B__utmz%3D1.1619519262.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1155802318&utmredir=1&utmu=qFAAAAAAAAAAAAAAAAAAAAAE~"
+}
+
+{
+  "bodySize": 2424,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "46392"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "496787"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.085Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 16057,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 12 May 2014 13:17:58 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"80ef1998e46dcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "26753"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.117Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/ingham-crest.gif"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Mon, 12 May 2014 13:17:58 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"80ef1998e46dcf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "26753"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.118Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/ingham-crest.gif"
+}
+
+{
+  "bodySize": 10100,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:41 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"babe836dce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "10100"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.119Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/DotNetNukeAjaxShared.js?_=1619519261765"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:41 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"babe836dce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "10100"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.119Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/DotNetNukeAjaxShared.js?_=1619519261765"
+}
+
+{
+  "headers": [
+    {
+      "name": "X-Requested-With",
+      "value": "XMLHttpRequest"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01"
+    },
+    {
+      "name": "Referer",
+      "value": "https://pu.ingham.org/Home/CurrentBids"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-27T10:27:42.121Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/widgets.js?_=1619519262121"
+}
+
+{
+  "bodySize": 35,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:42 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "35"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.125Z",
+  "url": "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=660134068&utmhn=pu.ingham.org&utmcs=UTF-8&utmsr=1024x768&utmvp=1600x4000&utmsc=32-bit&utmul=en-in&utmje=0&utmfl=-&utmdt=Current%20Bids&utmhid=902694718&utmr=-&utmp=%2FHome%2FCurrentBids&utmht=1619519262019&utmac=UA-30489415-1&utmcc=__utma%3D1.334182236.1619519262.1619519262.1619519262.1%3B%2B__utmz%3D1.1619519262.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1155802318&utmredir=1&utmu=qFAAAAAAAAAAAAAAAAAAAAAE~"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:42 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "35"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.125Z",
+  "url": "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=660134068&utmhn=pu.ingham.org&utmcs=UTF-8&utmsr=1024x768&utmvp=1600x4000&utmsc=32-bit&utmul=en-in&utmje=0&utmfl=-&utmdt=Current%20Bids&utmhid=902694718&utmr=-&utmp=%2FHome%2FCurrentBids&utmht=1619519262019&utmac=UA-30489415-1&utmcc=__utma%3D1.334182236.1619519262.1619519262.1619519262.1%3B%2B__utmz%3D1.1619519262.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1155802318&utmredir=1&utmu=qFAAAAAAAAAAAAAAAAAAAAAE~"
+}
+
+{
+  "bodySize": 24771,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 08:59:36 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 08:59:36 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:21 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "178086"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.161Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf"
+}
+
+{
+  "bodySize": 24443,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 17:37:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 17:37:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:22 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "233432"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.162Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 08:59:36 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 08:59:36 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:21 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "178086"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.163Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 17:37:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 17:37:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:09:22 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "233432"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.175Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf"
+}
+
+{
+  "bodySize": 28848,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 21 Apr 2021 07:08:32 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Thu, 21 Apr 2022 07:08:32 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:59 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "530350"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.365Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 21 Apr 2021 07:08:32 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Thu, 21 Apr 2022 07:08:32 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:59 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "530350"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.365Z",
+  "url": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf"
+}
+
+{
+  "contentType": "image/svg+xml",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "image/svg+xml"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 14 Apr 2015 19:12:31 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"54c4f0f4e676d01:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "50909"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.365Z",
+  "url": "https://pu.ingham.org/Portals/_default/Skins/ingham/images/sprites/svg-sprite.svg"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "46392"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "496787"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.377Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 11494,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:39 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"5c1e1f6cce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11494"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.456Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/widgets.js?_=1619519262121"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 06 Jun 2014 21:29:39 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"5c1e1f6cce81cf1:0\""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "X-Powered-By",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:27:38 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "11494"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:27:42.457Z",
+  "url": "https://pu.ingham.org/Resources/Shared/scripts/widgets.js?_=1619519262121"
 }
 

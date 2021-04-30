@@ -11,12 +11,12 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:00:06.635Z",
+  "time": "2021-04-27T10:45:28.945Z",
   "url": "http://www.nortonva.org/bids"
 }
 
 {
-  "bodySize": 3429,
+  "bodySize": 4877,
   "contentType": "text/html; charset=utf-8",
   "headers": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ockfjoc5hfb4yqfrswci4efl; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=k1noosgfgpl5livyegipv3ey; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:28 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T06:00:07.704Z",
+  "time": "2021-04-27T10:45:30.045Z",
   "url": "http://www.nortonva.org/bids"
 }
 
@@ -81,7 +81,7 @@
     },
     {
       "name": "Accept",
-      "value": "*/*"
+      "value": "text/css,*/*;q=0.1"
     },
     {
       "name": "Referer",
@@ -90,8 +90,8 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:00:07.708Z",
-  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+  "time": "2021-04-27T10:45:30.053Z",
+  "url": "http://www.nortonva.org/901781768.css"
 }
 
 {
@@ -111,8 +111,8 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T06:00:08.847Z",
-  "url": "http://www.nortonva.org/901781768.css"
+  "time": "2021-04-27T10:45:30.054Z",
+  "url": "http://www.nortonva.org/1295103047.css"
 }
 
 {
@@ -123,7 +123,7 @@
     },
     {
       "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
+      "value": "*/*"
     },
     {
       "name": "Referer",
@@ -132,8 +132,20 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T06:00:08.848Z",
-  "url": "http://www.nortonva.org/1295103047.css"
+  "time": "2021-04-27T10:45:30.055Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 4,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:45:30.287Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
 {
@@ -153,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T06:00:08.848Z",
+  "time": "2021-04-27T10:45:30.419Z",
   "url": "http://www.nortonva.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -174,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T06:00:08.849Z",
+  "time": "2021-04-27T10:45:30.420Z",
   "url": "http://www.nortonva.org/-2031684067.js"
 }
 
@@ -195,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T06:00:09.447Z",
+  "time": "2021-04-27T10:45:30.421Z",
   "url": "http://www.nortonva.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -216,8 +228,107 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T06:00:09.448Z",
+  "time": "2021-04-27T10:45:30.422Z",
   "url": "http://www.nortonva.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-27T10:45:30.775Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:45:31.120Z",
+  "url": "http://www.nortonva.org/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=k1noosgfgpl5livyegipv3ey; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:28 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "73510"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:45:31.121Z",
+  "url": "http://www.nortonva.org/bids"
 }
 
 {
@@ -238,7 +349,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:09 GMT"
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
     },
     {
       "name": "ETag",
@@ -266,93 +377,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
-  "id": 4,
+  "id": 3,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:10.382Z",
-  "url": "http://www.nortonva.org/1295103047.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    }
-  ],
-  "id": 9,
-  "method": "GET",
-  "time": "2021-04-17T06:00:10.663Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:09 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1738462330,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:09 GMT"
-    }
-  ],
-  "id": 4,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:10.998Z",
+  "time": "2021-04-27T10:45:31.128Z",
   "url": "http://www.nortonva.org/1295103047.css"
 }
 
@@ -374,7 +407,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:09 GMT"
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
     },
     {
       "name": "ETag",
@@ -402,179 +435,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:08 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:11.801Z",
-  "url": "http://www.nortonva.org/901781768.css"
-}
-
-{
-  "contentType": null,
-  "headers": [],
   "id": 2,
   "redirectURL": null,
-  "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T06:00:12.878Z",
-  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
-}
-
-{
-  "bodySize": 617,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:13.446Z",
-  "url": "http://www.nortonva.org/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:13.447Z",
-  "url": "http://www.nortonva.org/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "contentType": null,
-  "headers": [],
-  "id": 9,
-  "redirectURL": null,
-  "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T06:00:13.488Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+  "time": "2021-04-27T10:45:31.130Z",
+  "url": "http://www.nortonva.org/901781768.css"
 }
 
 {
@@ -635,7 +505,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
   "id": 7,
@@ -643,7 +513,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:13.914Z",
+  "time": "2021-04-27T10:45:31.134Z",
   "url": "http://www.nortonva.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -704,7 +574,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
   "id": 7,
@@ -712,12 +582,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:13.915Z",
+  "time": "2021-04-27T10:45:31.135Z",
   "url": "http://www.nortonva.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
 {
-  "bodySize": 34827,
+  "bodySize": 617,
   "contentType": "application/javascript",
   "headers": [
     {
@@ -734,7 +604,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -742,7 +612,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
+      "value": "\"0badb1ca073d31:0\",\" \""
     },
     {
       "name": "Vary",
@@ -774,20 +644,89 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:31 GMT"
     }
   ],
-  "id": 5,
+  "id": 8,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:14.059Z",
-  "url": "http://www.nortonva.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+  "time": "2021-04-27T10:45:31.489Z",
+  "url": "http://www.nortonva.org/Areas/Layout/Assets/Scripts/Search.js"
 }
 
 {
-  "bodySize": 54399,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:31 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:31.490Z",
+  "url": "http://www.nortonva.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 42193,
   "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
@@ -808,7 +747,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:12 GMT"
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
     },
     {
       "name": "ETag",
@@ -836,7 +775,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
   "id": 6,
@@ -844,86 +783,20 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:15.574Z",
+  "time": "2021-04-27T10:45:31.504Z",
   "url": "http://www.nortonva.org/-2031684067.js"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    }
-  ],
-  "id": 10,
-  "method": "GET",
-  "time": "2021-04-17T06:00:16.442Z",
-  "url": "http://www.nortonva.org/237693563.js"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ockfjoc5hfb4yqfrswci4efl; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:06 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "73510"
-    }
-  ],
-  "id": 1,
+  "contentType": null,
+  "headers": [],
+  "id": 9,
   "redirectURL": null,
   "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T06:00:16.756Z",
-  "url": "http://www.nortonva.org/bids"
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:45:31.631Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
@@ -943,7 +816,64 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:09 GMT"
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1738462330,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:31.864Z",
+  "url": "http://www.nortonva.org/1295103047.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
     },
     {
       "name": "ETag",
@@ -971,16 +901,147 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:08 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
-  "id": 3,
+  "id": 2,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:17.408Z",
+  "time": "2021-04-27T10:45:31.886Z",
   "url": "http://www.nortonva.org/901781768.css"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:45:30 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:32.215Z",
+  "url": "http://www.nortonva.org/-2031684067.js"
+}
+
+{
+  "bodySize": 42275,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:33.166Z",
+  "url": "http://www.nortonva.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
@@ -1040,7 +1101,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:29 GMT"
     }
   ],
   "id": 5,
@@ -1048,12 +1109,306 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:18.618Z",
+  "time": "2021-04-27T10:45:33.905Z",
   "url": "http://www.nortonva.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
-  "bodySize": 48808,
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.972Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.972Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3021"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.972Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.973Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3023"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 15,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.973Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3027"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 16,
+  "method": "GET",
+  "time": "2021-04-27T10:45:33.986Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3015"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.051Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3037"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 18,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.051Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3033"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.051Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3035"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.051Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3031"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.052Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 22,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.052Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3039"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.057Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3019"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-27T10:45:34.067Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3017"
+}
+
+{
+  "bodySize": 56315,
   "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
@@ -1074,7 +1429,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:16 GMT"
+      "value": "Tue, 04 May 2021 10:45:31 GMT"
     },
     {
       "name": "ETag",
@@ -1102,7 +1457,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:16 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:31 GMT"
     }
   ],
   "id": 10,
@@ -1110,363 +1465,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:18.809Z",
+  "time": "2021-04-27T10:45:34.273Z",
   "url": "http://www.nortonva.org/237693563.js"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:12 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:12 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:21.031Z",
-  "url": "http://www.nortonva.org/-2031684067.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 11,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.074Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 12,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.074Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3021"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 13,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.074Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 14,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.075Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3023"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 15,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.075Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3027"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 16,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.089Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3015"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 17,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.154Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3037"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 18,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.155Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3033"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 19,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.155Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3035"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 20,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.155Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3031"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 21,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.155Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 22,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.155Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3039"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 23,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.160Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3019"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 24,
-  "method": "GET",
-  "time": "2021-04-17T06:00:21.171Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3017"
 }
 
 {
@@ -1511,7 +1511,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1523,7 +1523,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.380Z",
+  "time": "2021-04-27T10:45:34.330Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3023"
 }
 
@@ -1568,7 +1568,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1580,12 +1580,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.380Z",
+  "time": "2021-04-27T10:45:34.331Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3023"
 }
 
 {
-  "bodySize": 554,
+  "bodySize": 2759,
   "contentType": "image/png",
   "headers": [
     {
@@ -1626,20 +1626,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "554"
+      "value": "2759"
     }
   ],
-  "id": 13,
+  "id": 11,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.389Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
+  "time": "2021-04-27T10:45:34.333Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
 }
 
 {
@@ -1683,20 +1683,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "554"
+      "value": "2759"
     }
   ],
-  "id": 13,
+  "id": 11,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.389Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
+  "time": "2021-04-27T10:45:34.334Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
 }
 
 {
@@ -1741,7 +1741,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1753,7 +1753,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.391Z",
+  "time": "2021-04-27T10:45:34.346Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3027"
 }
 
@@ -1798,7 +1798,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1810,8 +1810,66 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.391Z",
+  "time": "2021-04-27T10:45:34.347Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3027"
+}
+
+{
+  "bodySize": 554,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "554"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:34.350Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
 }
 
 {
@@ -1856,7 +1914,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1868,7 +1926,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.393Z",
+  "time": "2021-04-27T10:45:34.350Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3021"
 }
 
@@ -1913,7 +1971,64 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "554"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:34.351Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3025"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1925,66 +2040,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.393Z",
+  "time": "2021-04-27T10:45:34.351Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3021"
-}
-
-{
-  "bodySize": 644,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "2759"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:21.395Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
 }
 
 {
@@ -2029,7 +2086,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2041,7 +2098,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.690Z",
+  "time": "2021-04-27T10:45:34.710Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3015"
 }
 
@@ -2086,7 +2143,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2098,12 +2155,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.691Z",
+  "time": "2021-04-27T10:45:34.710Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3015"
 }
 
 {
-  "bodySize": 645,
+  "bodySize": 921,
   "contentType": "image/png",
   "headers": [
     {
@@ -2144,7 +2201,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2156,12 +2213,11 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.708Z",
+  "time": "2021-04-27T10:45:34.714Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3037"
 }
 
 {
-  "bodySize": 645,
   "contentType": "image/png",
   "headers": [
     {
@@ -2202,7 +2258,65 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "921"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:34.715Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3037"
+}
+
+{
+  "bodySize": 920,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2214,7 +2328,64 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.710Z",
+  "time": "2021-04-27T10:45:34.721Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3033"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "920"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:34.722Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3033"
 }
 
@@ -2260,7 +2431,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2272,7 +2443,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.713Z",
+  "time": "2021-04-27T10:45:34.727Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3035"
 }
 
@@ -2317,7 +2488,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2329,12 +2500,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.713Z",
+  "time": "2021-04-27T10:45:34.728Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3035"
 }
 
 {
-  "bodySize": 645,
+  "bodySize": 916,
   "contentType": "image/png",
   "headers": [
     {
@@ -2375,7 +2546,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2387,7 +2558,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:21.988Z",
+  "time": "2021-04-27T10:45:34.728Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3031"
 }
 
@@ -2432,250 +2603,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "2759"
+      "value": "916"
     }
   ],
-  "id": 11,
+  "id": 20,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:22.378Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3012"
-}
-
-{
-  "bodySize": 645,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "888"
-    }
-  ],
-  "id": 21,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:22.398Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "920"
-    }
-  ],
-  "id": 18,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:22.501Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3033"
-}
-
-{
-  "bodySize": 645,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "999"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:22.700Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3039"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "888"
-    }
-  ],
-  "id": 21,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:22.751Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
+  "time": "2021-04-27T10:45:34.728Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3031"
 }
 
 {
@@ -2720,7 +2661,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2732,7 +2673,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:22.818Z",
+  "time": "2021-04-27T10:45:35.102Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3019"
 }
 
@@ -2777,7 +2718,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2789,7 +2730,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:22.819Z",
+  "time": "2021-04-27T10:45:35.103Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3019"
 }
 
@@ -2835,7 +2776,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:22 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2847,7 +2788,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:23.072Z",
+  "time": "2021-04-27T10:45:35.104Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3017"
 }
 
@@ -2892,7 +2833,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:22 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2904,8 +2845,66 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:23.073Z",
+  "time": "2021-04-27T10:45:35.105Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3017"
+}
+
+{
+  "bodySize": 888,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "888"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:35.111Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
 }
 
 {
@@ -2949,7 +2948,65 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "888"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:35.111Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3029"
+}
+
+{
+  "bodySize": 999,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -2958,10 +3015,10 @@
   ],
   "id": 22,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:23.515Z",
+  "time": "2021-04-27T10:45:35.114Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3039"
 }
 
@@ -3006,77 +3063,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:20 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:34 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "921"
+      "value": "999"
     }
   ],
-  "id": 17,
+  "id": 22,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:24.056Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3037"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:21 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "916"
-    }
-  ],
-  "id": 20,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:24.992Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3031"
+  "time": "2021-04-27T10:45:35.115Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3039"
 }
 
 {
@@ -3100,7 +3100,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:00:16 GMT"
+      "value": "Tue, 04 May 2021 10:45:31 GMT"
     },
     {
       "name": "ETag",
@@ -3128,7 +3128,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:16 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:31 GMT"
     }
   ],
   "id": 10,
@@ -3136,7 +3136,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:38.160Z",
+  "time": "2021-04-27T10:45:38.339Z",
   "url": "http://www.nortonva.org/237693563.js"
 }
 
@@ -3157,7 +3157,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T06:00:38.186Z",
+  "time": "2021-04-27T10:45:38.365Z",
   "url": "http://www.nortonva.org/Toggle"
 }
 
@@ -3178,7 +3178,7 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T06:00:39.103Z",
+  "time": "2021-04-27T10:45:39.529Z",
   "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -3199,7 +3199,7 @@
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T06:00:39.104Z",
+  "time": "2021-04-27T10:45:39.529Z",
   "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3224,8 +3224,8 @@
   ],
   "id": 28,
   "method": "GET",
-  "time": "2021-04-17T06:00:39.126Z",
-  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639239125"
+  "time": "2021-04-27T10:45:39.551Z",
+  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520339551"
 }
 
 {
@@ -3249,8 +3249,8 @@
   ],
   "id": 29,
   "method": "GET",
-  "time": "2021-04-17T06:00:39.127Z",
-  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639239127"
+  "time": "2021-04-27T10:45:39.553Z",
+  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520339552"
 }
 
 {
@@ -3270,8 +3270,341 @@
   ],
   "id": 30,
   "method": "GET",
-  "time": "2021-04-17T06:00:39.192Z",
+  "time": "2021-04-27T10:45:39.617Z",
   "url": "http://fonts.googleapis.com/css?family=Exo:700,700italic,italic,regular%7CYesteryear:regular%7CZilla+Slab:500,700,700italic,italic,regular%7C"
+}
+
+{
+  "bodySize": 1895,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:39.862Z",
+  "url": "http://fonts.googleapis.com/css?family=Exo:700,700italic,italic,regular%7CYesteryear:regular%7CZilla+Slab:500,700,700italic,italic,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:39.863Z",
+  "url": "http://fonts.googleapis.com/css?family=Exo:700,700italic,italic,regular%7CYesteryear:regular%7CZilla+Slab:500,700,700italic,italic,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-27T10:45:39.889Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-27T10:45:39.894Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-27T10:45:39.897Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:39.936Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:39.936Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -3324,7 +3657,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
   "id": 29,
@@ -3332,8 +3665,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:39.774Z",
-  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639239127"
+  "time": "2021-04-27T10:45:39.937Z",
+  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520339552"
 }
 
 {
@@ -3385,7 +3718,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
   "id": 29,
@@ -3393,8 +3726,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:39.774Z",
-  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639239127"
+  "time": "2021-04-27T10:45:39.937Z",
+  "url": "http://www.nortonva.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520339552"
 }
 
 {
@@ -3447,7 +3780,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
   "id": 28,
@@ -3455,8 +3788,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.522Z",
-  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639239125"
+  "time": "2021-04-27T10:45:39.964Z",
+  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520339551"
 }
 
 {
@@ -3508,7 +3841,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
   "id": 28,
@@ -3516,8 +3849,590 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.523Z",
-  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639239125"
+  "time": "2021-04-27T10:45:39.964Z",
+  "url": "http://www.nortonva.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520339551"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-27T10:45:39.971Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 34198,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 22 Apr 2021 06:43:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 22 Apr 2022 06:43:07 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:52:44 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446553"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.170Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 22 Apr 2021 06:43:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 22 Apr 2022 06:43:07 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:52:44 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446553"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.214Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
+}
+
+{
+  "bodySize": 33246,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:45:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:51:56 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.215Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
+}
+
+{
+  "bodySize": 33947,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:45:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:52:33 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.215Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:45:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:51:56 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.235Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:45:40 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 01 Sep 2020 03:52:33 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.235Z",
+  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.363Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:40.364Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-27T10:45:40.369Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -3578,15 +4493,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
-  "id": 27,
+  "id": 35,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.733Z",
+  "time": "2021-04-27T10:45:40.769Z",
   "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3647,15 +4562,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
-  "id": 27,
+  "id": 35,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.734Z",
+  "time": "2021-04-27T10:45:40.769Z",
   "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3666,22 +4581,43 @@
       "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
       "name": "Accept",
       "value": "*/*"
+    }
+  ],
+  "id": 36,
+  "method": "GET",
+  "time": "2021-04-27T10:45:40.844Z",
+  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
       "name": "Referer",
       "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
-  "id": 31,
+  "id": 37,
   "method": "GET",
-  "time": "2021-04-17T06:00:40.737Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:45:40.844Z",
+  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
 }
 
 {
-  "bodySize": 39906,
+  "bodySize": 24592,
   "contentType": "application/javascript",
   "headers": [
     {
@@ -3698,7 +4634,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -3706,7 +4642,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
     },
     {
       "name": "Vary",
@@ -3738,16 +4674,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
-  "id": 26,
+  "id": 27,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.767Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:45:41.112Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -3767,7 +4703,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -3775,7 +4711,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
     },
     {
       "name": "Vary",
@@ -3807,21 +4743,21 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:39 GMT"
     }
   ],
-  "id": 26,
+  "id": 27,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:40.768Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:45:41.113Z",
+  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
-  "bodySize": 39906,
-  "contentType": "application/javascript",
+  "bodySize": 3361,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3829,15 +4765,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "value": "image/png"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -3845,11 +4777,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\"0a7ad6d3886cd1:0\",\" \""
     },
     {
       "name": "Server",
@@ -3877,20 +4805,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3361"
     }
   ],
-  "id": 31,
+  "id": 36,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:42.071Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:45:41.213Z",
+  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
 }
 
 {
-  "contentType": "application/javascript",
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3898,15 +4830,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "value": "image/png"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -3914,11 +4842,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\"0a7ad6d3886cd1:0\",\" \""
     },
     {
       "name": "Server",
@@ -3946,16 +4870,151 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3361"
     }
   ],
-  "id": 31,
+  "id": 36,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:42.071Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:45:41.213Z",
+  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
+}
+
+{
+  "bodySize": 6166,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"030c238217bcd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "6166"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:41.213Z",
+  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"030c238217bcd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "6166"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:41.214Z",
+  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
 }
 
 {
@@ -3973,31 +5032,10 @@
       "value": "http://www.nortonva.org/bids"
     }
   ],
-  "id": 32,
+  "id": 38,
   "method": "GET",
-  "time": "2021-04-17T06:00:42.076Z",
+  "time": "2021-04-27T10:45:41.214Z",
   "url": "http://www.nortonva.org/Assets/Styles/Print.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    }
-  ],
-  "id": 33,
-  "method": "GET",
-  "time": "2021-04-17T06:00:42.077Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -4058,15 +5096,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:41 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
     }
   ],
-  "id": 32,
+  "id": 38,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:43.087Z",
+  "time": "2021-04-27T10:45:41.574Z",
   "url": "http://www.nortonva.org/Assets/Styles/Print.css"
 }
 
@@ -4127,15 +5165,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:41 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
     }
   ],
-  "id": 32,
+  "id": 38,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:43.088Z",
+  "time": "2021-04-27T10:45:41.575Z",
   "url": "http://www.nortonva.org/Assets/Styles/Print.css"
 }
 
@@ -4154,1060 +5192,9 @@
       "value": "*/*"
     }
   ],
-  "id": 34,
-  "method": "GET",
-  "time": "2021-04-17T06:00:43.149Z",
-  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 35,
-  "method": "GET",
-  "time": "2021-04-17T06:00:43.149Z",
-  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
-}
-
-{
-  "bodySize": 557,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0a7ad6d3886cd1:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:42 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3361"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:43.471Z",
-  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
-}
-
-{
-  "bodySize": 557,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"030c238217bcd1:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:42 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "6166"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:43.472Z",
-  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
-}
-
-{
-  "bodySize": 24592,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:41 GMT"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:43.853Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:41 GMT"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:43.854Z",
-  "url": "http://www.nortonva.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 1895,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:00:44 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:44 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:44.387Z",
-  "url": "http://fonts.googleapis.com/css?family=Exo:700,700italic,italic,regular%7CYesteryear:regular%7CZilla+Slab:500,700,700italic,italic,regular%7C"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:00:44 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:44 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:44.388Z",
-  "url": "http://fonts.googleapis.com/css?family=Exo:700,700italic,italic,regular%7CYesteryear:regular%7CZilla+Slab:500,700,700italic,italic,regular%7C"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 36,
-  "method": "GET",
-  "time": "2021-04-17T06:00:44.416Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 37,
-  "method": "GET",
-  "time": "2021-04-17T06:00:44.420Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 38,
-  "method": "GET",
-  "time": "2021-04-17T06:00:44.424Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0a7ad6d3886cd1:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:42 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3361"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:44.479Z",
-  "url": "http://www.nortonva.org/Assets/Images/SiteToolsIconSprite.png"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"030c238217bcd1:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:42 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "6166"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:44.785Z",
-  "url": "http://www.nortonva.org/Assets/Images/SocialIconSprite.png"
-}
-
-{
-  "bodySize": 37510,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:51:56 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:49.769Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
-}
-
-{
-  "bodySize": 46014,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:52:33 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:49.771Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:51:56 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:49.808Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:52:33 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:49.851Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa6ZfeM_74wlPZtksIFajo6-A.ttf"
-}
-
-{
-  "bodySize": 34240,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:52:44 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:50.157Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:00:49 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 01 Sep 2020 03:52:44 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:00:50.253Z",
-  "url": "http://fonts.gstatic.com/s/zillaslab/v6/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
   "id": 39,
   "method": "GET",
-  "time": "2021-04-17T06:00:50.289Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3162"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.nortonva.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 40,
-  "method": "GET",
-  "time": "2021-04-17T06:00:50.289Z",
+  "time": "2021-04-27T10:45:41.619Z",
   "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 }
 
@@ -5226,10 +5213,31 @@
       "value": "http://www.nortonva.org/bids"
     }
   ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-27T10:45:41.662Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.nortonva.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
   "id": 41,
   "method": "GET",
-  "time": "2021-04-17T06:00:50.345Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
+  "time": "2021-04-27T10:45:41.670Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3162"
 }
 
 {
@@ -5245,12 +5253,12 @@
       "value": "42"
     }
   ],
-  "id": 40,
+  "id": 39,
   "redirectURL": null,
   "stage": "start",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:00:50.353Z",
+  "time": "2021-04-27T10:45:41.687Z",
   "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 }
 
@@ -5266,17 +5274,17 @@
       "value": "42"
     }
   ],
-  "id": 40,
+  "id": 39,
   "redirectURL": null,
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:00:50.353Z",
+  "time": "2021-04-27T10:45:41.688Z",
   "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 }
 
 {
-  "bodySize": 641,
+  "bodySize": 122649,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -5317,19 +5325,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
     },
     {
       "name": "Content-Length",
       "value": "415280"
     }
   ],
-  "id": 39,
+  "id": 41,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:50.608Z",
+  "time": "2021-04-27T10:45:42.039Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3162"
 }
 
@@ -5350,12 +5358,12 @@
   ],
   "id": 42,
   "method": "GET",
-  "time": "2021-04-17T06:00:50.794Z",
+  "time": "2021-04-27T10:45:42.142Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3121"
 }
 
 {
-  "bodySize": 640,
+  "bodySize": 6432,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -5396,7 +5404,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:50 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:41 GMT"
     },
     {
       "name": "Content-Length",
@@ -5408,13 +5416,13 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:51.105Z",
+  "time": "2021-04-27T10:45:42.493Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3121"
 }
 
 {
-  "bodySize": 42862,
-  "contentType": "application/x-javascript",
+  "bodySize": 13032,
+  "contentType": "application/javascript",
   "headers": [
     {
       "name": "Server",
@@ -5422,92 +5430,96 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:50 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:42 GMT"
     },
     {
       "name": "Content-Type",
-      "value": "application/x-javascript"
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
     },
     {
       "name": "Connection",
-      "value": "close"
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
     },
     {
       "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:00:50 GMT"
+      "value": "Wed, 28 Apr 2021 10:45:42 GMT"
     },
     {
       "name": "Cache-Control",
       "value": "max-age=86400"
     },
     {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Accept-Ranges",
+      "value": "bytes"
     }
   ],
-  "id": 41,
+  "id": 40,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:52.248Z",
+  "time": "2021-04-27T10:45:42.743Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
 {
-  "contentType": "application/x-javascript",
+  "contentType": "image/jpeg",
   "headers": [
     {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:50 GMT"
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
     },
     {
       "name": "Content-Type",
-      "value": "application/x-javascript"
+      "value": "image/jpeg"
     },
     {
-      "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
+      "name": "ETag",
+      "value": "\" \""
     },
     {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
     },
     {
-      "name": "Connection",
-      "value": "close"
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
     },
     {
-      "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:00:50 GMT"
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
-      "name": "Cache-Control",
-      "value": "max-age=86400"
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
     },
     {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:40 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "415280"
     }
   ],
   "id": 41,
@@ -5515,7 +5527,60 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:52.561Z",
+  "time": "2021-04-27T10:45:42.757Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3162"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:42 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:45:42 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:43.445Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
@@ -5536,8 +5601,8 @@
   ],
   "id": 43,
   "method": "GET",
-  "time": "2021-04-17T06:00:52.576Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=821344&h=11&m=30&s=52&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=b80eea31dc8f378c&_idts=1618639253&_idvc=1&_idn=0&_refts=0&_viewts=1618639253&send_image=1&cookie=1&res=1024x768"
+  "time": "2021-04-27T10:45:43.454Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=953965&h=16&m=15&s=43&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=a5f1df9a6b3ffa63&_idts=1619520343&_idvc=1&_idn=0&_refts=0&_viewts=1619520343&send_image=1&cookie=1&res=1024x768"
 }
 
 {
@@ -5550,7 +5615,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:43 GMT"
     },
     {
       "name": "Content-Type",
@@ -5574,8 +5639,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:53.240Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=821344&h=11&m=30&s=52&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=b80eea31dc8f378c&_idts=1618639253&_idvc=1&_idn=0&_refts=0&_viewts=1618639253&send_image=1&cookie=1&res=1024x768"
+  "time": "2021-04-27T10:45:43.915Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=953965&h=16&m=15&s=43&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=a5f1df9a6b3ffa63&_idts=1619520343&_idvc=1&_idn=0&_refts=0&_viewts=1619520343&send_image=1&cookie=1&res=1024x768"
 }
 
 {
@@ -5587,7 +5652,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:43 GMT"
     },
     {
       "name": "Content-Type",
@@ -5611,8 +5676,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:53.241Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=821344&h=11&m=30&s=52&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=b80eea31dc8f378c&_idts=1618639253&_idvc=1&_idn=0&_refts=0&_viewts=1618639253&send_image=1&cookie=1&res=1024x768"
+  "time": "2021-04-27T10:45:43.916Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=806&rec=1&r=953965&h=16&m=15&s=43&url=http%3A%2F%2Fwww.nortonva.org%2Fbids&_id=a5f1df9a6b3ffa63&_idts=1619520343&_idvc=1&_idn=0&_refts=0&_viewts=1619520343&send_image=1&cookie=1&res=1024x768"
 }
 
 {
@@ -5632,12 +5697,12 @@
   ],
   "id": 44,
   "method": "GET",
-  "time": "2021-04-17T06:00:56.800Z",
+  "time": "2021-04-27T10:45:48.144Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3160"
 }
 
 {
-  "bodySize": 4985,
+  "bodySize": 9329,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -5678,7 +5743,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:56 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:47 GMT"
     },
     {
       "name": "Content-Length",
@@ -5690,7 +5755,64 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:00:57.118Z",
+  "time": "2021-04-27T10:45:48.540Z",
+  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3160"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:47 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "503742"
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:45:50.871Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3160"
 }
 
@@ -5711,12 +5833,12 @@
   ],
   "id": 45,
   "method": "GET",
-  "time": "2021-04-17T06:01:02.804Z",
+  "time": "2021-04-27T10:45:54.149Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3161"
 }
 
 {
-  "bodySize": 2089,
+  "bodySize": 7881,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -5757,7 +5879,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:01:02 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:53 GMT"
     },
     {
       "name": "Content-Length",
@@ -5769,7 +5891,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:01:03.119Z",
+  "time": "2021-04-27T10:45:54.514Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3161"
 }
 
@@ -5814,121 +5936,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:49 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "415280"
-    }
-  ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:01:38.326Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3162"
-}
-
-{
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:56 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "503742"
-    }
-  ],
-  "id": 44,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:01:49.127Z",
-  "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3160"
-}
-
-{
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:01:02 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:53 GMT"
     },
     {
       "name": "Content-Length",
@@ -5940,7 +5948,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:01:52.275Z",
+  "time": "2021-04-27T10:45:57.403Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3161"
 }
 
@@ -5985,7 +5993,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:00:50 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:41 GMT"
     },
     {
       "name": "Content-Length",
@@ -5997,7 +6005,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:02:58.438Z",
+  "time": "2021-04-27T10:46:09.371Z",
   "url": "http://www.nortonva.org/ImageRepository/Document?documentID=3121"
 }
 

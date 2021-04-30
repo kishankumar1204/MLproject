@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:09:10.780Z",
+  "time": "2021-04-27T10:52:26.580Z",
   "url": "http://revelstoke.ca/bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=2sbhad2hqkrgmr03x3gicqds; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=dq1ynt1io4ypxx2dfdropo4r; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,11 +57,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "85856"
+      "value": "91847"
     }
   ],
   "id": 1,
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T06:09:11.899Z",
+  "time": "2021-04-27T10:52:27.799Z",
   "url": "http://revelstoke.ca/bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:09:11.905Z",
+  "time": "2021-04-27T10:52:27.807Z",
   "url": "http://revelstoke.ca/901781768.css"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T06:09:11.905Z",
+  "time": "2021-04-27T10:52:27.808Z",
   "url": "http://revelstoke.ca/-2111339376.css"
 }
 
@@ -132,7 +132,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T06:09:11.906Z",
+  "time": "2021-04-27T10:52:27.809Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:09:12.038Z",
+  "time": "2021-04-27T10:52:28.029Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.229Z",
+  "time": "2021-04-27T10:52:28.183Z",
   "url": "http://revelstoke.ca/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.230Z",
+  "time": "2021-04-27T10:52:28.184Z",
   "url": "http://revelstoke.ca/-2031684067.js"
 }
 
@@ -207,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.555Z",
+  "time": "2021-04-27T10:52:28.546Z",
   "url": "http://revelstoke.ca/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -228,7 +228,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.556Z",
+  "time": "2021-04-27T10:52:28.547Z",
   "url": "http://revelstoke.ca/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -249,66 +249,8 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.557Z",
+  "time": "2021-04-27T10:52:28.548Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "bodySize": 65988,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:12.848Z",
-  "url": "http://revelstoke.ca/901781768.css"
 }
 
 {
@@ -328,144 +270,8 @@
   ],
   "id": 10,
   "method": "GET",
-  "time": "2021-04-17T06:09:12.884Z",
+  "time": "2021-04-27T10:52:28.917Z",
   "url": "http://revelstoke.ca/Areas/Calendar/Assets/Scripts/Calendar.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://revelstoke.ca/bids"
-    }
-  ],
-  "id": 11,
-  "method": "GET",
-  "time": "2021-04-17T06:09:12.887Z",
-  "url": "http://revelstoke.ca/237693563.js"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=2sbhad2hqkrgmr03x3gicqds; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "85856"
-    }
-  ],
-  "id": 1,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T06:09:12.887Z",
-  "url": "http://revelstoke.ca/bids"
-}
-
-{
-  "bodySize": 74598,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "908821994,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:12.899Z",
-  "url": "http://revelstoke.ca/-2111339376.css"
 }
 
 {
@@ -526,7 +332,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 7,
@@ -534,7 +340,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.163Z",
+  "time": "2021-04-27T10:52:29.276Z",
   "url": "http://revelstoke.ca/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -595,7 +401,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 7,
@@ -603,13 +409,33 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.164Z",
+  "time": "2021-04-27T10:52:29.277Z",
   "url": "http://revelstoke.ca/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
 {
-  "bodySize": 34827,
-  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://revelstoke.ca/bids"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-27T10:52:29.292Z",
+  "url": "http://revelstoke.ca/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
@@ -617,27 +443,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "text/html; charset=utf-8"
     },
     {
       "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -649,7 +459,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=dq1ynt1io4ypxx2dfdropo4r; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -665,16 +475,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "91847"
     }
   ],
-  "id": 5,
+  "id": 1,
   "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:13.185Z",
-  "url": "http://revelstoke.ca/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:52:29.293Z",
+  "url": "http://revelstoke.ca/bids"
 }
 
 {
@@ -685,7 +499,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:09:13.206Z",
+  "time": "2021-04-27T10:52:29.443Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
@@ -747,7 +561,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 8,
@@ -755,7 +569,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.210Z",
+  "time": "2021-04-27T10:52:29.640Z",
   "url": "http://revelstoke.ca/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -816,7 +630,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 8,
@@ -824,127 +638,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.211Z",
+  "time": "2021-04-27T10:52:29.640Z",
   "url": "http://revelstoke.ca/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:13.212Z",
-  "url": "http://revelstoke.ca/-2031684067.js"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "908821994,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:13.221Z",
-  "url": "http://revelstoke.ca/-2111339376.css"
 }
 
 {
@@ -1005,7 +700,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 10,
@@ -1013,7 +708,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.463Z",
+  "time": "2021-04-27T10:52:29.668Z",
   "url": "http://revelstoke.ca/Areas/Calendar/Assets/Scripts/Calendar.js"
 }
 
@@ -1074,7 +769,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 10,
@@ -1082,11 +777,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.463Z",
+  "time": "2021-04-27T10:52:29.669Z",
   "url": "http://revelstoke.ca/Areas/Calendar/Assets/Scripts/Calendar.js"
 }
 
 {
+  "bodySize": 162927,
   "contentType": "text/css; charset=utf-8",
   "headers": [
     {
@@ -1103,7 +799,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
     },
     {
       "name": "ETag",
@@ -1131,20 +827,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
     }
   ],
   "id": 2,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.467Z",
+  "time": "2021-04-27T10:52:29.909Z",
   "url": "http://revelstoke.ca/901781768.css"
 }
 
 {
-  "bodySize": 45210,
+  "bodySize": 48808,
   "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
@@ -1165,7 +861,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 04 May 2021 10:52:29 GMT"
     },
     {
       "name": "ETag",
@@ -1193,7 +889,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:29 GMT"
     }
   ],
   "id": 11,
@@ -1201,8 +897,373 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.536Z",
+  "time": "2021-04-27T10:52:30.410Z",
   "url": "http://revelstoke.ca/237693563.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:30.661Z",
+  "url": "http://revelstoke.ca/901781768.css"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:52:29 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:29 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:31.149Z",
+  "url": "http://revelstoke.ca/237693563.js"
+}
+
+{
+  "bodySize": 118065,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "908821994,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:31.315Z",
+  "url": "http://revelstoke.ca/-2111339376.css"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:31.429Z",
+  "url": "http://revelstoke.ca/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 50370,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:31.581Z",
+  "url": "http://revelstoke.ca/-2031684067.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "908821994,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:27 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:32.058Z",
+  "url": "http://revelstoke.ca/-2111339376.css"
 }
 
 {
@@ -1262,7 +1323,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 5,
@@ -1270,7 +1331,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.799Z",
+  "time": "2021-04-27T10:52:32.529Z",
   "url": "http://revelstoke.ca/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -1295,7 +1356,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 04 May 2021 10:52:28 GMT"
     },
     {
       "name": "ETag",
@@ -1323,7 +1384,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:28 GMT"
     }
   ],
   "id": 6,
@@ -1331,69 +1392,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:13.848Z",
+  "time": "2021-04-27T10:52:33.421Z",
   "url": "http://revelstoke.ca/-2031684067.js"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:12 GMT"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:13.879Z",
-  "url": "http://revelstoke.ca/237693563.js"
 }
 
 {
@@ -1413,7 +1413,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.880Z",
+  "time": "2021-04-27T10:52:33.452Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2788"
 }
 
@@ -1434,7 +1434,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.886Z",
+  "time": "2021-04-27T10:52:33.458Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2810"
 }
 
@@ -1455,7 +1455,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.888Z",
+  "time": "2021-04-27T10:52:33.459Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2812"
 }
 
@@ -1476,7 +1476,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.899Z",
+  "time": "2021-04-27T10:52:33.471Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2808"
 }
 
@@ -1497,7 +1497,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.930Z",
+  "time": "2021-04-27T10:52:33.501Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/facebook1.png"
 }
 
@@ -1518,7 +1518,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.930Z",
+  "time": "2021-04-27T10:52:33.501Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/instagram1.png"
 }
 
@@ -1539,7 +1539,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.930Z",
+  "time": "2021-04-27T10:52:33.501Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/twitter1.png"
 }
 
@@ -1560,7 +1560,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.930Z",
+  "time": "2021-04-27T10:52:33.502Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/youtube1.png"
 }
 
@@ -1581,7 +1581,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.975Z",
+  "time": "2021-04-27T10:52:33.544Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Notify%20Me1.png"
 }
 
@@ -1602,7 +1602,7 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.976Z",
+  "time": "2021-04-27T10:52:33.544Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/SeeClickFix1.png"
 }
 
@@ -1623,7 +1623,7 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.976Z",
+  "time": "2021-04-27T10:52:33.544Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Contact%20Us1.png"
 }
 
@@ -1644,7 +1644,7 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.976Z",
+  "time": "2021-04-27T10:52:33.545Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3914"
 }
 
@@ -1665,7 +1665,7 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.976Z",
+  "time": "2021-04-27T10:52:33.545Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7485"
 }
 
@@ -1686,7 +1686,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T06:09:13.978Z",
+  "time": "2021-04-27T10:52:33.547Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2814"
 }
 
@@ -1707,7 +1707,7 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.001Z",
+  "time": "2021-04-27T10:52:33.592Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2945"
 }
 
@@ -1728,7 +1728,7 @@
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.003Z",
+  "time": "2021-04-27T10:52:33.594Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7623"
 }
 
@@ -1749,7 +1749,7 @@
   ],
   "id": 28,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.005Z",
+  "time": "2021-04-27T10:52:33.596Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7603"
 }
 
@@ -1770,7 +1770,7 @@
   ],
   "id": 29,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.007Z",
+  "time": "2021-04-27T10:52:33.597Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7602"
 }
 
@@ -1791,7 +1791,7 @@
   ],
   "id": 30,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.009Z",
+  "time": "2021-04-27T10:52:33.599Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3323"
 }
 
@@ -1812,7 +1812,7 @@
   ],
   "id": 31,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.033Z",
+  "time": "2021-04-27T10:52:33.622Z",
   "url": "http://revelstoke.ca/Toggle"
 }
 
@@ -1858,7 +1858,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1870,7 +1870,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.934Z",
+  "time": "2021-04-27T10:52:34.773Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2810"
 }
 
@@ -1915,7 +1915,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -1927,7 +1927,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.935Z",
+  "time": "2021-04-27T10:52:34.773Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2810"
 }
 
@@ -1948,7 +1948,7 @@
   ],
   "id": 32,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.935Z",
+  "time": "2021-04-27T10:52:34.774Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -1969,123 +1969,8 @@
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.935Z",
+  "time": "2021-04-27T10:52:34.774Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 5064,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "5064"
-    }
-  ],
-  "id": 12,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:14.936Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2788"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "5064"
-    }
-  ],
-  "id": 12,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:14.936Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2788"
 }
 
 {
@@ -2130,7 +2015,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2142,7 +2027,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.936Z",
+  "time": "2021-04-27T10:52:34.774Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2812"
 }
 
@@ -2187,7 +2072,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2199,7 +2084,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.936Z",
+  "time": "2021-04-27T10:52:34.774Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2812"
 }
 
@@ -2245,7 +2130,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2257,7 +2142,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.937Z",
+  "time": "2021-04-27T10:52:34.775Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2808"
 }
 
@@ -2302,7 +2187,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2314,7 +2199,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.937Z",
+  "time": "2021-04-27T10:52:34.775Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2808"
 }
 
@@ -2332,11 +2217,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:13 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:13 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2368,7 +2253,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2380,7 +2265,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.937Z",
+  "time": "2021-04-27T10:52:34.775Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/instagram1.png"
 }
 
@@ -2397,11 +2282,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:13 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:13 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2433,7 +2318,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2445,7 +2330,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.937Z",
+  "time": "2021-04-27T10:52:34.775Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/instagram1.png"
 }
 
@@ -2463,11 +2348,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:13 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:13 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2499,7 +2384,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2511,7 +2396,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.937Z",
+  "time": "2021-04-27T10:52:34.776Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/facebook1.png"
 }
 
@@ -2528,11 +2413,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:13 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:13 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2564,7 +2449,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2576,7 +2461,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.938Z",
+  "time": "2021-04-27T10:52:34.776Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/facebook1.png"
 }
 
@@ -2594,11 +2479,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2630,7 +2515,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2642,7 +2527,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.938Z",
+  "time": "2021-04-27T10:52:34.776Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/twitter1.png"
 }
 
@@ -2659,11 +2544,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2695,7 +2580,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2707,139 +2592,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.938Z",
+  "time": "2021-04-27T10:52:34.776Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/twitter1.png"
-}
-
-{
-  "bodySize": 426,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "426"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:14.938Z",
-  "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Contact%20Us1.png"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "426"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:14.939Z",
-  "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Contact%20Us1.png"
 }
 
 {
@@ -2856,11 +2610,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2892,7 +2646,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2904,7 +2658,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.939Z",
+  "time": "2021-04-27T10:52:34.777Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/youtube1.png"
 }
 
@@ -2921,11 +2675,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -2957,7 +2711,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -2969,7 +2723,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.939Z",
+  "time": "2021-04-27T10:52:34.777Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/youtube1.png"
 }
 
@@ -2987,11 +2741,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -3023,7 +2777,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -3035,7 +2789,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.940Z",
+  "time": "2021-04-27T10:52:34.777Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Notify%20Me1.png"
 }
 
@@ -3052,11 +2806,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -3088,7 +2842,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -3100,8 +2854,139 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.940Z",
+  "time": "2021-04-27T10:52:34.777Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Notify%20Me1.png"
+}
+
+{
+  "bodySize": 426,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "426"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:34.778Z",
+  "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Contact%20Us1.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "426"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:34.778Z",
+  "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/Contact%20Us1.png"
 }
 
 {
@@ -3118,11 +3003,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -3154,7 +3039,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -3166,7 +3051,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.940Z",
+  "time": "2021-04-27T10:52:34.778Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/SeeClickFix1.png"
 }
 
@@ -3183,11 +3068,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 06:09:14 GMT"
+      "value": "Wed, 05 May 2021 10:52:33 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 06:09:14 GMT"
+      "value": "Sat, 27 Mar 2021 10:52:33 GMT"
     },
     {
       "name": "ETag",
@@ -3219,7 +3104,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
@@ -3231,7 +3116,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.941Z",
+  "time": "2021-04-27T10:52:34.778Z",
   "url": "http://revelstoke.ca/ImageRepository/Path?filePath=/Documents/Content/136/188/SeeClickFix1.png"
 }
 
@@ -3277,7 +3162,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3289,7 +3174,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.941Z",
+  "time": "2021-04-27T10:52:34.778Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3914"
 }
 
@@ -3334,7 +3219,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3346,66 +3231,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.941Z",
+  "time": "2021-04-27T10:52:34.779Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3914"
-}
-
-{
-  "bodySize": 12225,
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "160617"
-    }
-  ],
-  "id": 25,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:14.941Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2814"
 }
 
 {
@@ -3450,7 +3277,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3462,7 +3289,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.942Z",
+  "time": "2021-04-27T10:52:34.779Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7485"
 }
 
@@ -3507,7 +3334,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3519,8 +3346,66 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.942Z",
+  "time": "2021-04-27T10:52:34.779Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7485"
+}
+
+{
+  "bodySize": 10777,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "160617"
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:34.779Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2814"
 }
 
 {
@@ -3565,7 +3450,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3577,7 +3462,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.942Z",
+  "time": "2021-04-27T10:52:34.780Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2945"
 }
 
@@ -3622,7 +3507,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3634,12 +3519,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.942Z",
+  "time": "2021-04-27T10:52:34.780Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2945"
 }
 
 {
-  "bodySize": 641,
+  "bodySize": 2089,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -3680,7 +3565,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3692,13 +3577,13 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.943Z",
+  "time": "2021-04-27T10:52:34.780Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7623"
 }
 
 {
-  "bodySize": 46977,
-  "contentType": "image/jpeg",
+  "bodySize": 5064,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3706,7 +3591,7 @@
     },
     {
       "name": "Content-Type",
-      "value": "image/jpeg"
+      "value": "image/png"
     },
     {
       "name": "ETag",
@@ -3738,25 +3623,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "376309"
+      "value": "5064"
     }
   ],
-  "id": 28,
+  "id": 12,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.943Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7603"
+  "time": "2021-04-27T10:52:34.780Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2788"
 }
 
 {
-  "bodySize": 15121,
-  "contentType": "image/jpeg",
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3764,7 +3648,7 @@
     },
     {
       "name": "Content-Type",
-      "value": "image/jpeg"
+      "value": "image/png"
     },
     {
       "name": "ETag",
@@ -3796,20 +3680,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:33 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "357049"
+      "value": "5064"
     }
   ],
-  "id": 29,
+  "id": 12,
   "redirectURL": null,
-  "stage": "start",
+  "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:14.943Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7602"
+  "time": "2021-04-27T10:52:34.780Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2788"
 }
 
 {
@@ -3833,8 +3717,8 @@
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T06:09:14.963Z",
-  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1618639754962"
+  "time": "2021-04-27T10:52:34.796Z",
+  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1619520754795"
 }
 
 {
@@ -3854,8 +3738,124 @@
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T06:09:15.044Z",
+  "time": "2021-04-27T10:52:34.877Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7COpen+Sans:600,700,regular%7CUbuntu:500,700,regular%7C"
+}
+
+{
+  "bodySize": 13673,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "376309"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:34.960Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7603"
+}
+
+{
+  "bodySize": 10777,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "357049"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:34.961Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7602"
 }
 
 {
@@ -3900,7 +3900,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3912,7 +3912,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.130Z",
+  "time": "2021-04-27T10:52:34.977Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3323"
 }
 
@@ -3957,7 +3957,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -3969,8 +3969,65 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.131Z",
+  "time": "2021-04-27T10:52:34.978Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=3323"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "177353"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.012Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7623"
 }
 
 {
@@ -3991,11 +4048,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     },
     {
       "name": "Cache-Control",
@@ -4035,7 +4092,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.234Z",
+  "time": "2021-04-27T10:52:35.262Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7COpen+Sans:600,700,regular%7CUbuntu:500,700,regular%7C"
 }
 
@@ -4056,11 +4113,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     },
     {
       "name": "Cache-Control",
@@ -4100,7 +4157,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.235Z",
+  "time": "2021-04-27T10:52:35.262Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7COpen+Sans:600,700,regular%7CUbuntu:500,700,regular%7C"
 }
 
@@ -4121,7 +4178,7 @@
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T06:09:15.265Z",
+  "time": "2021-04-27T10:52:35.283Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
@@ -4142,7 +4199,445 @@
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T06:09:15.268Z",
+  "time": "2021-04-27T10:52:35.288Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.349Z",
+  "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.349Z",
+  "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://revelstoke.ca/bids"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-27T10:52:35.352Z",
+  "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 28392,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "351254"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.554Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 28442,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "104072"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.560Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "351254"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.565Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "104072"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:35.633Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
@@ -4204,7 +4699,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     }
   ],
   "id": 32,
@@ -4212,7 +4707,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.330Z",
+  "time": "2021-04-27T10:52:36.276Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4273,7 +4768,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     }
   ],
   "id": 32,
@@ -4281,569 +4776,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.331Z",
+  "time": "2021-04-27T10:52:36.277Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://revelstoke.ca/bids"
-    }
-  ],
-  "id": 38,
-  "method": "GET",
-  "time": "2021-04-17T06:09:15.367Z",
-  "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 24592,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.418Z",
-  "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.419Z",
-  "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 47088,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 06:21:10 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 06:21:10 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "431285"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.621Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 06:21:10 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 06:21:10 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "431285"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.621Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "bodySize": 60995,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.622Z",
-  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1618639754962"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.622Z",
-  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1618639754962"
-}
-
-{
-  "bodySize": 46392,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 09:34:04 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 09:34:04 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "160511"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.629Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 09:34:04 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 09:34:04 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "160511"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:15.629Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
@@ -4904,7 +4838,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     }
   ],
   "id": 38,
@@ -4912,7 +4846,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.777Z",
+  "time": "2021-04-27T10:52:36.672Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4973,7 +4907,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
     }
   ],
   "id": 38,
@@ -4981,7 +4915,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:15.778Z",
+  "time": "2021-04-27T10:52:36.673Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -5002,8 +4936,131 @@
   ],
   "id": 39,
   "method": "GET",
-  "time": "2021-04-17T06:09:15.783Z",
+  "time": "2021-04-27T10:52:36.678Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 60757,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:37.018Z",
+  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1619520754795"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:52:35 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:52:37.019Z",
+  "url": "http://revelstoke.ca/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=7&menuContainerID=mainNav&_=1619520754795"
 }
 
 {
@@ -5064,7 +5121,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:36 GMT"
     }
   ],
   "id": 39,
@@ -5072,7 +5129,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:16.125Z",
+  "time": "2021-04-27T10:52:37.073Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -5133,7 +5190,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:36 GMT"
     }
   ],
   "id": 39,
@@ -5141,7 +5198,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:16.126Z",
+  "time": "2021-04-27T10:52:37.073Z",
   "url": "http://revelstoke.ca/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -5186,64 +5243,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "177353"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:09:16.804Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7623"
-}
-
-{
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
@@ -5255,7 +5255,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:17.254Z",
+  "time": "2021-04-27T10:52:38.656Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=2814"
 }
 
@@ -5300,20 +5300,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "357049"
+      "value": "376309"
     }
   ],
-  "id": 29,
+  "id": 28,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:17.702Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7602"
+  "time": "2021-04-27T10:52:44.810Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7603"
 }
 
 {
@@ -5357,20 +5357,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:34 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "376309"
+      "value": "357049"
     }
   ],
-  "id": 28,
+  "id": 29,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:17.902Z",
-  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7603"
+  "time": "2021-04-27T10:52:45.040Z",
+  "url": "http://revelstoke.ca/ImageRepository/Document?documentID=7602"
 }
 
 {
@@ -5390,7 +5390,7 @@
   ],
   "id": 40,
   "method": "GET",
-  "time": "2021-04-17T06:09:17.903Z",
+  "time": "2021-04-27T10:52:45.041Z",
   "url": "http://revelstoke.ca/Assets/Styles/Print.css"
 }
 
@@ -5452,7 +5452,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:17 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:44 GMT"
     }
   ],
   "id": 40,
@@ -5460,7 +5460,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:19.001Z",
+  "time": "2021-04-27T10:52:45.418Z",
   "url": "http://revelstoke.ca/Assets/Styles/Print.css"
 }
 
@@ -5521,7 +5521,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:17 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:44 GMT"
     }
   ],
   "id": 40,
@@ -5529,7 +5529,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:19.002Z",
+  "time": "2021-04-27T10:52:45.418Z",
   "url": "http://revelstoke.ca/Assets/Styles/Print.css"
 }
 
@@ -5550,7 +5550,7 @@
   ],
   "id": 41,
   "method": "GET",
-  "time": "2021-04-17T06:09:19.122Z",
+  "time": "2021-04-27T10:52:45.539Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
@@ -5571,7 +5571,7 @@
   ],
   "id": 42,
   "method": "GET",
-  "time": "2021-04-17T06:09:19.131Z",
+  "time": "2021-04-27T10:52:45.547Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=6536"
 }
 
@@ -5617,7 +5617,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:19 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:45 GMT"
     },
     {
       "name": "Content-Length",
@@ -5629,7 +5629,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:19.453Z",
+  "time": "2021-04-27T10:52:45.915Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=6536"
 }
 
@@ -5674,7 +5674,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:19 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:45 GMT"
     },
     {
       "name": "Content-Length",
@@ -5686,13 +5686,13 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:19.453Z",
+  "time": "2021-04-27T10:52:45.915Z",
   "url": "http://revelstoke.ca/ImageRepository/Document?documentID=6536"
 }
 
 {
-  "bodySize": 2896,
-  "contentType": "application/javascript",
+  "bodySize": 56050,
+  "contentType": "application/x-javascript",
   "headers": [
     {
       "name": "Server",
@@ -5700,39 +5700,39 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:19 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:46 GMT"
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Length",
-      "value": "56050"
+      "value": "application/x-javascript"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
     },
     {
       "name": "Connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "ETag",
-      "value": "\"59cdea4e-daf2\""
+      "value": "close"
     },
     {
       "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:09:19 GMT"
+      "value": "Wed, 28 Apr 2021 10:52:46 GMT"
     },
     {
       "name": "Cache-Control",
       "value": "max-age=86400"
     },
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "Strict-Transport-Security",
+      "value": "max-age=15768000"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
     }
   ],
   "id": 41,
@@ -5740,12 +5740,12 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:19.804Z",
+  "time": "2021-04-27T10:52:47.116Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
 {
-  "contentType": "application/javascript",
+  "contentType": "application/x-javascript",
   "headers": [
     {
       "name": "Server",
@@ -5753,39 +5753,39 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:09:19 GMT"
+      "value": "Tue, 27 Apr 2021 10:52:46 GMT"
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Length",
-      "value": "56050"
+      "value": "application/x-javascript"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
     },
     {
       "name": "Connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "ETag",
-      "value": "\"59cdea4e-daf2\""
+      "value": "close"
     },
     {
       "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:09:19 GMT"
+      "value": "Wed, 28 Apr 2021 10:52:46 GMT"
     },
     {
       "name": "Cache-Control",
       "value": "max-age=86400"
     },
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "Strict-Transport-Security",
+      "value": "max-age=15768000"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
     }
   ],
   "id": 41,
@@ -5793,7 +5793,38 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:09:20.411Z",
+  "time": "2021-04-27T10:52:47.118Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://revelstoke.ca/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 43,
+  "method": "GET",
+  "time": "2021-04-27T10:52:47.134Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=740&rec=1&r=690935&h=16&m=22&s=47&url=http%3A%2F%2Frevelstoke.ca%2Fbids&_id=2c9ca4405500082f&_idts=1619520767&_idvc=1&_idn=0&_refts=0&_viewts=1619520767&send_image=1&cookie=1&res=1024x768"
+}
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/MLproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/MLproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/MLproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/MLproject/extractor/extractor.coffee. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/MLproject/extractor/extractor.coffee. Domains, protocols and ports must match.
 

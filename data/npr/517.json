@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 1046,
+      "height": 1190,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "1046px",
+      "height": "1190px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -158,6 +158,22 @@
     "http://www.litchfield-park.org/twitter",
     "http://www.litchfield-park.org/facebook",
     "http://www.litchfield-park.org/instagram",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Facebook",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Twitter",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Pinterest",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Delicious",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Blogger",
+    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/LinkedIn",
+    "http://www.litchfield-park.org/",
+    "http://www.litchfield-park.org/MyAccount",
+    "http://www.litchfield-park.org/bids#PrinterFriendlye2af7c56-0d0a-4bef-bf8f-9c89e91ffd6e",
+    "http://www.litchfield-park.org/EmailPage",
+    "http://www.litchfield-park.org/directory.aspx",
+    "http://www.litchfield-park.org/rss.aspx",
+    "http://www.litchfield-park.org/SiteMap",
+    "http://www.litchfield-park.org/bids#TranslatePagee2af7c56-0d0a-4bef-bf8f-9c89e91ffd6e",
+    "http://www.litchfield-park.org/list.aspx",
+    "http://www.litchfield-park.org/DocumentCenter",
     "http://www.litchfield-park.org/Search/Results",
     "http://www.litchfield-park.org/",
     "http://www.litchfield-park.org/",
@@ -177,23 +193,7 @@
     "http://www.litchfield-park.org/accessibility.aspx",
     "http://www.litchfield-park.org/site/copyright",
     "http://www.litchfield-park.org/sitemap",
-    "http://civicplus.com/referral",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Facebook",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Twitter",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Pinterest",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Delicious",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/Blogger",
-    "http://www.litchfield-park.org/Layout/WidgetShare/ShareLink/LinkedIn",
-    "http://www.litchfield-park.org/",
-    "http://www.litchfield-park.org/MyAccount",
-    "http://www.litchfield-park.org/bids#PrinterFriendlye2af7c56-0d0a-4bef-bf8f-9c89e91ffd6e",
-    "http://www.litchfield-park.org/EmailPage",
-    "http://www.litchfield-park.org/directory.aspx",
-    "http://www.litchfield-park.org/rss.aspx",
-    "http://www.litchfield-park.org/SiteMap",
-    "http://www.litchfield-park.org/bids#TranslatePagee2af7c56-0d0a-4bef-bf8f-9c89e91ffd6e",
-    "http://www.litchfield-park.org/list.aspx",
-    "http://www.litchfield-park.org/DocumentCenter"
+    "http://civicplus.com/referral"
   ],
   "texts": [
     {
@@ -265,8 +265,8 @@
       "bound": {
         "height": 49,
         "left": 221,
-        "top": 10,
-        "width": 310
+        "top": 154,
+        "width": 322
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -296,7 +296,7 @@
         "id": "mainNavDepartments",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Departments</span>",
+      "html": "Departments",
       "path": [
         "div",
         "div",
@@ -414,9 +414,9 @@
     {
       "bound": {
         "height": 49,
-        "left": 531,
-        "top": 10,
-        "width": 279
+        "left": 543,
+        "top": 154,
+        "width": 274
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -446,7 +446,7 @@
         "id": "mainNavBusiness",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Business</span>",
+      "html": "Business",
       "path": [
         "div",
         "div",
@@ -564,9 +564,9 @@
     {
       "bound": {
         "height": 49,
-        "left": 810,
-        "top": 10,
-        "width": 301
+        "left": 817,
+        "top": 154,
+        "width": 297
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -596,7 +596,7 @@
         "id": "mainNavCommunity",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Community</span>",
+      "html": "Community",
       "path": [
         "div",
         "div",
@@ -714,9 +714,9 @@
     {
       "bound": {
         "height": 49,
-        "left": 1111,
-        "top": 10,
-        "width": 268
+        "left": 1114,
+        "top": 154,
+        "width": 265
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -746,7 +746,7 @@
         "id": "mainNavDiscover",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Discover</span>",
+      "html": "Discover",
       "path": [
         "div",
         "div",
@@ -865,7 +865,7 @@
       "bound": {
         "height": 18,
         "left": 497,
-        "top": 341,
+        "top": 485,
         "width": 803
       },
       "computed": {
@@ -986,7 +986,7 @@
       "bound": {
         "height": 52,
         "left": 512,
-        "top": 391,
+        "top": 535,
         "width": 662
       },
       "computed": {
@@ -1148,7 +1148,7 @@
       "bound": {
         "height": 38,
         "left": 512,
-        "top": 445,
+        "top": 589,
         "width": 664
       },
       "computed": {
@@ -1317,7 +1317,7 @@
       "bound": {
         "height": 22,
         "left": 512,
-        "top": 485,
+        "top": 629,
         "width": 664
       },
       "computed": {
@@ -1479,7 +1479,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 341,
+        "top": 485,
         "width": 257
       },
       "computed": {
@@ -1616,7 +1616,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 392,
+        "top": 536,
         "width": 257
       },
       "computed": {
@@ -1753,7 +1753,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 443,
+        "top": 587,
         "width": 257
       },
       "computed": {
@@ -1890,7 +1890,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 494,
+        "top": 638,
         "width": 257
       },
       "computed": {
@@ -2024,7 +2024,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 545,
+        "top": 689,
         "width": 257
       },
       "computed": {
@@ -2158,7 +2158,7 @@
       "bound": {
         "height": 49,
         "left": 213,
-        "top": 596,
+        "top": 740,
         "width": 257
       },
       "computed": {
@@ -2292,7 +2292,7 @@
       "bound": {
         "height": 60,
         "left": 214,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -2555,7 +2555,7 @@
       "bound": {
         "height": 60,
         "left": 414,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -2817,7 +2817,7 @@
       "bound": {
         "height": 60,
         "left": 614,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -3080,7 +3080,7 @@
       "bound": {
         "height": 60,
         "left": 800,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -3343,7 +3343,7 @@
       "bound": {
         "height": 60,
         "left": 1000,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -3605,7 +3605,7 @@
       "bound": {
         "height": 60,
         "left": 1200,
-        "top": 692,
+        "top": 836,
         "width": 186
       },
       "computed": {
@@ -3868,7 +3868,7 @@
       "bound": {
         "height": 222,
         "left": 214,
-        "top": 807,
+        "top": 951,
         "width": 1172
       },
       "computed": {
@@ -4110,7 +4110,7 @@
       "bound": {
         "height": 131,
         "left": 214,
-        "top": 96,
+        "top": 240,
         "width": 398
       },
       "computed": {
@@ -4233,7 +4233,7 @@
       "bound": {
         "height": 32,
         "left": 1206,
-        "top": 85,
+        "top": 229,
         "width": 34
       },
       "computed": {
@@ -4477,7 +4477,7 @@
       "bound": {
         "height": 33,
         "left": 1254,
-        "top": 85,
+        "top": 229,
         "width": 34
       },
       "computed": {
@@ -4720,7 +4720,7 @@
       "bound": {
         "height": 33,
         "left": 1302,
-        "top": 85,
+        "top": 229,
         "width": 34
       },
       "computed": {
@@ -4963,7 +4963,7 @@
       "bound": {
         "height": 33,
         "left": 863,
-        "top": 131,
+        "top": 275,
         "width": 35
       },
       "computed": {
@@ -5169,7 +5169,7 @@
       "bound": {
         "height": 33,
         "left": 930,
-        "top": 131,
+        "top": 275,
         "width": 35
       },
       "computed": {
@@ -5375,7 +5375,7 @@
       "bound": {
         "height": 17,
         "left": 1345,
-        "top": 147,
+        "top": 291,
         "width": 18
       },
       "computed": {
@@ -5580,7 +5580,7 @@
       "bound": {
         "height": 150,
         "left": 698,
-        "top": 808,
+        "top": 952,
         "width": 205
       },
       "computed": {
@@ -5813,84 +5813,6 @@
         }
       ],
       "src": "http://www.litchfield-park.org/ImageRepository/Document?documentID=8161"
-    },
-    {
-      "bound": {
-        "height": 305,
-        "left": -309,
-        "top": 0,
-        "width": 2218
-      },
-      "computed": {
-        "box-sizing": "border-box",
-        "cursor": "default",
-        "margin-left": "-1109px",
-        "position": "absolute",
-        "vertical-align": "middle"
-      },
-      "element": {
-        "classes": [
-          "bannerObject"
-        ],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "banner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject",
-            "external"
-          ],
-          "id": "bannerDivbanner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject"
-          ],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://www.litchfield-park.org/ImageRepository/Document?documentID=8130"
     }
   ]
 }

@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:06:52.294Z",
+  "time": "2021-04-27T10:49:51.829Z",
   "url": "http://www.dallasparks.org/bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=usqrk0uiii10ajumayefu0rt; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=rlb45eu2pyphmsqukxi3lhez; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T06:06:53.527Z",
+  "time": "2021-04-27T10:49:53.282Z",
   "url": "http://www.dallasparks.org/bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:06:53.533Z",
+  "time": "2021-04-27T10:49:53.289Z",
   "url": "http://www.dallasparks.org/901781768.css"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T06:06:53.534Z",
+  "time": "2021-04-27T10:49:53.290Z",
   "url": "http://www.dallasparks.org/-2041523841.css"
 }
 
@@ -132,7 +132,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T06:06:53.535Z",
+  "time": "2021-04-27T10:49:53.291Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:06:53.666Z",
+  "time": "2021-04-27T10:49:53.524Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T06:06:53.838Z",
+  "time": "2021-04-27T10:49:53.650Z",
   "url": "http://www.dallasparks.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T06:06:53.839Z",
+  "time": "2021-04-27T10:49:53.651Z",
   "url": "http://www.dallasparks.org/-2031684067.js"
 }
 
@@ -207,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T06:06:54.142Z",
+  "time": "2021-04-27T10:49:54.000Z",
   "url": "http://www.dallasparks.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -228,7 +228,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T06:06:54.143Z",
+  "time": "2021-04-27T10:49:54.001Z",
   "url": "http://www.dallasparks.org/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -249,7 +249,7 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T06:06:54.144Z",
+  "time": "2021-04-27T10:49:54.002Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
@@ -271,7 +271,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 04 May 2021 10:49:53 GMT"
     },
     {
       "name": "ETag",
@@ -299,7 +299,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
     }
   ],
   "id": 2,
@@ -307,7 +307,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:54.419Z",
+  "time": "2021-04-27T10:49:54.360Z",
   "url": "http://www.dallasparks.org/901781768.css"
 }
 
@@ -329,7 +329,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 04 May 2021 10:49:53 GMT"
     },
     {
       "name": "ETag",
@@ -357,7 +357,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
     }
   ],
   "id": 3,
@@ -365,107 +365,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:54.426Z",
+  "time": "2021-04-27T10:49:54.378Z",
   "url": "http://www.dallasparks.org/-2041523841.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    }
-  ],
-  "id": 10,
-  "method": "GET",
-  "time": "2021-04-17T06:06:54.452Z",
-  "url": "http://www.dallasparks.org/237693563.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    }
-  ],
-  "id": 11,
-  "method": "GET",
-  "time": "2021-04-17T06:06:54.453Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=usqrk0uiii10ajumayefu0rt; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "63333"
-    }
-  ],
-  "id": 1,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T06:06:54.453Z",
-  "url": "http://www.dallasparks.org/bids"
 }
 
 {
@@ -526,7 +427,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
     }
   ],
   "id": 7,
@@ -534,7 +435,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:54.769Z",
+  "time": "2021-04-27T10:49:54.700Z",
   "url": "http://www.dallasparks.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -595,7 +496,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
     }
   ],
   "id": 7,
@@ -603,209 +504,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:54.770Z",
+  "time": "2021-04-27T10:49:54.701Z",
   "url": "http://www.dallasparks.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "bodySize": 617,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:54.770Z",
-  "url": "http://www.dallasparks.org/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:54.771Z",
-  "url": "http://www.dallasparks.org/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:54.780Z",
-  "url": "http://www.dallasparks.org/-2031684067.js"
 }
 
 {
@@ -866,7 +566,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
     }
   ],
   "id": 5,
@@ -874,285 +574,12 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:54.787Z",
+  "time": "2021-04-27T10:49:54.716Z",
   "url": "http://www.dallasparks.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
-  "contentType": null,
-  "headers": [],
-  "id": 9,
-  "redirectURL": null,
-  "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T06:06:54.807Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "bodySize": 43786,
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:54.863Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
-}
-
-{
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:54.893Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:53 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:55.004Z",
-  "url": "http://www.dallasparks.org/901781768.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:53 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "869563339,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:55.026Z",
-  "url": "http://www.dallasparks.org/-2041523841.css"
-}
-
-{
-  "bodySize": 48808,
+  "bodySize": 42193,
   "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
@@ -1173,68 +600,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:55.405Z",
-  "url": "http://www.dallasparks.org/237693563.js"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:54 GMT"
+      "value": "Tue, 04 May 2021 10:49:54 GMT"
     },
     {
       "name": "ETag",
@@ -1262,16 +628,380 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
     }
   ],
   "id": 6,
   "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:54.721Z",
+  "url": "http://www.dallasparks.org/-2031684067.js"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:49:54.858Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.063Z",
+  "url": "http://www.dallasparks.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.407Z",
-  "url": "http://www.dallasparks.org/-2031684067.js"
+  "time": "2021-04-27T10:49:55.064Z",
+  "url": "http://www.dallasparks.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:49:53 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "869563339,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.088Z",
+  "url": "http://www.dallasparks.org/-2041523841.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:49:53 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.113Z",
+  "url": "http://www.dallasparks.org/901781768.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:49:55.202Z",
+  "url": "http://www.dallasparks.org/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-27T10:49:55.203Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=rlb45eu2pyphmsqukxi3lhez; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "63333"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:49:55.204Z",
+  "url": "http://www.dallasparks.org/bids"
 }
 
 {
@@ -1331,7 +1061,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:53 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
     }
   ],
   "id": 5,
@@ -1339,8 +1069,69 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.412Z",
+  "time": "2021-04-27T10:49:55.441Z",
   "url": "http://www.dallasparks.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:49:54 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:54 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.464Z",
+  "url": "http://www.dallasparks.org/-2031684067.js"
 }
 
 {
@@ -1360,7 +1151,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.469Z",
+  "time": "2021-04-27T10:49:55.489Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1381,7 +1172,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.470Z",
+  "time": "2021-04-27T10:49:55.489Z",
   "url": "http://www.dallasparks.org/Common/Images/AlertCenter/alertBarBlink.svg"
 }
 
@@ -1403,11 +1194,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Cache-Control",
@@ -1447,7 +1238,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.621Z",
+  "time": "2021-04-27T10:49:55.724Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1468,11 +1259,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Cache-Control",
@@ -1512,7 +1303,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.621Z",
+  "time": "2021-04-27T10:49:55.724Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1533,7 +1324,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.638Z",
+  "time": "2021-04-27T10:49:55.739Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7156"
 }
 
@@ -1554,7 +1345,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.639Z",
+  "time": "2021-04-27T10:49:55.739Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7167"
 }
 
@@ -1575,7 +1366,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.639Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7163"
 }
 
@@ -1596,7 +1387,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.639Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7165"
 }
 
@@ -1617,7 +1408,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7161"
 }
 
@@ -1638,7 +1429,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7182"
 }
 
@@ -1659,7 +1450,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7169"
 }
 
@@ -1680,7 +1471,7 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.740Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7173"
 }
 
@@ -1701,7 +1492,7 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.741Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7171"
 }
 
@@ -1722,7 +1513,7 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.640Z",
+  "time": "2021-04-27T10:49:55.741Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7175"
 }
 
@@ -1743,7 +1534,7 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.641Z",
+  "time": "2021-04-27T10:49:55.741Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7405"
 }
 
@@ -1764,7 +1555,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.641Z",
+  "time": "2021-04-27T10:49:55.741Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7408"
 }
 
@@ -1785,7 +1576,7 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.641Z",
+  "time": "2021-04-27T10:49:55.741Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7178"
 }
 
@@ -1806,8 +1597,86 @@
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T06:06:55.649Z",
+  "time": "2021-04-27T10:49:55.749Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
+}
+
+{
+  "bodySize": 43947,
+  "contentType": "application/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.858Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
 }
 
 {
@@ -1860,7 +1729,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -1872,7 +1741,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.778Z",
+  "time": "2021-04-27T10:49:55.858Z",
   "url": "http://www.dallasparks.org/Common/Images/AlertCenter/alertBarBlink.svg"
 }
 
@@ -1925,7 +1794,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -1937,8 +1806,147 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.779Z",
+  "time": "2021-04-27T10:49:55.858Z",
   "url": "http://www.dallasparks.org/Common/Images/AlertCenter/alertBarBlink.svg"
+}
+
+{
+  "contentType": "application/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.955Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-108246780-1"
+}
+
+{
+  "bodySize": 45210,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:49:55 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:55.958Z",
+  "url": "http://www.dallasparks.org/237693563.js"
 }
 
 {
@@ -1971,11 +1979,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:38 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+      "value": "Wed, 27 Apr 2022 10:46:38 GMT"
     },
     {
       "name": "Last-Modified",
@@ -1999,7 +2007,7 @@
     },
     {
       "name": "Age",
-      "value": "805"
+      "value": "197"
     }
   ],
   "id": 27,
@@ -2007,7 +2015,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.810Z",
+  "time": "2021-04-27T10:49:56.038Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
 }
 
@@ -2040,11 +2048,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:38 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+      "value": "Wed, 27 Apr 2022 10:46:38 GMT"
     },
     {
       "name": "Last-Modified",
@@ -2068,7 +2076,7 @@
     },
     {
       "name": "Age",
-      "value": "805"
+      "value": "197"
     }
   ],
   "id": 27,
@@ -2076,12 +2084,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.811Z",
+  "time": "2021-04-27T10:49:56.044Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
 }
 
 {
-  "bodySize": 644,
+  "bodySize": 369,
   "contentType": "image/png",
   "headers": [
     {
@@ -2122,20 +2130,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "2650"
+      "value": "369"
     }
   ],
-  "id": 14,
+  "id": 16,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.933Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7156"
+  "time": "2021-04-27T10:49:56.095Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7163"
 }
 
 {
@@ -2179,20 +2187,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "2650"
+      "value": "369"
     }
   ],
-  "id": 14,
+  "id": 16,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.934Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7156"
+  "time": "2021-04-27T10:49:56.095Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7163"
 }
 
 {
@@ -2237,7 +2245,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2249,7 +2257,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.936Z",
+  "time": "2021-04-27T10:49:56.101Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7167"
 }
 
@@ -2294,7 +2302,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2306,7 +2314,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.936Z",
+  "time": "2021-04-27T10:49:56.102Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7167"
 }
 
@@ -2352,7 +2360,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2364,7 +2372,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.946Z",
+  "time": "2021-04-27T10:49:56.114Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7165"
 }
 
@@ -2409,7 +2417,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2421,12 +2429,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.946Z",
+  "time": "2021-04-27T10:49:56.115Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7165"
 }
 
 {
-  "bodySize": 369,
+  "bodySize": 2650,
   "contentType": "image/png",
   "headers": [
     {
@@ -2467,20 +2475,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "369"
+      "value": "2650"
     }
   ],
-  "id": 16,
+  "id": 14,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.947Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7163"
+  "time": "2021-04-27T10:49:56.115Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7156"
 }
 
 {
@@ -2524,20 +2532,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "369"
+      "value": "2650"
     }
   ],
-  "id": 16,
+  "id": 14,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:55.948Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7163"
+  "time": "2021-04-27T10:49:56.116Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7156"
 }
 
 {
@@ -2582,7 +2590,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2594,7 +2602,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.087Z",
+  "time": "2021-04-27T10:49:56.209Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7161"
 }
 
@@ -2639,7 +2647,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2651,7 +2659,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.088Z",
+  "time": "2021-04-27T10:49:56.210Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7161"
 }
 
@@ -2697,7 +2705,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2709,7 +2717,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.234Z",
+  "time": "2021-04-27T10:49:56.441Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7182"
 }
 
@@ -2754,7 +2762,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2766,7 +2774,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.234Z",
+  "time": "2021-04-27T10:49:56.441Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7182"
 }
 
@@ -2812,7 +2820,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2824,7 +2832,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.240Z",
+  "time": "2021-04-27T10:49:56.450Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7169"
 }
 
@@ -2869,7 +2877,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2881,7 +2889,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.240Z",
+  "time": "2021-04-27T10:49:56.451Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7169"
 }
 
@@ -2927,7 +2935,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2939,7 +2947,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.259Z",
+  "time": "2021-04-27T10:49:56.481Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7173"
 }
 
@@ -2984,7 +2992,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -2996,7 +3004,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.260Z",
+  "time": "2021-04-27T10:49:56.481Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7173"
 }
 
@@ -3042,7 +3050,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -3054,7 +3062,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.262Z",
+  "time": "2021-04-27T10:49:56.483Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7171"
 }
 
@@ -3099,7 +3107,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
     },
     {
       "name": "Content-Length",
@@ -3111,174 +3119,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:56.263Z",
+  "time": "2021-04-27T10:49:56.483Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7171"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:06:54 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:54 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:56.317Z",
-  "url": "http://www.dallasparks.org/237693563.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 28,
-  "method": "GET",
-  "time": "2021-04-17T06:06:56.338Z",
-  "url": "http://www.dallasparks.org/Toggle"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 29,
-  "method": "GET",
-  "time": "2021-04-17T06:06:57.231Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 30,
-  "method": "GET",
-  "time": "2021-04-17T06:06:57.231Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    }
-  ],
-  "id": 31,
-  "method": "GET",
-  "time": "2021-04-17T06:06:57.233Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 32,
-  "method": "GET",
-  "time": "2021-04-17T06:06:57.237Z",
-  "url": "http://www.dallasparks.org/Assets/Images/GoogleTranslate.gif"
 }
 
 {
@@ -3323,7 +3165,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3335,7 +3177,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.237Z",
+  "time": "2021-04-27T10:49:56.577Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7175"
 }
 
@@ -3380,7 +3222,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3392,7 +3234,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.238Z",
+  "time": "2021-04-27T10:49:56.578Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7175"
 }
 
@@ -3438,7 +3280,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3450,7 +3292,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.238Z",
+  "time": "2021-04-27T10:49:56.803Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7405"
 }
 
@@ -3495,7 +3337,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3507,123 +3349,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.238Z",
+  "time": "2021-04-27T10:49:56.804Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7405"
-}
-
-{
-  "bodySize": 731,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "731"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.239Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7178"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "731"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.239Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7178"
 }
 
 {
@@ -3668,7 +3395,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3680,7 +3407,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.239Z",
+  "time": "2021-04-27T10:49:56.814Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7408"
 }
 
@@ -3725,7 +3452,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:55 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
     },
     {
       "name": "Content-Length",
@@ -3737,8 +3464,289 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.240Z",
+  "time": "2021-04-27T10:49:56.815Z",
   "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7408"
+}
+
+{
+  "bodySize": 731,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "731"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:56.855Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7178"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:56 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "731"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:49:56.856Z",
+  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7178"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:49:55 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:49:55 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:02.520Z",
+  "url": "http://www.dallasparks.org/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-27T10:50:02.544Z",
+  "url": "http://www.dallasparks.org/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-27T10:50:03.654Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-27T10:50:03.654Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-27T10:50:03.656Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-27T10:50:03.659Z",
+  "url": "http://www.dallasparks.org/Assets/Images/GoogleTranslate.gif"
 }
 
 {
@@ -3758,7 +3766,7 @@
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.268Z",
+  "time": "2021-04-27T10:50:03.684Z",
   "url": "https://www.google-analytics.com/analytics.js"
 }
 
@@ -3783,8 +3791,8 @@
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.291Z",
-  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1618639617290"
+  "time": "2021-04-27T10:50:03.707Z",
+  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1619520603707"
 }
 
 {
@@ -3808,8 +3816,8 @@
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.293Z",
-  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1618639617292"
+  "time": "2021-04-27T10:50:03.708Z",
+  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1619520603708"
 }
 
 {
@@ -3829,7 +3837,7 @@
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.405Z",
+  "time": "2021-04-27T10:50:03.799Z",
   "url": "http://fonts.googleapis.com/css?family=Exo:700,regular%7CFredoka+One:regular%7CHeebo:regular%7CMontserrat:700,regular%7CPoppins:500,600,700,italic%7C"
 }
 
@@ -3851,11 +3859,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3895,7 +3903,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.484Z",
+  "time": "2021-04-27T10:50:03.902Z",
   "url": "http://fonts.googleapis.com/css?family=Exo:700,regular%7CFredoka+One:regular%7CHeebo:regular%7CMontserrat:700,regular%7CPoppins:500,600,700,italic%7C"
 }
 
@@ -3916,11 +3924,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3960,7 +3968,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.484Z",
+  "time": "2021-04-27T10:50:03.902Z",
   "url": "http://fonts.googleapis.com/css?family=Exo:700,regular%7CFredoka+One:regular%7CHeebo:regular%7CMontserrat:700,regular%7CPoppins:500,600,700,italic%7C"
 }
 
@@ -3981,7 +3989,7 @@
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.511Z",
+  "time": "2021-04-27T10:50:03.952Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
 }
 
@@ -4002,7 +4010,7 @@
   ],
   "id": 38,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.515Z",
+  "time": "2021-04-27T10:50:03.957Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
 }
 
@@ -4023,7 +4031,7 @@
   ],
   "id": 39,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.520Z",
+  "time": "2021-04-27T10:50:03.961Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
 }
 
@@ -4044,147 +4052,8 @@
   ],
   "id": 40,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.539Z",
+  "time": "2021-04-27T10:50:03.980Z",
   "url": "http://fonts.gstatic.com/s/heebo/v10/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf"
-}
-
-{
-  "bodySize": 24592,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.584Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.584Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -4237,7 +4106,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -4249,7 +4118,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.585Z",
+  "time": "2021-04-27T10:50:04.025Z",
   "url": "http://www.dallasparks.org/Assets/Images/GoogleTranslate.gif"
 }
 
@@ -4302,7 +4171,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -4314,8 +4183,1323 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.585Z",
+  "time": "2021-04-27T10:50:04.026Z",
   "url": "http://www.dallasparks.org/Assets/Images/GoogleTranslate.gif"
+}
+
+{
+  "bodySize": 15804,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 22 Apr 2021 06:34:42 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 22 Apr 2022 06:34:42 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "447322"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.078Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Thu, 22 Apr 2021 06:34:42 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 22 Apr 2022 06:34:42 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "447322"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.079Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 43089,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:05:05 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 12:05:05 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    },
+    {
+      "name": "Age",
+      "value": "2699"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.079Z",
+  "url": "https://www.google-analytics.com/analytics.js"
+}
+
+{
+  "bodySize": 2126,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.105Z",
+  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1619520603708"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.106Z",
+  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1619520603708"
+}
+
+{
+  "bodySize": 16032,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 06:55:41 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 06:55:41 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "359663"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.108Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 06:55:41 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 06:55:41 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "359663"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.109Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 48977,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.109Z",
+  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1619520603707"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.109Z",
+  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1619520603707"
+}
+
+{
+  "bodySize": 16092,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 17:21:17 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 17:21:17 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "62927"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.170Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 17:21:17 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 17:21:17 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "62927"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.170Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:05:05 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 12:05:05 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    },
+    {
+      "name": "Age",
+      "value": "2699"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.170Z",
+  "url": "https://www.google-analytics.com/analytics.js"
+}
+
+{
+  "bodySize": 18824,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:50:04 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 02 Feb 2021 19:25:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.170Z",
+  "url": "http://fonts.gstatic.com/s/heebo/v10/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:50:04 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 02 Feb 2021 19:25:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.171Z",
+  "url": "http://fonts.gstatic.com/s/heebo/v10/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 41,
+  "method": "POST",
+  "time": "2021-04-27T10:50:04.241Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1986305065&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1202313500&gjid=1279656829&cid=920668167.1619520604&tid=UA-108246780-1&_gid=1601797971.1619520604&_r=1&gtm=2ou4e1&z=1439619389"
+}
+
+{
+  "bodySize": 2,
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.364Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1986305065&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1202313500&gjid=1279656829&cid=920668167.1619520604&tid=UA-108246780-1&_gid=1601797971.1619520604&_r=1&gtm=2ou4e1&z=1439619389"
+}
+
+{
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.365Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=1986305065&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1202313500&gjid=1279656829&cid=920668167.1619520604&tid=UA-108246780-1&_gid=1601797971.1619520604&_r=1&gtm=2ou4e1&z=1439619389"
+}
+
+{
+  "headers": [
+    {
+      "name": "Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 42,
+  "method": "POST",
+  "time": "2021-04-27T10:50:04.366Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-108246780-1&cid=920668167.1619520604&jid=1202313500&gjid=1279656829&_gid=1601797971.1619520604&_u=IEBAAUAAAAAAAC~&z=1122864024"
+}
+
+{
+  "bodySize": 13032,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.501Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "bodySize": 1,
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.907Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-108246780-1&cid=920668167.1619520604&jid=1202313500&gjid=1279656829&_gid=1601797971.1619520604&_u=IEBAAUAAAAAAAC~&z=1122864024"
+}
+
+{
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.dallasparks.org"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:04.908Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-108246780-1&cid=920668167.1619520604&jid=1202313500&gjid=1279656829&_gid=1601797971.1619520604&_u=IEBAAUAAAAAAAC~&z=1122864024"
 }
 
 {
@@ -4376,7 +5560,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     }
   ],
   "id": 29,
@@ -4384,7 +5568,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.585Z",
+  "time": "2021-04-27T10:50:05.259Z",
   "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4445,7 +5629,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     }
   ],
   "id": 29,
@@ -4453,987 +5637,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.586Z",
+  "time": "2021-04-27T10:50:05.260Z",
   "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 15804,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "830"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.586Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "830"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.586Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 48759,
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:04:58 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 08:04:58 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=7200"
-    },
-    {
-      "name": "Age",
-      "value": "119"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.587Z",
-  "url": "https://www.google-analytics.com/analytics.js"
-}
-
-{
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:04:58 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 08:04:58 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=7200"
-    },
-    {
-      "name": "Age",
-      "value": "119"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.587Z",
-  "url": "https://www.google-analytics.com/analytics.js"
-}
-
-{
-  "bodySize": 16032,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "798"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.645Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "798"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.645Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 16092,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "830"
-    }
-  ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.646Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "830"
-    }
-  ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.646Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 2126,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.646Z",
-  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1618639617292"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.646Z",
-  "url": "http://www.dallasparks.org/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=secondaryNav&_=1618639617292"
-}
-
-{
-  "bodySize": 48123,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.649Z",
-  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1618639617290"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:56 GMT"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.650Z",
-  "url": "http://www.dallasparks.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=17&menuContainerID=mainNav&_=1618639617290"
-}
-
-{
-  "bodySize": 18824,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:06:57 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 02 Feb 2021 19:25:24 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 40,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.655Z",
-  "url": "http://fonts.gstatic.com/s/heebo/v10/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:06:57 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 02 Feb 2021 19:25:24 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 40,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.655Z",
-  "url": "http://fonts.gstatic.com/s/heebo/v10/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    }
-  ],
-  "id": 41,
-  "method": "GET",
-  "time": "2021-04-17T06:06:57.656Z",
-  "url": "http://www.dallasparks.org/Assets/Styles/Print.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Content-Length",
-      "value": "0"
-    }
-  ],
-  "id": 42,
-  "method": "POST",
-  "time": "2021-04-17T06:06:57.716Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1938662150&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1851216695&gjid=216015161&cid=1880378139.1618639618&tid=UA-108246780-1&_gid=1820829136.1618639618&_r=1&gtm=2ou472&z=920122552"
 }
 
 {
@@ -5453,154 +5658,207 @@
   ],
   "id": 43,
   "method": "GET",
-  "time": "2021-04-17T06:06:57.738Z",
+  "time": "2021-04-27T10:50:05.263Z",
   "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
-  "bodySize": 2,
-  "contentType": "text/plain",
+  "bodySize": 24592,
+  "contentType": "application/javascript",
   "headers": [
     {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
       "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
     },
     {
       "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
       "value": "nosniff"
     },
     {
-      "name": "Content-Type",
-      "value": "text/plain"
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
     },
     {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
     },
     {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "2"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     }
   ],
-  "id": 42,
+  "id": 30,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.794Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1938662150&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1851216695&gjid=216015161&cid=1880378139.1618639618&tid=UA-108246780-1&_gid=1820829136.1618639618&_r=1&gtm=2ou472&z=920122552"
+  "time": "2021-04-27T10:50:05.318Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
-  "contentType": "text/plain",
+  "contentType": "application/javascript",
   "headers": [
     {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
       "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
     },
     {
       "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
       "value": "nosniff"
     },
     {
-      "name": "Content-Type",
-      "value": "text/plain"
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
     },
     {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
     },
     {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "2"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:03 GMT"
     }
   ],
-  "id": 42,
+  "id": 30,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.794Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1938662150&t=pageview&_s=1&dl=http%3A%2F%2Fwww.dallasparks.org%2Fbids&ul=en-in&de=UTF-8&dt=Dallas%20Parks%2C%20TX%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAUQAAAAAAC~&jid=1851216695&gjid=216015161&cid=1880378139.1618639618&tid=UA-108246780-1&_gid=1820829136.1618639618&_r=1&gtm=2ou472&z=920122552"
+  "time": "2021-04-27T10:50:05.318Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:50:04 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:05.618Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
 }
 
 {
   "headers": [
     {
-      "name": "Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
       "name": "User-Agent",
       "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
     },
     {
       "name": "Referer",
@@ -5609,16 +5867,268 @@
     {
       "name": "Accept",
       "value": "*/*"
-    },
-    {
-      "name": "Content-Length",
-      "value": "0"
     }
   ],
   "id": 44,
-  "method": "POST",
-  "time": "2021-04-17T06:06:57.795Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-108246780-1&cid=1880378139.1618639618&jid=1851216695&gjid=216015161&_gid=1820829136.1618639618&_u=IEBAAUAAAAAAAC~&z=1740726523"
+  "method": "GET",
+  "time": "2021-04-27T10:50:05.628Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=260580&h=16&m=20&s=5&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=be5f1a745a73f691&_idts=1619520606&_idvc=1&_idn=0&_refts=0&_viewts=1619520606&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:06.024Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:04 GMT"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:06.025Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    }
+  ],
+  "id": 45,
+  "method": "GET",
+  "time": "2021-04-27T10:50:06.029Z",
+  "url": "http://www.dallasparks.org/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.dallasparks.org/bids"
+    }
+  ],
+  "id": 46,
+  "method": "GET",
+  "time": "2021-04-27T10:50:06.052Z",
+  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 43,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:06.077Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=260580&h=16&m=20&s=5&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=be5f1a745a73f691&_idts=1619520606&_idvc=1&_idn=0&_refts=0&_viewts=1619520606&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:06.078Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=260580&h=16&m=20&s=5&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=be5f1a745a73f691&_idts=1619520606&_idvc=1&_idn=0&_refts=0&_viewts=1619520606&send_image=1&cookie=1&res=1024x768"
 }
 
 {
@@ -5679,15 +6189,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
     }
   ],
-  "id": 41,
+  "id": 45,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:57.965Z",
+  "time": "2021-04-27T10:50:06.403Z",
   "url": "http://www.dallasparks.org/Assets/Styles/Print.css"
 }
 
@@ -5748,304 +6258,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    }
-  ],
-  "id": 41,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:57.965Z",
-  "url": "http://www.dallasparks.org/Assets/Styles/Print.css"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    }
-  ],
-  "id": 43,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.057Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    }
-  ],
-  "id": 43,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.057Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
     }
   ],
   "id": 45,
-  "method": "GET",
-  "time": "2021-04-17T06:06:58.062Z",
-  "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 46578,
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Connection",
-      "value": "close"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "max-age=86400"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    }
-  ],
-  "id": 31,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.170Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
-}
-
-{
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Connection",
-      "value": "close"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:06:57 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "max-age=86400"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    }
-  ],
-  "id": 31,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:58.171Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 46,
-  "method": "GET",
-  "time": "2021-04-17T06:06:58.185Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=239859&h=11&m=36&s=58&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=0921d8f7df1868b5&_idts=1618639618&_idvc=1&_idn=0&_refts=0&_viewts=1618639618&send_image=1&cookie=1&res=1024x768"
+  "time": "2021-04-27T10:50:06.404Z",
+  "url": "http://www.dallasparks.org/Assets/Styles/Print.css"
 }
 
 {
@@ -6106,15 +6328,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
     }
   ],
-  "id": 45,
+  "id": 46,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:58.371Z",
+  "time": "2021-04-27T10:50:06.429Z",
   "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -6175,365 +6397,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:57 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:05 GMT"
     }
   ],
-  "id": 45,
+  "id": 46,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:06:58.371Z",
+  "time": "2021-04-27T10:50:06.429Z",
   "url": "http://www.dallasparks.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 1,
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 44,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.443Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-108246780-1&cid=1880378139.1618639618&jid=1851216695&gjid=216015161&_gid=1820829136.1618639618&_u=IEBAAUAAAAAAAC~&z=1740726523"
-}
-
-{
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.dallasparks.org"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 44,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.444Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-108246780-1&cid=1880378139.1618639618&jid=1851216695&gjid=216015161&_gid=1820829136.1618639618&_u=IEBAAUAAAAAAAC~&z=1740726523"
-}
-
-{
-  "bodySize": 43,
-  "contentType": "image/gif",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/gif"
-    },
-    {
-      "name": "Content-Length",
-      "value": "43"
-    },
-    {
-      "name": "Connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "none"
-    }
-  ],
-  "id": 46,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.874Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=239859&h=11&m=36&s=58&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=0921d8f7df1868b5&_idts=1618639618&_idvc=1&_idn=0&_refts=0&_viewts=1618639618&send_image=1&cookie=1&res=1024x768"
-}
-
-{
-  "contentType": "image/gif",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/gif"
-    },
-    {
-      "name": "Content-Length",
-      "value": "43"
-    },
-    {
-      "name": "Connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "none"
-    }
-  ],
-  "id": 46,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:58.874Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=1359&rec=1&r=239859&h=11&m=36&s=58&url=http%3A%2F%2Fwww.dallasparks.org%2Fbids&_id=0921d8f7df1868b5&_idts=1618639618&_idvc=1&_idn=0&_refts=0&_viewts=1618639618&send_image=1&cookie=1&res=1024x768"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.dallasparks.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 47,
-  "method": "GET",
-  "time": "2021-04-17T06:06:58.899Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7387"
-}
-
-{
-  "bodySize": 7881,
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "425822"
-    }
-  ],
-  "id": 47,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:59.205Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7387"
-}
-
-{
-  "contentType": "image/jpeg",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/jpeg"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:58 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "425822"
-    }
-  ],
-  "id": 47,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:06:59.848Z",
-  "url": "http://www.dallasparks.org/ImageRepository/Document?documentID=7387"
 }
 

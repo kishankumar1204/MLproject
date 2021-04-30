@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 1281,
+      "height": 1137,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "1281px",
+      "height": "1137px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -248,9 +248,9 @@
     {
       "bound": {
         "height": 81,
-        "left": 806,
+        "left": 805,
         "top": 0,
-        "width": 122
+        "width": 131
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -373,9 +373,9 @@
     {
       "bound": {
         "height": 81,
-        "left": 928,
+        "left": 936,
         "top": 0,
-        "width": 139
+        "width": 140
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -498,9 +498,9 @@
     {
       "bound": {
         "height": 81,
-        "left": 1067,
+        "left": 1076,
         "top": 0,
-        "width": 116
+        "width": 117
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -623,9 +623,9 @@
     {
       "bound": {
         "height": 81,
-        "left": 1183,
+        "left": 1193,
         "top": 0,
-        "width": 157
+        "width": 147
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -750,7 +750,7 @@
         "height": 81,
         "left": 1340,
         "top": 0,
-        "width": 111
+        "width": 116
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -873,9 +873,9 @@
     {
       "bound": {
         "height": 81,
-        "left": 1451,
+        "left": 1456,
         "top": 0,
-        "width": 128
+        "width": 125
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -999,7 +999,7 @@
       "bound": {
         "height": 18,
         "left": 221,
-        "top": 416,
+        "top": 272,
         "width": 1098
       },
       "computed": {
@@ -1114,7 +1114,7 @@
       "bound": {
         "height": 54,
         "left": 236,
-        "top": 469,
+        "top": 325,
         "width": 657
       },
       "computed": {
@@ -1270,7 +1270,7 @@
       "bound": {
         "height": 42,
         "left": 236,
-        "top": 525,
+        "top": 381,
         "width": 659
       },
       "computed": {
@@ -1433,7 +1433,7 @@
       "bound": {
         "height": 22,
         "left": 236,
-        "top": 569,
+        "top": 425,
         "width": 659
       },
       "computed": {
@@ -1589,7 +1589,7 @@
       "bound": {
         "height": 36,
         "left": 199,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -1830,7 +1830,7 @@
       "bound": {
         "height": 18,
         "left": 399,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -2070,7 +2070,7 @@
       "bound": {
         "height": 18,
         "left": 599,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -2309,7 +2309,7 @@
       "bound": {
         "height": 18,
         "left": 799,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -2548,7 +2548,7 @@
       "bound": {
         "height": 18,
         "left": 999,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -2788,7 +2788,7 @@
       "bound": {
         "height": 18,
         "left": 1199,
-        "top": 792,
+        "top": 648,
         "width": 200
       },
       "computed": {
@@ -3028,7 +3028,7 @@
       "bound": {
         "height": 34,
         "left": 549,
-        "top": 915,
+        "top": 771,
         "width": 250
       },
       "computed": {
@@ -3173,8 +3173,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -3208,7 +3208,7 @@
       "bound": {
         "height": 226,
         "left": 549,
-        "top": 962,
+        "top": 818,
         "width": 250
       },
       "computed": {
@@ -3360,8 +3360,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -3380,8 +3380,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -3435,7 +3435,7 @@
       "bound": {
         "height": 34,
         "left": 799,
-        "top": 915,
+        "top": 771,
         "width": 350
       },
       "computed": {
@@ -3580,8 +3580,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -3615,7 +3615,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 965,
+        "top": 821,
         "width": 350
       },
       "computed": {
@@ -3763,8 +3763,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -3783,8 +3783,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -3830,7 +3830,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 997,
+        "top": 853,
         "width": 350
       },
       "computed": {
@@ -3978,8 +3978,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -3998,8 +3998,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -4045,7 +4045,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 1029,
+        "top": 885,
         "width": 350
       },
       "computed": {
@@ -4193,8 +4193,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4213,8 +4213,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -4260,7 +4260,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 1061,
+        "top": 917,
         "width": 350
       },
       "computed": {
@@ -4408,8 +4408,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4428,8 +4428,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -4475,7 +4475,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 1093,
+        "top": 949,
         "width": 350
       },
       "computed": {
@@ -4623,8 +4623,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4643,8 +4643,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -4690,7 +4690,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 1125,
+        "top": 981,
         "width": 350
       },
       "computed": {
@@ -4838,8 +4838,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4858,8 +4858,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -4905,7 +4905,7 @@
       "bound": {
         "height": 34,
         "left": 1149,
-        "top": 915,
+        "top": 771,
         "width": 250
       },
       "computed": {
@@ -5086,7 +5086,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 962,
+        "top": 818,
         "width": 250
       },
       "computed": {
@@ -5115,7 +5115,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.gardnerk12.org/\" target=\"_blank\" aria-label=\"Gardner Public Schools Opens in new window\">Gardner Public Schools</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.gardnerk12.org/\" target=\"_blank\" aria-label=\"Gardner Public Schools Opens in new window\" rel=\"noopener\">Gardner Public Schools</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5299,7 +5299,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 992,
+        "top": 848,
         "width": 250
       },
       "computed": {
@@ -5328,7 +5328,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/DocumentCenter/View/3132/Gardner-2018-19-Recycling-Info\" target=\"_blank\" aria-label=\"Recycling Calendar Opens in new window\">Recycling Calendar</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/DocumentCenter/View/3132/Gardner-2018-19-Recycling-Info\" target=\"_blank\" aria-label=\"Recycling Calendar Opens in new window\" rel=\"noopener\">Recycling Calendar</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5512,7 +5512,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 1022,
+        "top": 878,
         "width": 250
       },
       "computed": {
@@ -5725,7 +5725,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 1052,
+        "top": 908,
         "width": 250
       },
       "computed": {
@@ -5938,7 +5938,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 1082,
+        "top": 938,
         "width": 250
       },
       "computed": {
@@ -6151,7 +6151,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 1112,
+        "top": 968,
         "width": 250
       },
       "computed": {
@@ -6364,7 +6364,7 @@
       "bound": {
         "height": 28,
         "left": 1149,
-        "top": 1142,
+        "top": 998,
         "width": 250
       },
       "computed": {
@@ -6577,7 +6577,7 @@
       "bound": {
         "height": 28,
         "left": 199,
-        "top": 1246,
+        "top": 1102,
         "width": 1202
       },
       "computed": {
@@ -6870,7 +6870,7 @@
       "bound": {
         "height": 74,
         "left": 1511,
-        "top": 159,
+        "top": 15,
         "width": 74
       },
       "computed": {
@@ -7070,9 +7070,93 @@
     },
     {
       "bound": {
+        "height": 294,
+        "left": 0,
+        "top": 0,
+        "width": 1600
+      },
+      "computed": {
+        "box-sizing": "border-box",
+        "cursor": "default",
+        "position": "absolute",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "bannerObject"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "outer-wrap"
+          ],
+          "id": "outer-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inner-wrap"
+          ],
+          "id": "inner-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContainerTS",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bannerContainerTS",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "banner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject",
+            "external",
+            "fixedBanner"
+          ],
+          "id": "bannerDivbanner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.gardner-ma.gov/ImageRepository/Document?documentID=6797"
+    },
+    {
+      "bound": {
         "height": 161,
         "left": 199,
-        "top": 929,
+        "top": 785,
         "width": 300
       },
       "computed": {
@@ -7220,8 +7304,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin61",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet43"
@@ -7242,8 +7326,8 @@
           "classes": [
             "autoWidths",
             "center",
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"

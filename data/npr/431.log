@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:55:48.764Z",
+  "time": "2021-04-27T10:39:07.509Z",
   "url": "http://www.gallupnm.gov/Bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:49 GMT"
+      "value": "Tue, 27 Apr 2021 10:39:08 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:55:49.708Z",
+  "time": "2021-04-27T10:39:08.801Z",
   "url": "http://www.gallupnm.gov/Bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:55:49.709Z",
+  "time": "2021-04-27T10:39:08.802Z",
   "url": "https://www.gallupnm.gov/Bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:49 GMT"
+      "value": "Tue, 27 Apr 2021 10:39:08 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:55:49.710Z",
+  "time": "2021-04-27T10:39:08.802Z",
   "url": "http://www.gallupnm.gov/Bids"
 }
 
@@ -155,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:55:51.501Z",
+  "time": "2021-04-27T10:39:11.003Z",
   "url": "https://www.gallupnm.gov/Bids"
 }
 

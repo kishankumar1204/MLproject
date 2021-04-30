@@ -13,6 +13,7 @@ import processors
 import simplejson as json
 import os
 import argparse
+import requests	
 def extract(site_data):
     name=site_data[3]
     start=site_data[0]
@@ -24,7 +25,7 @@ def main(args):
 
     path = utils.get_data_path(args.site[0])
     urls = utils.load_urls(path)
-    name=[]
+    '''name=[]
     start=[]
     base=[]
     proc=[]
@@ -32,7 +33,7 @@ def main(args):
     site_data= requests.get("http://1.7.151.12:8181/api/scraper_api/fetch_links.php").json()
     for sd in site_data:
         name ,start, base, proc=extract(sd)
-        urls.append(base)
+        urls.append(base)'''
 
     for count in range(2, len(urls) + 1):
 

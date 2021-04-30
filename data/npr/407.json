@@ -8195,7 +8195,6 @@
         {
           "classes": [
             "nonEmpty",
-            "showing",
             "slideshowOptions"
           ],
           "id": "",
@@ -8465,6 +8464,7 @@
         {
           "classes": [
             "nonEmpty",
+            "showing",
             "slideshowOptions"
           ],
           "id": "",
@@ -8480,10 +8480,10 @@
     },
     {
       "bound": {
-        "height": 1,
+        "height": 129,
         "left": 1151,
-        "top": 765,
-        "width": 1
+        "top": 752,
+        "width": 176
       },
       "computed": {
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -8745,7 +8745,7 @@
           "name": "img"
         }
       ],
-      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      "src": "http://www.hawthornenj.org/ImageRepository/Document?documentID=64"
     },
     {
       "bound": {
@@ -10055,7 +10055,7 @@
     },
     {
       "bound": {
-        "height": 3177,
+        "height": 3174,
         "left": -1580,
         "top": 0,
         "width": 4761
@@ -10129,7 +10129,7 @@
           "name": "img"
         }
       ],
-      "src": "http://www.hawthornenj.org/ImageRepository/Document?documentID=758"
+      "src": "http://www.hawthornenj.org/ImageRepository/Document?documentID=715"
     }
   ]
 }

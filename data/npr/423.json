@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 2100,
+      "height": 2065,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "2100px",
+      "height": "2065px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -191,6 +191,9 @@
     "http://www.irvingtonny.gov/sitemap",
     "http://www.irvingtonny.gov/accessibility",
     "http://www.irvingtonny.gov/site/copyright",
+    "http://www.irvingtonny.gov/facebook",
+    "http://www.irvingtonny.gov/twitter",
+    "https://civicplus.com/referral",
     "http://www.irvingtonny.gov/",
     "http://www.irvingtonny.gov/MyAccount",
     "http://www.irvingtonny.gov/bids#PrinterFriendly47cb74c2-1b36-4396-8a7a-198ea017a9e2",
@@ -208,10 +211,7 @@
     "http://www.irvingtonny.gov/Layout/WidgetShare/ShareLink/Pinterest",
     "http://www.irvingtonny.gov/Layout/WidgetShare/ShareLink/Delicious",
     "http://www.irvingtonny.gov/Layout/WidgetShare/ShareLink/Blogger",
-    "http://www.irvingtonny.gov/Layout/WidgetShare/ShareLink/LinkedIn",
-    "http://www.irvingtonny.gov/facebook",
-    "http://www.irvingtonny.gov/twitter",
-    "https://civicplus.com/referral"
+    "http://www.irvingtonny.gov/Layout/WidgetShare/ShareLink/LinkedIn"
   ],
   "texts": [
     {
@@ -277,7 +277,7 @@
       "bound": {
         "height": 98,
         "left": 14,
-        "top": 133,
+        "top": 98,
         "width": 133
       },
       "computed": {
@@ -309,7 +309,7 @@
         "id": "mainNavResidents",
         "name": "a"
       },
-      "html": "Residents",
+      "html": "<span style=\"display: inline; \">Residents</span>",
       "path": [
         "div",
         "div",
@@ -412,7 +412,7 @@
       "bound": {
         "height": 98,
         "left": 149,
-        "top": 133,
+        "top": 98,
         "width": 117
       },
       "computed": {
@@ -444,7 +444,7 @@
         "id": "mainNavVisitors",
         "name": "a"
       },
-      "html": "Visitors",
+      "html": "<span style=\"display: inline; \">Visitors</span>",
       "path": [
         "div",
         "div",
@@ -547,7 +547,7 @@
       "bound": {
         "height": 98,
         "left": 268,
-        "top": 133,
+        "top": 98,
         "width": 121
       },
       "computed": {
@@ -579,7 +579,7 @@
         "id": "mainNavBusiness",
         "name": "a"
       },
-      "html": "Business",
+      "html": "<span style=\"display: inline; \">Business</span>",
       "path": [
         "div",
         "div",
@@ -682,7 +682,7 @@
       "bound": {
         "height": 98,
         "left": 391,
-        "top": 133,
+        "top": 98,
         "width": 163
       },
       "computed": {
@@ -714,7 +714,7 @@
         "id": "mainNavGovernment",
         "name": "a"
       },
-      "html": "Government",
+      "html": "<span style=\"display: inline; \">Government</span>",
       "path": [
         "div",
         "div",
@@ -817,7 +817,7 @@
       "bound": {
         "height": 98,
         "left": 556,
-        "top": 133,
+        "top": 98,
         "width": 168
       },
       "computed": {
@@ -849,7 +849,7 @@
         "id": "mainNavDepartments",
         "name": "a"
       },
-      "html": "Departments",
+      "html": "<span style=\"display: inline; \">Departments</span>",
       "path": [
         "div",
         "div",
@@ -952,7 +952,7 @@
       "bound": {
         "height": 98,
         "left": 726,
-        "top": 133,
+        "top": 98,
         "width": 141
       },
       "computed": {
@@ -984,7 +984,7 @@
         "id": "mainNavHowDoI",
         "name": "a"
       },
-      "html": "How Do I...?",
+      "html": "<span style=\"display: inline; \">How Do I...?</span>",
       "path": [
         "div",
         "div",
@@ -1087,7 +1087,7 @@
       "bound": {
         "height": 19,
         "left": 563,
-        "top": 491,
+        "top": 456,
         "width": 752
       },
       "computed": {
@@ -1214,7 +1214,7 @@
       "bound": {
         "height": 52,
         "left": 578,
-        "top": 542,
+        "top": 507,
         "width": 650
       },
       "computed": {
@@ -1382,7 +1382,7 @@
       "bound": {
         "height": 38,
         "left": 578,
-        "top": 596,
+        "top": 561,
         "width": 652
       },
       "computed": {
@@ -1557,7 +1557,7 @@
       "bound": {
         "height": 22,
         "left": 578,
-        "top": 636,
+        "top": 601,
         "width": 652
       },
       "computed": {
@@ -1725,7 +1725,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 477,
+        "top": 442,
         "width": 280
       },
       "computed": {
@@ -1881,7 +1881,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 529,
+        "top": 494,
         "width": 280
       },
       "computed": {
@@ -2037,7 +2037,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 581,
+        "top": 546,
         "width": 280
       },
       "computed": {
@@ -2193,7 +2193,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 633,
+        "top": 598,
         "width": 280
       },
       "computed": {
@@ -2349,7 +2349,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 685,
+        "top": 650,
         "width": 280
       },
       "computed": {
@@ -2505,7 +2505,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 737,
+        "top": 702,
         "width": 280
       },
       "computed": {
@@ -2661,7 +2661,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 789,
+        "top": 754,
         "width": 280
       },
       "computed": {
@@ -2817,7 +2817,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 841,
+        "top": 806,
         "width": 280
       },
       "computed": {
@@ -2973,7 +2973,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 893,
+        "top": 858,
         "width": 280
       },
       "computed": {
@@ -3129,7 +3129,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 945,
+        "top": 910,
         "width": 280
       },
       "computed": {
@@ -3285,7 +3285,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 997,
+        "top": 962,
         "width": 280
       },
       "computed": {
@@ -3441,7 +3441,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1049,
+        "top": 1014,
         "width": 280
       },
       "computed": {
@@ -3597,7 +3597,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1101,
+        "top": 1066,
         "width": 280
       },
       "computed": {
@@ -3753,7 +3753,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1153,
+        "top": 1118,
         "width": 280
       },
       "computed": {
@@ -3909,7 +3909,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1205,
+        "top": 1170,
         "width": 280
       },
       "computed": {
@@ -4065,7 +4065,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1257,
+        "top": 1222,
         "width": 280
       },
       "computed": {
@@ -4221,7 +4221,7 @@
       "bound": {
         "height": 50,
         "left": 226,
-        "top": 1309,
+        "top": 1274,
         "width": 280
       },
       "computed": {
@@ -4377,7 +4377,7 @@
       "bound": {
         "height": 24,
         "left": 385,
-        "top": 1459,
+        "top": 1424,
         "width": 146
       },
       "computed": {
@@ -4632,7 +4632,7 @@
       "bound": {
         "height": 15,
         "left": 385,
-        "top": 1499,
+        "top": 1464,
         "width": 146
       },
       "computed": {
@@ -4886,7 +4886,7 @@
       "bound": {
         "height": 24,
         "left": 662,
-        "top": 1459,
+        "top": 1424,
         "width": 279
       },
       "computed": {
@@ -5140,7 +5140,7 @@
       "bound": {
         "height": 15,
         "left": 662,
-        "top": 1499,
+        "top": 1464,
         "width": 279
       },
       "computed": {
@@ -5393,7 +5393,7 @@
       "bound": {
         "height": 24,
         "left": 1072,
-        "top": 1459,
+        "top": 1424,
         "width": 219
       },
       "computed": {
@@ -5648,7 +5648,7 @@
       "bound": {
         "height": 15,
         "left": 1071,
-        "top": 1499,
+        "top": 1464,
         "width": 160
       },
       "computed": {
@@ -5902,7 +5902,7 @@
       "bound": {
         "height": 24,
         "left": 501,
-        "top": 1595,
+        "top": 1560,
         "width": 230
       },
       "computed": {
@@ -6157,7 +6157,7 @@
       "bound": {
         "height": 15,
         "left": 501,
-        "top": 1635,
+        "top": 1600,
         "width": 230
       },
       "computed": {
@@ -6411,7 +6411,7 @@
       "bound": {
         "height": 24,
         "left": 862,
-        "top": 1595,
+        "top": 1560,
         "width": 312
       },
       "computed": {
@@ -6666,7 +6666,7 @@
       "bound": {
         "height": 15,
         "left": 861,
-        "top": 1635,
+        "top": 1600,
         "width": 202
       },
       "computed": {
@@ -6920,7 +6920,7 @@
       "bound": {
         "height": 32,
         "left": 199,
-        "top": 1802,
+        "top": 1767,
         "width": 500
       },
       "computed": {
@@ -7101,7 +7101,7 @@
       "bound": {
         "height": 81,
         "left": 199,
-        "top": 1864,
+        "top": 1829,
         "width": 500
       },
       "computed": {
@@ -7319,7 +7319,7 @@
       "bound": {
         "height": 31,
         "left": 199,
-        "top": 1978,
+        "top": 1943,
         "width": 500
       },
       "computed": {
@@ -7535,7 +7535,7 @@
       "bound": {
         "height": 32,
         "left": 699,
-        "top": 1802,
+        "top": 1767,
         "width": 500
       },
       "computed": {
@@ -7680,8 +7680,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin7",
+            "wide",
             "widget",
             "widgetOptionSet18",
             "widgetQuickLinks"
@@ -7715,7 +7715,7 @@
       "bound": {
         "height": 31,
         "left": 699,
-        "top": 1864,
+        "top": 1829,
         "width": 500
       },
       "computed": {
@@ -7746,7 +7746,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.rivertownschamber.com/\" target=\"_blank\" aria-label=\"Rivertowns Chamber of Commerce Opens in new window\">Rivertowns Chamber of Commerce</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.rivertownschamber.com/\" target=\"_blank\" aria-label=\"Rivertowns Chamber of Commerce Opens in new window\" rel=\"noopener\">Rivertowns Chamber of Commerce</a>\n    ",
       "path": [
         "div",
         "div",
@@ -7869,8 +7869,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin7",
+            "wide",
             "widget",
             "widgetOptionSet18",
             "widgetQuickLinks"
@@ -7889,8 +7889,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -7929,7 +7929,7 @@
       "bound": {
         "height": 31,
         "left": 699,
-        "top": 1897,
+        "top": 1862,
         "width": 500
       },
       "computed": {
@@ -7960,7 +7960,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.greenburghny.com\" target=\"_blank\" aria-label=\"Town of Greenburgh Opens in new window\">Town of Greenburgh</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.greenburghny.com\" target=\"_blank\" aria-label=\"Town of Greenburgh Opens in new window\" rel=\"noopener\">Town of Greenburgh</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8083,8 +8083,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin7",
+            "wide",
             "widget",
             "widgetOptionSet18",
             "widgetQuickLinks"
@@ -8103,8 +8103,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8143,7 +8143,7 @@
       "bound": {
         "height": 31,
         "left": 699,
-        "top": 1930,
+        "top": 1895,
         "width": 500
       },
       "computed": {
@@ -8174,7 +8174,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.westchestergov.com\" target=\"_blank\" aria-label=\"Westchester County Opens in new window\">Westchester County</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.westchestergov.com\" target=\"_blank\" aria-label=\"Westchester County Opens in new window\" rel=\"noopener\">Westchester County</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8297,8 +8297,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin7",
+            "wide",
             "widget",
             "widgetOptionSet18",
             "widgetQuickLinks"
@@ -8317,8 +8317,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8357,7 +8357,7 @@
       "bound": {
         "height": 31,
         "left": 699,
-        "top": 1963,
+        "top": 1928,
         "width": 500
       },
       "computed": {
@@ -8388,7 +8388,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.ny.gov/\" target=\"_blank\" aria-label=\"New York State Opens in new window\">New York State</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.ny.gov/\" target=\"_blank\" aria-label=\"New York State Opens in new window\" rel=\"noopener\">New York State</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8511,8 +8511,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin7",
+            "wide",
             "widget",
             "widgetOptionSet18",
             "widgetQuickLinks"
@@ -8531,8 +8531,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8571,7 +8571,7 @@
       "bound": {
         "height": 32,
         "left": 1199,
-        "top": 1802,
+        "top": 1767,
         "width": 200
       },
       "computed": {
@@ -8752,7 +8752,7 @@
       "bound": {
         "height": 31,
         "left": 1199,
-        "top": 1864,
+        "top": 1829,
         "width": 200
       },
       "computed": {
@@ -8967,7 +8967,7 @@
       "bound": {
         "height": 31,
         "left": 1199,
-        "top": 1897,
+        "top": 1862,
         "width": 200
       },
       "computed": {
@@ -9182,7 +9182,7 @@
       "bound": {
         "height": 31,
         "left": 1199,
-        "top": 1930,
+        "top": 1895,
         "width": 200
       },
       "computed": {
@@ -9397,7 +9397,7 @@
       "bound": {
         "height": 31,
         "left": 1199,
-        "top": 1963,
+        "top": 1928,
         "width": 200
       },
       "computed": {
@@ -9612,7 +9612,7 @@
       "bound": {
         "height": 22,
         "left": 1101,
-        "top": 2092,
+        "top": 2057,
         "width": 300
       },
       "computed": {
@@ -9881,7 +9881,7 @@
       "bound": {
         "height": 160,
         "left": 21,
-        "top": 35,
+        "top": 0,
         "width": 386
       },
       "computed": {
@@ -9991,9 +9991,93 @@
     },
     {
       "bound": {
+        "height": 850,
+        "left": -300,
+        "top": 0,
+        "width": 2200
+      },
+      "computed": {
+        "box-sizing": "border-box",
+        "cursor": "default",
+        "margin-left": "-1100px",
+        "position": "absolute",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "bannerObject"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "outer-wrap"
+          ],
+          "id": "outer-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inner-wrap"
+          ],
+          "id": "inner-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "structuralContainer1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "structuralContainer3",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "banner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject",
+            "external"
+          ],
+          "id": "bannerDivbanner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8882"
+    },
+    {
+      "bound": {
         "height": 20,
         "left": 214,
-        "top": 2095,
+        "top": 2060,
         "width": 20
       },
       "computed": {
@@ -10172,7 +10256,7 @@
       "bound": {
         "height": 20,
         "left": 264,
-        "top": 2095,
+        "top": 2060,
         "width": 20
       },
       "computed": {
@@ -10351,7 +10435,7 @@
       "bound": {
         "height": 32,
         "left": 661,
-        "top": 2087,
+        "top": 2052,
         "width": 32
       },
       "computed": {
@@ -10576,7 +10660,7 @@
       "bound": {
         "height": 32,
         "left": 707,
-        "top": 2087,
+        "top": 2052,
         "width": 32
       },
       "computed": {

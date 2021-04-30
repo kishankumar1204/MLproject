@@ -714,7 +714,7 @@
         "height": 52,
         "left": 206,
         "top": 0,
-        "width": 303
+        "width": 281
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -837,9 +837,9 @@
     {
       "bound": {
         "height": 52,
-        "left": 509,
+        "left": 487,
         "top": 0,
-        "width": 172
+        "width": 175
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -962,9 +962,9 @@
     {
       "bound": {
         "height": 52,
-        "left": 681,
+        "left": 662,
         "top": 0,
-        "width": 162
+        "width": 169
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -1087,9 +1087,9 @@
     {
       "bound": {
         "height": 52,
-        "left": 843,
+        "left": 831,
         "top": 0,
-        "width": 249
+        "width": 240
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -1212,9 +1212,9 @@
     {
       "bound": {
         "height": 52,
-        "left": 1092,
+        "left": 1071,
         "top": 0,
-        "width": 154
+        "width": 165
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -1337,9 +1337,9 @@
     {
       "bound": {
         "height": 52,
-        "left": 1246,
+        "left": 1236,
         "top": 0,
-        "width": 148
+        "width": 159
       },
       "computed": {
         "border-bottom-color": "rgb(80, 81, 83)",
@@ -4719,8 +4719,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin6",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4909,8 +4909,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin6",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -4929,8 +4929,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"
@@ -7520,8 +7520,8 @@
         },
         {
           "classes": [
+            "narrow",
             "skin6",
-            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -7540,8 +7540,8 @@
         },
         {
           "classes": [
-            "row",
-            "wide"
+            "narrow",
+            "row"
           ],
           "id": "",
           "name": "div"

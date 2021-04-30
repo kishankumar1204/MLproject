@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:55:22.972Z",
+  "time": "2021-04-27T10:38:03.014Z",
   "url": "http://www.irvingtonny.gov/bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=1mhmc5say5210ypgqcbmlijo; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=whaaxaxpg4uiuv0c0li43vbm; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:23 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T05:55:24.470Z",
+  "time": "2021-04-27T10:38:04.547Z",
   "url": "http://www.irvingtonny.gov/bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.476Z",
+  "time": "2021-04-27T10:38:04.552Z",
   "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5V25C22"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.480Z",
+  "time": "2021-04-27T10:38:04.556Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -123,7 +123,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:55:24.611Z",
+  "time": "2021-04-27T10:38:04.776Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.780Z",
+  "time": "2021-04-27T10:38:04.926Z",
   "url": "http://www.irvingtonny.gov/901781768.css"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.780Z",
+  "time": "2021-04-27T10:38:04.927Z",
   "url": "http://www.irvingtonny.gov/1064581853.css"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.781Z",
+  "time": "2021-04-27T10:38:04.928Z",
   "url": "http://www.irvingtonny.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -207,8 +207,163 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.782Z",
+  "time": "2021-04-27T10:38:04.929Z",
   "url": "http://www.irvingtonny.gov/-2031684067.js"
+}
+
+{
+  "bodySize": 44591,
+  "contentType": "application/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:05.142Z",
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5V25C22"
+}
+
+{
+  "contentType": "application/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:05.224Z",
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5V25C22"
 }
 
 {
@@ -228,230 +383,12 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T05:55:24.783Z",
-  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    }
-  ],
-  "id": 9,
-  "method": "GET",
-  "time": "2021-04-17T05:55:24.783Z",
-  "url": "http://www.irvingtonny.gov/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    }
-  ],
-  "id": 10,
-  "method": "GET",
-  "time": "2021-04-17T05:55:24.784Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "bodySize": 44100,
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 03:00:00 GMT"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:24.943Z",
-  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5V25C22"
-}
-
-{
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 03:00:00 GMT"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:24.954Z",
-  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5V25C22"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    }
-  ],
-  "id": 11,
-  "method": "GET",
-  "time": "2021-04-17T05:55:24.975Z",
+  "time": "2021-04-27T10:38:05.246Z",
   "url": "https://www.google-analytics.com/analytics.js"
 }
 
 {
-  "bodySize": 43066,
+  "bodySize": 43089,
   "contentType": "text/javascript",
   "headers": [
     {
@@ -460,15 +397,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 04:04:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:05:05 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:04:58 GMT"
+      "value": "Tue, 27 Apr 2021 12:05:05 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -500,19 +437,19 @@
     },
     {
       "name": "Age",
-      "value": "6627"
+      "value": "1980"
     },
     {
       "name": "Alt-Svc",
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 11,
+  "id": 8,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.216Z",
+  "time": "2021-04-27T10:38:05.664Z",
   "url": "https://www.google-analytics.com/analytics.js"
 }
 
@@ -525,15 +462,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 04:04:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:05:05 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:04:58 GMT"
+      "value": "Tue, 27 Apr 2021 12:05:05 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -565,19 +502,19 @@
     },
     {
       "name": "Age",
-      "value": "6627"
+      "value": "1980"
     },
     {
       "name": "Alt-Svc",
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 11,
+  "id": 8,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.244Z",
+  "time": "2021-04-27T10:38:05.719Z",
   "url": "https://www.google-analytics.com/analytics.js"
 }
 
@@ -608,10 +545,10 @@
       "value": "0"
     }
   ],
-  "id": 12,
+  "id": 9,
   "method": "POST",
-  "time": "2021-04-17T05:55:25.270Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=1828530027&gjid=686212433&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2wg4725V25C22&z=1841489302"
+  "time": "2021-04-27T10:38:05.743Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=219867439&gjid=1412149414&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2wg4e15V25C22&z=1512645146"
 }
 
 {
@@ -624,7 +561,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
     },
     {
       "name": "Pragma",
@@ -671,13 +608,13 @@
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 12,
+  "id": 9,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.343Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=1828530027&gjid=686212433&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2wg4725V25C22&z=1841489302"
+  "time": "2021-04-27T10:38:05.848Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=219867439&gjid=1412149414&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2wg4e15V25C22&z=1512645146"
 }
 
 {
@@ -689,7 +626,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:05 GMT"
     },
     {
       "name": "Pragma",
@@ -736,157 +673,46 @@
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 12,
+  "id": 9,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.344Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=1828530027&gjid=686212433&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2wg4725V25C22&z=1841489302"
+  "time": "2021-04-27T10:38:05.849Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=YEBAAAQAAAAAAC~&jid=219867439&gjid=1412149414&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2wg4e15V25C22&z=1512645146"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    }
-  ],
-  "id": 13,
-  "method": "GET",
-  "time": "2021-04-17T05:55:25.392Z",
-  "url": "http://www.irvingtonny.gov/237693563.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    }
-  ],
-  "id": 14,
-  "method": "GET",
-  "time": "2021-04-17T05:55:25.392Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "value": "public, must-revalidate, max-age=604800,no-transform"
     },
     {
       "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=1mhmc5say5210ypgqcbmlijo; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:23 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "74684"
-    }
-  ],
-  "id": 1,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T05:55:25.393Z",
-  "url": "http://www.irvingtonny.gov/bids"
-}
-
-{
-  "bodySize": 8662,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
+      "value": "text/css; charset=utf-8"
     },
     {
       "name": "Content-Encoding",
       "value": "gzip"
     },
     {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
     },
     {
       "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
+      "value": "1716668566,\" \""
     },
     {
       "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "Accept-Encoding,Accept-Encoding"
     },
     {
       "name": "Server",
       "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
@@ -902,252 +728,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
     }
   ],
-  "id": 8,
+  "id": 4,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.403Z",
-  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:25.404Z",
-  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "contentType": null,
-  "headers": [],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T05:55:25.450Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "bodySize": 43843,
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 03:00:00 GMT"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:25.498Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
-}
-
-{
-  "contentType": "application/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "Access-Control-Allow-Headers",
-      "value": "Cache-Control"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=900"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 03:00:00 GMT"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Google Tag Manager"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:25.510Z",
-  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
+  "time": "2021-04-27T10:38:06.041Z",
+  "url": "http://www.irvingtonny.gov/901781768.css"
 }
 
 {
@@ -1168,7 +758,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
     },
     {
       "name": "ETag",
@@ -1196,7 +786,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
     }
   ],
   "id": 5,
@@ -1204,25 +794,222 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.672Z",
+  "time": "2021-04-27T10:38:06.048Z",
   "url": "http://www.irvingtonny.gov/1064581853.css"
 }
 
 {
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:38:06.052Z",
+  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 11,
+  "method": "GET",
+  "time": "2021-04-27T10:38:06.053Z",
+  "url": "http://www.irvingtonny.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 12,
+  "method": "GET",
+  "time": "2021-04-27T10:38:06.053Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:06.057Z",
+  "url": "http://www.irvingtonny.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:06.789Z",
+  "url": "http://www.irvingtonny.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
       "value": "public, must-revalidate, max-age=604800,no-transform"
     },
     {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
       "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
+      "value": "text/css; charset=utf-8"
     },
     {
       "name": "Content-Encoding",
@@ -1230,11 +1017,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
     },
     {
       "name": "ETag",
-      "value": "1781971946,\" \""
+      "value": "737511700,\" \""
     },
     {
       "name": "Vary",
@@ -1258,16 +1045,28 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
     }
   ],
-  "id": 7,
+  "id": 5,
   "redirectURL": null,
-  "stage": "start",
+  "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.675Z",
-  "url": "http://www.irvingtonny.gov/-2031684067.js"
+  "time": "2021-04-27T10:38:06.796Z",
+  "url": "http://www.irvingtonny.gov/1064581853.css"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:38:06.897Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
@@ -1328,15 +1127,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:06 GMT"
     }
   ],
-  "id": 9,
+  "id": 11,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.710Z",
+  "time": "2021-04-27T10:38:07.141Z",
   "url": "http://www.irvingtonny.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -1397,20 +1196,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:06 GMT"
     }
   ],
-  "id": 9,
+  "id": 11,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:25.711Z",
+  "time": "2021-04-27T10:38:07.141Z",
   "url": "http://www.irvingtonny.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
 {
-  "bodySize": 48808,
+  "bodySize": 54399,
   "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
@@ -1431,125 +1230,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 13,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:26.005Z",
-  "url": "http://www.irvingtonny.gov/237693563.js"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "737511700,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 5,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:26.250Z",
-  "url": "http://www.irvingtonny.gov/1064581853.css"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
     },
     {
       "name": "ETag",
@@ -1577,16 +1258,233 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
     }
   ],
   "id": 7,
   "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:07.709Z",
+  "url": "http://www.irvingtonny.gov/-2031684067.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
+    }
+  ],
+  "id": 4,
+  "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:26.271Z",
-  "url": "http://www.irvingtonny.gov/-2031684067.js"
+  "time": "2021-04-27T10:38:08.018Z",
+  "url": "http://www.irvingtonny.gov/901781768.css"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:06 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:08.579Z",
+  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:06 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:08.579Z",
+  "url": "http://www.irvingtonny.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 13,
+  "method": "GET",
+  "time": "2021-04-27T10:38:10.087Z",
+  "url": "http://www.irvingtonny.gov/237693563.js"
 }
 
 {
@@ -1610,7 +1508,147 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
+      "value": "Tue, 04 May 2021 10:38:05 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:04 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.450Z",
+  "url": "http://www.irvingtonny.gov/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 14,
+  "method": "GET",
+  "time": "2021-04-27T10:38:10.483Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=whaaxaxpg4uiuv0c0li43vbm; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:03 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "74684"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:38:10.483Z",
+  "url": "http://www.irvingtonny.gov/bids"
+}
+
+{
+  "bodySize": 96992,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:10 GMT"
     },
     {
       "name": "ETag",
@@ -1638,270 +1676,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     }
   ],
   "id": 13,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:26.867Z",
+  "time": "2021-04-27T10:38:10.483Z",
   "url": "http://www.irvingtonny.gov/237693563.js"
-}
-
-{
-  "bodySize": 132188,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 4,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:27.076Z",
-  "url": "http://www.irvingtonny.gov/901781768.css"
-}
-
-{
-  "bodySize": 42275,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:27.251Z",
-  "url": "http://www.irvingtonny.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:25 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 4,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:27.966Z",
-  "url": "http://www.irvingtonny.gov/901781768.css"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:24 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:28.104Z",
-  "url": "http://www.irvingtonny.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
@@ -1911,18 +1695,18 @@
       "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
       "name": "Referer",
       "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.155Z",
-  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+  "time": "2021-04-27T10:38:10.494Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
 }
 
 {
@@ -1942,8 +1726,8 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.166Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
+  "time": "2021-04-27T10:38:10.564Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
 }
 
 {
@@ -1963,8 +1747,8 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.236Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
+  "time": "2021-04-27T10:38:10.564Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8891"
 }
 
 {
@@ -1984,8 +1768,8 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.236Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8891"
+  "time": "2021-04-27T10:38:10.565Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
 }
 
 {
@@ -2005,8 +1789,8 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.236Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
+  "time": "2021-04-27T10:38:10.565Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8893"
 }
 
 {
@@ -2026,8 +1810,8 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.236Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8893"
+  "time": "2021-04-27T10:38:10.565Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8885"
 }
 
 {
@@ -2047,8 +1831,8 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.237Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8885"
+  "time": "2021-04-27T10:38:10.571Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8908"
 }
 
 {
@@ -2068,8 +1852,8 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.242Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8908"
+  "time": "2021-04-27T10:38:10.582Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
 }
 
 {
@@ -2089,8 +1873,8 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.254Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
+  "time": "2021-04-27T10:38:10.582Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8898"
 }
 
 {
@@ -2110,55 +1894,168 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T05:55:28.254Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8898"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 25,
-  "method": "GET",
-  "time": "2021-04-17T05:55:28.254Z",
+  "time": "2021-04-27T10:38:10.582Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8902"
 }
 
 {
+  "bodySize": 43449,
+  "contentType": "application/javascript; charset=UTF-8",
   "headers": [
     {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
     },
     {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
     },
     {
-      "name": "Accept",
-      "value": "*/*"
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
     }
   ],
-  "id": 26,
-  "method": "GET",
-  "time": "2021-04-17T05:55:28.271Z",
-  "url": "http://www.irvingtonny.gov/Toggle"
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.683Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
 }
 
 {
-  "bodySize": 2555,
-  "contentType": "text/css",
+  "contentType": "application/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "value": "Cache-Control"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=900"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 09:00:00 GMT"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Google Tag Manager"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.708Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-136584739-1"
+}
+
+{
+  "bodySize": 7884,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -2166,27 +2063,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "text/css"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "image/png"
     },
     {
       "name": "ETag",
-      "value": "\"06da5c582e4d21:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -2214,7 +2095,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "9236"
     }
   ],
   "id": 15,
@@ -2222,12 +2107,13 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.227Z",
-  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+  "time": "2021-04-27T10:38:10.878Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
 }
 
 {
-  "contentType": "text/css",
+  "bodySize": 524,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -2235,27 +2121,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "text/css"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "image/png"
     },
     {
       "name": "ETag",
-      "value": "\"06da5c582e4d21:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -2283,58 +2153,192 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "524"
     }
   ],
-  "id": 15,
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.944Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "524"
+    }
+  ],
+  "id": 18,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.227Z",
-  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+  "time": "2021-04-27T10:38:10.944Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
 }
 
 {
+  "bodySize": 486,
+  "contentType": "image/png",
   "headers": [
     {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
     },
     {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
+      "name": "Content-Type",
+      "value": "image/png"
     },
     {
-      "name": "Accept",
-      "value": "*/*"
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "486"
     }
   ],
-  "id": 27,
-  "method": "GET",
-  "time": "2021-04-17T05:55:29.236Z",
-  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.946Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
 }
 
 {
+  "contentType": "image/png",
   "headers": [
     {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
     },
     {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
+      "name": "Content-Type",
+      "value": "image/png"
     },
     {
-      "name": "Accept",
-      "value": "*/*"
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "486"
     }
   ],
-  "id": 28,
-  "method": "GET",
-  "time": "2021-04-17T05:55:29.237Z",
-  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:10.947Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
 }
 
 {
@@ -2379,19 +2383,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     },
     {
       "name": "Content-Length",
       "value": "679"
     }
   ],
-  "id": 18,
+  "id": 17,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.237Z",
+  "time": "2021-04-27T10:38:10.949Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8891"
 }
 
@@ -2436,19 +2440,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     },
     {
       "name": "Content-Length",
       "value": "679"
     }
   ],
-  "id": 18,
+  "id": 17,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.237Z",
+  "time": "2021-04-27T10:38:10.950Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8891"
 }
 
@@ -2494,19 +2498,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     },
     {
       "name": "Content-Length",
       "value": "475"
     }
   ],
-  "id": 20,
+  "id": 19,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.238Z",
+  "time": "2021-04-27T10:38:10.952Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8893"
 }
 
@@ -2551,49 +2555,56 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     },
     {
       "name": "Content-Length",
       "value": "475"
     }
   ],
-  "id": 20,
+  "id": 19,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.238Z",
+  "time": "2021-04-27T10:38:10.953Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8893"
 }
 
 {
-  "bodySize": 486,
-  "contentType": "image/png",
+  "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
     },
     {
       "name": "Content-Type",
-      "value": "image/png"
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:10 GMT"
     },
     {
       "name": "ETag",
-      "value": "\" \""
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
     },
     {
       "name": "Server",
       "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
@@ -2609,81 +2620,82 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "486"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     }
   ],
-  "id": 17,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.238Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "486"
-    }
-  ],
-  "id": 17,
+  "id": 13,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.238Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8887"
+  "time": "2021-04-27T10:38:11.242Z",
+  "url": "http://www.irvingtonny.gov/237693563.js"
 }
 
 {
-  "bodySize": 524,
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-27T10:38:11.266Z",
+  "url": "http://www.irvingtonny.gov/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-27T10:38:13.693Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-27T10:38:13.694Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
   "contentType": "image/png",
   "headers": [
     {
@@ -2724,77 +2736,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:09 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "524"
+      "value": "9236"
     }
   ],
-  "id": 19,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.238Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "524"
-    }
-  ],
-  "id": 19,
+  "id": 15,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.239Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8889"
+  "time": "2021-04-27T10:38:13.694Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
 }
 
 {
@@ -2839,19 +2794,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "332"
     }
   ],
-  "id": 21,
+  "id": 20,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.239Z",
+  "time": "2021-04-27T10:38:13.695Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8885"
 }
 
@@ -2896,19 +2851,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "332"
     }
   ],
-  "id": 21,
+  "id": 20,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.239Z",
+  "time": "2021-04-27T10:38:13.695Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8885"
 }
 
@@ -2954,19 +2909,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "340"
     }
   ],
-  "id": 22,
+  "id": 21,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.239Z",
+  "time": "2021-04-27T10:38:13.695Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8908"
 }
 
@@ -3011,78 +2966,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "340"
     }
   ],
-  "id": 22,
+  "id": 21,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.240Z",
+  "time": "2021-04-27T10:38:13.695Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8908"
-}
-
-{
-  "bodySize": 483,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "483"
-    }
-  ],
-  "id": 24,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.240Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8898"
 }
 
 {
@@ -3127,11 +3024,126 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "282"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:13.695Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "282"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:13.696Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
+}
+
+{
+  "bodySize": 483,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "483"
     }
   ],
   "id": 23,
@@ -3139,122 +3151,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.240Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
-}
-
-{
-  "bodySize": 543,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "543"
-    }
-  ],
-  "id": 25,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.240Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8902"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "483"
-    }
-  ],
-  "id": 24,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.241Z",
+  "time": "2021-04-27T10:38:13.696Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8898"
 }
 
@@ -3299,11 +3196,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "282"
+      "value": "483"
     }
   ],
   "id": 23,
@@ -3311,11 +3208,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.241Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8906"
+  "time": "2021-04-27T10:38:13.696Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8898"
 }
 
 {
+  "bodySize": 543,
   "contentType": "image/png",
   "headers": [
     {
@@ -3356,24 +3254,23 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
       "value": "543"
     }
   ],
-  "id": 25,
+  "id": 24,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.241Z",
+  "time": "2021-04-27T10:38:13.696Z",
   "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8902"
 }
 
 {
-  "bodySize": 4988,
   "contentType": "image/png",
   "headers": [
     {
@@ -3414,20 +3311,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:10 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "9236"
+      "value": "543"
     }
   ],
-  "id": 16,
+  "id": 24,
   "redirectURL": null,
-  "stage": "start",
+  "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.241Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
+  "time": "2021-04-27T10:38:13.696Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8902"
 }
 
 {
@@ -3445,9 +3342,9 @@
       "value": "*/*"
     }
   ],
-  "id": 29,
+  "id": 28,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.247Z",
+  "time": "2021-04-27T10:38:13.701Z",
   "url": "http://www.irvingtonny.gov/Assets/Images/GoogleTranslate.gif"
 }
 
@@ -3470,10 +3367,10 @@
       "value": "http://www.irvingtonny.gov/bids"
     }
   ],
-  "id": 30,
+  "id": 29,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.270Z",
-  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1618638929269"
+  "time": "2021-04-27T10:38:13.723Z",
+  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1619519893723"
 }
 
 {
@@ -3491,9 +3388,9 @@
       "value": "http://www.irvingtonny.gov/bids"
     }
   ],
-  "id": 31,
+  "id": 30,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.348Z",
+  "time": "2021-04-27T10:38:13.789Z",
   "url": "http://fonts.googleapis.com/css?family=Lato:300,300italic,700,700italic,900,900italic,italic,regular%7COpen+Sans:600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -3524,10 +3421,10 @@
       "value": "0"
     }
   ],
-  "id": 32,
+  "id": 31,
   "method": "POST",
-  "time": "2021-04-17T05:55:29.360Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=1602633006&gjid=1222490058&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2ou472&z=639797892"
+  "time": "2021-04-27T10:38:13.801Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=809683320&gjid=1863867996&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2ou4e1&z=606908341"
 }
 
 {
@@ -3540,7 +3437,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
     },
     {
       "name": "Pragma",
@@ -3587,13 +3484,13 @@
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 32,
+  "id": 31,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.461Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=1602633006&gjid=1222490058&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2ou472&z=639797892"
+  "time": "2021-04-27T10:38:13.927Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=809683320&gjid=1863867996&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2ou4e1&z=606908341"
 }
 
 {
@@ -3605,7 +3502,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
     },
     {
       "name": "Pragma",
@@ -3652,70 +3549,13 @@
       "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 32,
+  "id": 31,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.461Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1988352127&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=1602633006&gjid=1222490058&cid=1480007610.1618638925&tid=UA-136584739-1&_gid=9282819.1618638925&_r=1&gtm=2ou472&z=639797892"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:28 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "9236"
-    }
-  ],
-  "id": 16,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.462Z",
-  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8883"
+  "time": "2021-04-27T10:38:13.927Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=785559353&t=pageview&_s=1&dl=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&ul=en-in&de=UTF-8&dt=Irvington%2C%20NY%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=aEDAAUQAAAAAAC~&jid=809683320&gjid=1863867996&cid=2021369008.1619519886&tid=UA-136584739-1&_gid=671695465.1619519886&_r=1&gtm=2ou4e1&z=606908341"
 }
 
 {
@@ -3736,11 +3576,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:14 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:14 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3775,12 +3615,12 @@
       "value": "nosniff"
     }
   ],
-  "id": 31,
+  "id": 30,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.510Z",
+  "time": "2021-04-27T10:38:14.034Z",
   "url": "http://fonts.googleapis.com/css?family=Lato:300,300italic,700,700italic,900,900italic,italic,regular%7COpen+Sans:600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -3801,11 +3641,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:14 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:14 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3840,13 +3680,34 @@
       "value": "nosniff"
     }
   ],
-  "id": 31,
+  "id": 30,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.511Z",
+  "time": "2021-04-27T10:38:14.035Z",
   "url": "http://fonts.googleapis.com/css?family=Lato:300,300italic,700,700italic,900,900italic,italic,regular%7COpen+Sans:600,600italic,700,700italic,italic,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 32,
+  "method": "GET",
+  "time": "2021-04-27T10:38:14.056Z",
+  "url": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf"
 }
 
 {
@@ -3866,8 +3727,8 @@
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.529Z",
-  "url": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf"
+  "time": "2021-04-27T10:38:14.061Z",
+  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHA.ttf"
 }
 
 {
@@ -3887,8 +3748,8 @@
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.532Z",
-  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHA.ttf"
+  "time": "2021-04-27T10:38:14.064Z",
+  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPHA.ttf"
 }
 
 {
@@ -3908,28 +3769,7 @@
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.536Z",
-  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPHA.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.irvingtonny.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 36,
-  "method": "GET",
-  "time": "2021-04-17T05:55:29.540Z",
+  "time": "2021-04-27T10:38:14.068Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh50XSwiPHA.ttf"
 }
 
@@ -3991,15 +3831,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
     }
   ],
-  "id": 28,
+  "id": 27,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.577Z",
+  "time": "2021-04-27T10:38:14.105Z",
   "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -4060,15 +3900,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
     }
   ],
-  "id": 28,
+  "id": 27,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.577Z",
+  "time": "2021-04-27T10:38:14.105Z",
   "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -4122,19 +3962,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
     },
     {
       "name": "Content-Length",
       "value": "1726"
     }
   ],
-  "id": 29,
+  "id": 28,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.578Z",
+  "time": "2021-04-27T10:38:14.106Z",
   "url": "http://www.irvingtonny.gov/Assets/Images/GoogleTranslate.gif"
 }
 
@@ -4187,282 +4027,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
     },
     {
       "name": "Content-Length",
       "value": "1726"
     }
   ],
-  "id": 29,
+  "id": 28,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.578Z",
+  "time": "2021-04-27T10:38:14.106Z",
   "url": "http://www.irvingtonny.gov/Assets/Images/GoogleTranslate.gif"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.579Z",
-  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.579Z",
-  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 58445,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.580Z",
-  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1618638929269"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:29.580Z",
-  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1618638929269"
 }
 
 {
@@ -4480,9 +4058,9 @@
       "value": "http://www.irvingtonny.gov/bids"
     }
   ],
-  "id": 37,
+  "id": 36,
   "method": "GET",
-  "time": "2021-04-17T05:55:29.613Z",
+  "time": "2021-04-27T10:38:14.129Z",
   "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4516,11 +4094,11 @@
     },
     {
       "name": "Date",
-      "value": "Wed, 14 Apr 2021 18:30:15 GMT"
+      "value": "Wed, 21 Apr 2021 13:51:02 GMT"
     },
     {
       "name": "Expires",
-      "value": "Thu, 14 Apr 2022 18:30:15 GMT"
+      "value": "Thu, 21 Apr 2022 13:51:02 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4539,12 +4117,82 @@
       "value": "0"
     },
     {
+      "name": "Age",
+      "value": "506832"
+    },
+    {
       "name": "Cache-Control",
       "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.389Z",
+  "url": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf"
+}
+
+{
+  "bodySize": 32856,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 03:39:12 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 03:39:12 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:12:05 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
     },
     {
       "name": "Age",
-      "value": "213914"
+      "value": "111542"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
   "id": 33,
@@ -4552,8 +4200,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.816Z",
-  "url": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf"
+  "time": "2021-04-27T10:38:14.395Z",
+  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHA.ttf"
 }
 
 {
@@ -4586,11 +4234,11 @@
     },
     {
       "name": "Date",
-      "value": "Fri, 16 Apr 2021 12:50:26 GMT"
+      "value": "Thu, 22 Apr 2021 03:13:32 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sat, 16 Apr 2022 12:50:26 GMT"
+      "value": "Fri, 22 Apr 2022 03:13:32 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4610,19 +4258,19 @@
     },
     {
       "name": "Age",
-      "value": "61503"
+      "value": "458682"
     },
     {
       "name": "Cache-Control",
       "value": "public, max-age=31536000"
     }
   ],
-  "id": 35,
+  "id": 34,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.818Z",
+  "time": "2021-04-27T10:38:14.401Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPHA.ttf"
 }
 
@@ -4656,11 +4304,11 @@
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 04:14:01 GMT"
+      "value": "Fri, 23 Apr 2021 06:54:36 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 04:14:01 GMT"
+      "value": "Sat, 23 Apr 2022 06:54:36 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4684,86 +4332,86 @@
     },
     {
       "name": "Age",
-      "value": "438088"
+      "value": "359018"
     }
   ],
-  "id": 36,
+  "id": 35,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.819Z",
+  "time": "2021-04-27T10:38:14.402Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh50XSwiPHA.ttf"
 }
 
 {
-  "bodySize": 32856,
-  "contentType": "font/ttf",
+  "bodySize": 39906,
+  "contentType": "application/javascript",
   "headers": [
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
     },
     {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "name": "Content-Type",
+      "value": "application/javascript"
     },
     {
       "name": "Content-Encoding",
       "value": "gzip"
     },
     {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 04:05:39 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 04:05:39 GMT"
-    },
-    {
       "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:12:05 GMT"
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
       "value": "nosniff"
     },
     {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
       "name": "X-XSS-Protection",
-      "value": "0"
+      "value": "1; mode=block"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
     },
     {
-      "name": "Age",
-      "value": "438590"
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
     }
   ],
-  "id": 34,
+  "id": 26,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.820Z",
-  "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHA.ttf"
+  "time": "2021-04-27T10:38:14.432Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -4795,11 +4443,11 @@
     },
     {
       "name": "Date",
-      "value": "Wed, 14 Apr 2021 18:30:15 GMT"
+      "value": "Wed, 21 Apr 2021 13:51:02 GMT"
     },
     {
       "name": "Expires",
-      "value": "Thu, 14 Apr 2022 18:30:15 GMT"
+      "value": "Thu, 21 Apr 2022 13:51:02 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4818,21 +4466,90 @@
       "value": "0"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Age",
+      "value": "506832"
     },
     {
-      "name": "Age",
-      "value": "213914"
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
-  "id": 33,
+  "id": 32,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.828Z",
+  "time": "2021-04-27T10:38:14.433Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWw.ttf"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.433Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -4864,11 +4581,11 @@
     },
     {
       "name": "Date",
-      "value": "Fri, 16 Apr 2021 12:50:26 GMT"
+      "value": "Thu, 22 Apr 2021 03:13:32 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sat, 16 Apr 2022 12:50:26 GMT"
+      "value": "Fri, 22 Apr 2022 03:13:32 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4888,19 +4605,19 @@
     },
     {
       "name": "Age",
-      "value": "61503"
+      "value": "458682"
     },
     {
       "name": "Cache-Control",
       "value": "public, max-age=31536000"
     }
   ],
-  "id": 35,
+  "id": 34,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.835Z",
+  "time": "2021-04-27T10:38:14.434Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPHA.ttf"
 }
 
@@ -4933,11 +4650,11 @@
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 04:14:01 GMT"
+      "value": "Fri, 23 Apr 2021 06:54:36 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 04:14:01 GMT"
+      "value": "Sat, 23 Apr 2022 06:54:36 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4961,16 +4678,139 @@
     },
     {
       "name": "Age",
-      "value": "438088"
+      "value": "359018"
     }
   ],
-  "id": 36,
+  "id": 35,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.835Z",
+  "time": "2021-04-27T10:38:14.434Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh50XSwiPHA.ttf"
+}
+
+{
+  "bodySize": 58812,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.434Z",
+  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1619519893723"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:12 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.435Z",
+  "url": "http://www.irvingtonny.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=2&menuContainerID=mainNav&_=1619519893723"
 }
 
 {
@@ -5002,11 +4842,11 @@
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 04:05:39 GMT"
+      "value": "Mon, 26 Apr 2021 03:39:12 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 04:05:39 GMT"
+      "value": "Tue, 26 Apr 2022 03:39:12 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5025,20 +4865,20 @@
       "value": "0"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Age",
+      "value": "111542"
     },
     {
-      "name": "Age",
-      "value": "438590"
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
-  "id": 34,
+  "id": 33,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.869Z",
+  "time": "2021-04-27T10:38:14.477Z",
   "url": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHA.ttf"
 }
 
@@ -5100,15 +4940,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
     }
   ],
-  "id": 37,
+  "id": 36,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.943Z",
+  "time": "2021-04-27T10:38:14.477Z",
   "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -5169,7 +5009,327 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:29 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.478Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 37,
+  "method": "GET",
+  "time": "2021-04-27T10:38:14.522Z",
+  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-27T10:38:14.523Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.872Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.873Z",
+  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 2555,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:14.942Z",
+  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 13 Jun 2017 20:22:26 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"06da5c582e4d21:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:13 GMT"
     }
   ],
   "id": 37,
@@ -5177,7 +5337,671 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:29.944Z",
-  "url": "http://www.irvingtonny.gov/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:38:14.943Z",
+  "url": "http://www.irvingtonny.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-27T10:38:14.952Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SiteToolsIconSprite.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-27T10:38:14.952Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SocialIconSprite.png"
+}
+
+{
+  "bodySize": 6166,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"030c238217bcd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "6166"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:15.324Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SocialIconSprite.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Aug 2012 20:04:48 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"030c238217bcd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "6166"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:15.324Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SocialIconSprite.png"
+}
+
+{
+  "bodySize": 3361,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0a7ad6d3886cd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3361"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:15.343Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SiteToolsIconSprite.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 29 Aug 2012 22:48:38 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0a7ad6d3886cd1:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3361"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:15.344Z",
+  "url": "http://www.irvingtonny.gov/Assets/Images/SiteToolsIconSprite.png"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    }
+  ],
+  "id": 41,
+  "method": "GET",
+  "time": "2021-04-27T10:38:15.414Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 42,
+  "method": "GET",
+  "time": "2021-04-27T10:38:15.421Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8882"
+}
+
+{
+  "bodySize": 13032,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:16 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:38:16 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:16.242Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "bodySize": 641,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "414370"
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:16.292Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8882"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:16 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:38:16 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:17.716Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.irvingtonny.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 43,
+  "method": "GET",
+  "time": "2021-04-27T10:38:17.727Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=357&rec=1&r=446661&h=16&m=8&s=17&url=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&_id=560bc170a08bc03b&_idts=1619519898&_idvc=1&_idn=0&_refts=0&_viewts=1619519898&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "bodySize": 43,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:17 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:18.175Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=357&rec=1&r=446661&h=16&m=8&s=17&url=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&_id=560bc170a08bc03b&_idts=1619519898&_idvc=1&_idn=0&_refts=0&_viewts=1619519898&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:17 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:18.175Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=357&rec=1&r=446661&h=16&m=8&s=17&url=http%3A%2F%2Fwww.irvingtonny.gov%2Fbids&_id=560bc170a08bc03b&_idts=1619519898&_idvc=1&_idn=0&_refts=0&_viewts=1619519898&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "414370"
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:40.404Z",
+  "url": "http://www.irvingtonny.gov/ImageRepository/Document?documentID=8882"
 }
 

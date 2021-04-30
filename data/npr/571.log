@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:07:08.443Z",
+  "time": "2021-04-27T10:50:15.066Z",
   "url": "http://www.cityofguthrie.com/bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=anv3jlad0prphpzf4zw2stxu; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=pucyjwa1jkz4wfr3u5k115c0; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:08 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:15 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T06:07:09.616Z",
+  "time": "2021-04-27T10:50:16.251Z",
   "url": "http://www.cityofguthrie.com/bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.621Z",
+  "time": "2021-04-27T10:50:16.259Z",
   "url": "http://www.cityofguthrie.com/901781768.css"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.622Z",
+  "time": "2021-04-27T10:50:16.260Z",
   "url": "http://www.cityofguthrie.com/850749123.css"
 }
 
@@ -132,7 +132,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.623Z",
+  "time": "2021-04-27T10:50:16.262Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:07:09.756Z",
+  "time": "2021-04-27T10:50:16.522Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.962Z",
+  "time": "2021-04-27T10:50:16.624Z",
   "url": "http://www.cityofguthrie.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.963Z",
+  "time": "2021-04-27T10:50:16.625Z",
   "url": "http://www.cityofguthrie.com/-2031684067.js"
 }
 
@@ -207,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.964Z",
+  "time": "2021-04-27T10:50:16.626Z",
   "url": "http://www.cityofguthrie.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -228,7 +228,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T06:07:09.965Z",
+  "time": "2021-04-27T10:50:16.627Z",
   "url": "http://www.cityofguthrie.com/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -249,8 +249,341 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T06:07:10.273Z",
+  "time": "2021-04-27T10:50:17.010Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 74598,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:50:16 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "129468960,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:17.395Z",
+  "url": "http://www.cityofguthrie.com/850749123.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.cityofguthrie.com/bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:50:17.403Z",
+  "url": "http://www.cityofguthrie.com/237693563.js"
+}
+
+{
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:50:16 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:17.404Z",
+  "url": "http://www.cityofguthrie.com/901781768.css"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=pucyjwa1jkz4wfr3u5k115c0; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:15 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "77039"
+    }
+  ],
+  "id": 1,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:50:17.405Z",
+  "url": "http://www.cityofguthrie.com/bids"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:17.415Z",
+  "url": "http://www.cityofguthrie.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:17.416Z",
+  "url": "http://www.cityofguthrie.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
 {
@@ -275,7 +608,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
+      "value": "Tue, 04 May 2021 10:50:17 GMT"
     },
     {
       "name": "ETag",
@@ -303,7 +636,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
   "id": 6,
@@ -311,7 +644,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:10.872Z",
+  "time": "2021-04-27T10:50:17.748Z",
   "url": "http://www.cityofguthrie.com/-2031684067.js"
 }
 
@@ -373,7 +706,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
   "id": 5,
@@ -381,36 +714,20 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:10.873Z",
+  "time": "2021-04-27T10:50:17.760Z",
   "url": "http://www.cityofguthrie.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
-  "contentType": null,
-  "headers": [],
-  "id": 9,
-  "redirectURL": null,
-  "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T06:07:10.936Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
+  "contentType": "text/css; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
       "value": "public, must-revalidate, max-age=604800,no-transform"
     },
     {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
       "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
+      "value": "text/css; charset=utf-8"
     },
     {
       "name": "Content-Encoding",
@@ -418,11 +735,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
+      "value": "Tue, 04 May 2021 10:50:16 GMT"
     },
     {
       "name": "ETag",
-      "value": "1781971946,\" \""
+      "value": "129468960,\" \""
     },
     {
       "name": "Vary",
@@ -446,85 +763,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
-  "id": 6,
+  "id": 3,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:11.440Z",
-  "url": "http://www.cityofguthrie.com/-2031684067.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
-    }
-  ],
-  "id": 5,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:11.444Z",
-  "url": "http://www.cityofguthrie.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+  "time": "2021-04-27T10:50:17.776Z",
+  "url": "http://www.cityofguthrie.com/850749123.css"
 }
 
 {
@@ -585,7 +833,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:17 GMT"
     }
   ],
   "id": 8,
@@ -593,7 +841,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:11.745Z",
+  "time": "2021-04-27T10:50:17.795Z",
   "url": "http://www.cityofguthrie.com/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -654,7 +902,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:17 GMT"
     }
   ],
   "id": 8,
@@ -662,172 +910,23 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:11.745Z",
+  "time": "2021-04-27T10:50:17.795Z",
   "url": "http://www.cityofguthrie.com/Areas/Layout/Assets/Scripts/Search.js"
 }
 
 {
-  "bodySize": 8662,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
-    }
-  ],
-  "id": 7,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:11.928Z",
-  "url": "http://www.cityofguthrie.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
-    }
-  ],
-  "id": 7,
+  "contentType": null,
+  "headers": [],
+  "id": 9,
   "redirectURL": null,
   "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:11.928Z",
-  "url": "http://www.cityofguthrie.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:50:17.818Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.cityofguthrie.com/bids"
-    }
-  ],
-  "id": 10,
-  "method": "GET",
-  "time": "2021-04-17T06:07:12.408Z",
-  "url": "http://www.cityofguthrie.com/237693563.js"
-}
-
-{
-  "bodySize": 105753,
   "contentType": "text/css; charset=utf-8",
   "headers": [
     {
@@ -844,7 +943,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
+      "value": "Tue, 04 May 2021 10:50:16 GMT"
     },
     {
       "name": "ETag",
@@ -872,15 +971,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
   "id": 2,
   "redirectURL": null,
-  "stage": "start",
+  "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:12.476Z",
+  "time": "2021-04-27T10:50:18.130Z",
   "url": "http://www.cityofguthrie.com/901781768.css"
 }
 
@@ -906,7 +1005,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:12 GMT"
+      "value": "Tue, 04 May 2021 10:50:17 GMT"
     },
     {
       "name": "ETag",
@@ -934,7 +1033,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:17 GMT"
     }
   ],
   "id": 10,
@@ -942,12 +1041,12 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:12.702Z",
+  "time": "2021-04-27T10:50:18.168Z",
   "url": "http://www.cityofguthrie.com/237693563.js"
 }
 
 {
-  "contentType": "text/html; charset=utf-8",
+  "contentType": "application/javascript",
   "headers": [
     {
       "name": "Cache-Control",
@@ -955,11 +1054,27 @@
     },
     {
       "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
     },
     {
       "name": "ETag",
-      "value": "\" \""
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "Server",
@@ -971,7 +1086,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=anv3jlad0prphpzf4zw2stxu; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
@@ -987,20 +1102,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:08 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "77039"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
-  "id": 1,
+  "id": 5,
   "redirectURL": null,
   "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T06:07:12.719Z",
-  "url": "http://www.cityofguthrie.com/bids"
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:18.496Z",
+  "url": "http://www.cityofguthrie.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
@@ -1024,7 +1135,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:12 GMT"
+      "value": "Tue, 04 May 2021 10:50:17 GMT"
     },
     {
       "name": "ETag",
@@ -1052,7 +1163,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:17 GMT"
     }
   ],
   "id": 10,
@@ -1060,20 +1171,24 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:13.275Z",
+  "time": "2021-04-27T10:50:19.239Z",
   "url": "http://www.cityofguthrie.com/237693563.js"
 }
 
 {
-  "contentType": "text/css; charset=utf-8",
+  "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
       "value": "public, must-revalidate, max-age=604800,no-transform"
     },
     {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
       "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
+      "value": "text/javascript; charset=utf-8"
     },
     {
       "name": "Content-Encoding",
@@ -1081,11 +1196,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
+      "value": "Tue, 04 May 2021 10:50:17 GMT"
     },
     {
       "name": "ETag",
-      "value": "1716668566,\" \""
+      "value": "1781971946,\" \""
     },
     {
       "name": "Vary",
@@ -1109,131 +1224,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:16 GMT"
     }
   ],
-  "id": 2,
+  "id": 6,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:13.326Z",
-  "url": "http://www.cityofguthrie.com/901781768.css"
-}
-
-{
-  "bodySize": 165587,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "129468960,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:13.794Z",
-  "url": "http://www.cityofguthrie.com/850749123.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:07:10 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "129468960,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:09 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:14.118Z",
-  "url": "http://www.cityofguthrie.com/850749123.css"
+  "time": "2021-04-27T10:50:19.288Z",
+  "url": "http://www.cityofguthrie.com/-2031684067.js"
 }
 
 {
@@ -1253,7 +1253,7 @@
   ],
   "id": 11,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.185Z",
+  "time": "2021-04-27T10:50:19.323Z",
   "url": "http://www.cityofguthrie.com/Assets/Styles/Print.css"
 }
 
@@ -1274,7 +1274,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.202Z",
+  "time": "2021-04-27T10:50:19.338Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4945"
 }
 
@@ -1295,7 +1295,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.219Z",
+  "time": "2021-04-27T10:50:19.355Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4951"
 }
 
@@ -1316,7 +1316,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.277Z",
+  "time": "2021-04-27T10:50:19.412Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4960"
 }
 
@@ -1337,7 +1337,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.277Z",
+  "time": "2021-04-27T10:50:19.412Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4954"
 }
 
@@ -1358,7 +1358,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.277Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4957"
 }
 
@@ -1379,7 +1379,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.278Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4956"
 }
 
@@ -1400,7 +1400,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.278Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4959"
 }
 
@@ -1421,7 +1421,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.278Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4958"
 }
 
@@ -1442,7 +1442,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.278Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4955"
 }
 
@@ -1463,7 +1463,7 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.278Z",
+  "time": "2021-04-27T10:50:19.413Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4952"
 }
 
@@ -1484,7 +1484,7 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.286Z",
+  "time": "2021-04-27T10:50:19.420Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4961"
 }
 
@@ -1505,7 +1505,7 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.287Z",
+  "time": "2021-04-27T10:50:19.421Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4967"
 }
 
@@ -1526,7 +1526,7 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.287Z",
+  "time": "2021-04-27T10:50:19.421Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4962"
 }
 
@@ -1547,7 +1547,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.287Z",
+  "time": "2021-04-27T10:50:19.421Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4969"
 }
 
@@ -1568,7 +1568,7 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T06:07:14.332Z",
+  "time": "2021-04-27T10:50:19.462Z",
   "url": "http://www.cityofguthrie.com/Toggle"
 }
 
@@ -1630,7 +1630,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     }
   ],
   "id": 11,
@@ -1638,7 +1638,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.291Z",
+  "time": "2021-04-27T10:50:20.599Z",
   "url": "http://www.cityofguthrie.com/Assets/Styles/Print.css"
 }
 
@@ -1699,7 +1699,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     }
   ],
   "id": 11,
@@ -1707,7 +1707,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.291Z",
+  "time": "2021-04-27T10:50:20.599Z",
   "url": "http://www.cityofguthrie.com/Assets/Styles/Print.css"
 }
 
@@ -1728,7 +1728,7 @@
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.303Z",
+  "time": "2021-04-27T10:50:20.608Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -1749,8 +1749,123 @@
   ],
   "id": 28,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.304Z",
+  "time": "2021-04-27T10:50:20.608Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 36075,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "36075"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.609Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4945"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "36075"
+    }
+  ],
+  "id": 12,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.609Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4945"
 }
 
 {
@@ -1795,7 +1910,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     },
     {
       "name": "Content-Length",
@@ -1807,7 +1922,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.304Z",
+  "time": "2021-04-27T10:50:20.609Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4951"
 }
 
@@ -1852,7 +1967,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     },
     {
       "name": "Content-Length",
@@ -1864,123 +1979,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.305Z",
+  "time": "2021-04-27T10:50:20.610Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4951"
-}
-
-{
-  "bodySize": 981,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "981"
-    }
-  ],
-  "id": 16,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.305Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4957"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "981"
-    }
-  ],
-  "id": 16,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.305Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4957"
 }
 
 {
@@ -2025,7 +2025,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     },
     {
       "name": "Content-Length",
@@ -2037,64 +2037,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.306Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4960"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "351"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.306Z",
+  "time": "2021-04-27T10:50:20.610Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4960"
 }
 
@@ -2140,7 +2083,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     },
     {
       "name": "Content-Length",
@@ -2152,7 +2095,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.307Z",
+  "time": "2021-04-27T10:50:20.610Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4954"
 }
 
@@ -2197,7 +2140,64 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "351"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.610Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4960"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
     },
     {
       "name": "Content-Length",
@@ -2209,8 +2209,123 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.307Z",
+  "time": "2021-04-27T10:50:20.610Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4954"
+}
+
+{
+  "bodySize": 981,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "981"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.611Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4957"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:18 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "981"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.611Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4957"
 }
 
 {
@@ -2255,7 +2370,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2267,7 +2382,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.308Z",
+  "time": "2021-04-27T10:50:20.611Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4956"
 }
 
@@ -2312,7 +2427,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2324,8 +2439,123 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.308Z",
+  "time": "2021-04-27T10:50:20.611Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4956"
+}
+
+{
+  "bodySize": 927,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "927"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.612Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4959"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "927"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.612Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4959"
 }
 
 {
@@ -2370,7 +2600,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2382,7 +2612,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.309Z",
+  "time": "2021-04-27T10:50:20.612Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4958"
 }
 
@@ -2427,7 +2657,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2439,7 +2669,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.309Z",
+  "time": "2021-04-27T10:50:20.612Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4958"
 }
 
@@ -2485,7 +2715,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2497,7 +2727,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.310Z",
+  "time": "2021-04-27T10:50:20.612Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4955"
 }
 
@@ -2542,7 +2772,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2554,181 +2784,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.310Z",
+  "time": "2021-04-27T10:50:20.613Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4955"
-}
-
-{
-  "bodySize": 927,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "927"
-    }
-  ],
-  "id": 18,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.310Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4959"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "927"
-    }
-  ],
-  "id": 18,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.310Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4959"
-}
-
-{
-  "bodySize": 26707,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "36075"
-    }
-  ],
-  "id": 12,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.310Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4945"
 }
 
 {
@@ -2773,7 +2830,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2785,7 +2842,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.311Z",
+  "time": "2021-04-27T10:50:20.613Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4961"
 }
 
@@ -2830,7 +2887,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2842,7 +2899,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.311Z",
+  "time": "2021-04-27T10:50:20.613Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4961"
 }
 
@@ -2888,7 +2945,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2900,7 +2957,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.312Z",
+  "time": "2021-04-27T10:50:20.614Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4967"
 }
 
@@ -2945,7 +3002,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -2957,7 +3014,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.312Z",
+  "time": "2021-04-27T10:50:20.614Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4967"
 }
 
@@ -3003,7 +3060,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -3015,7 +3072,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.313Z",
+  "time": "2021-04-27T10:50:20.616Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4962"
 }
 
@@ -3060,7 +3117,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -3072,7 +3129,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.314Z",
+  "time": "2021-04-27T10:50:20.616Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4962"
 }
 
@@ -3118,7 +3175,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -3130,7 +3187,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.316Z",
+  "time": "2021-04-27T10:50:20.618Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4969"
 }
 
@@ -3175,7 +3232,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -3187,12 +3244,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.316Z",
+  "time": "2021-04-27T10:50:20.618Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4969"
 }
 
 {
-  "bodySize": 9331,
+  "bodySize": 10094,
   "contentType": "image/png",
   "headers": [
     {
@@ -3233,7 +3290,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
     },
     {
       "name": "Content-Length",
@@ -3245,7 +3302,64 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.317Z",
+  "time": "2021-04-27T10:50:20.619Z",
+  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4952"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:19 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "10094"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:20.619Z",
   "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4952"
 }
 
@@ -3272,8 +3386,8 @@ SyntaxError: Parse error
   ],
   "id": 29,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.339Z",
-  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639635339"
+  "time": "2021-04-27T10:50:20.642Z",
+  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520620641"
 }
 
 {
@@ -3293,65 +3407,8 @@ SyntaxError: Parse error
   ],
   "id": 30,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.409Z",
+  "time": "2021-04-27T10:50:20.710Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:500,500italic,600,600italic,700,700italic,italic,regular%7CMulish:500,500italic,600,600italic,700,700italic,italic,regular%7C"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "10094"
-    }
-  ],
-  "id": 21,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.583Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4952"
 }
 
 {
@@ -3372,11 +3429,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3416,7 +3473,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.587Z",
+  "time": "2021-04-27T10:50:20.985Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:500,500italic,600,600italic,700,700italic,italic,regular%7CMulish:500,500italic,600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -3437,11 +3494,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3481,7 +3538,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.588Z",
+  "time": "2021-04-27T10:50:20.985Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:500,500italic,600,600italic,700,700italic,italic,regular%7CMulish:500,500italic,600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -3502,7 +3559,7 @@ SyntaxError: Parse error
   ],
   "id": 31,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.607Z",
+  "time": "2021-04-27T10:50:20.998Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
@@ -3523,7 +3580,7 @@ SyntaxError: Parse error
   ],
   "id": 32,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.611Z",
+  "time": "2021-04-27T10:50:21.003Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
@@ -3544,7 +3601,7 @@ SyntaxError: Parse error
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.616Z",
+  "time": "2021-04-27T10:50:21.007Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
@@ -3565,7 +3622,7 @@ SyntaxError: Parse error
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.620Z",
+  "time": "2021-04-27T10:50:21.012Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
@@ -3586,7 +3643,7 @@ SyntaxError: Parse error
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.629Z",
+  "time": "2021-04-27T10:50:21.021Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf"
 }
 
@@ -3607,7 +3664,7 @@ SyntaxError: Parse error
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.635Z",
+  "time": "2021-04-27T10:50:21.025Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevHg.ttf"
 }
 
@@ -3628,7 +3685,7 @@ SyntaxError: Parse error
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.641Z",
+  "time": "2021-04-27T10:50:21.031Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf"
 }
 
@@ -3649,7 +3706,7 @@ SyntaxError: Parse error
   ],
   "id": 38,
   "method": "GET",
-  "time": "2021-04-17T06:07:15.647Z",
+  "time": "2021-04-27T10:50:21.037Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevHg.ttf"
 }
 
@@ -3711,7 +3768,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 28,
@@ -3719,7 +3776,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.727Z",
+  "time": "2021-04-27T10:50:21.117Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3780,7 +3837,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 28,
@@ -3788,7 +3845,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.727Z",
+  "time": "2021-04-27T10:50:21.118Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3850,7 +3907,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 27,
@@ -3858,7 +3915,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.728Z",
+  "time": "2021-04-27T10:50:21.118Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -3919,7 +3976,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 27,
@@ -3927,7 +3984,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.728Z",
+  "time": "2021-04-27T10:50:21.119Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -3981,7 +4038,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 29,
@@ -3989,8 +4046,8 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.729Z",
-  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639635339"
+  "time": "2021-04-27T10:50:21.119Z",
+  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520620641"
 }
 
 {
@@ -4042,7 +4099,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 29,
@@ -4050,8 +4107,29 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.729Z",
-  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639635339"
+  "time": "2021-04-27T10:50:21.120Z",
+  "url": "http://www.cityofguthrie.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520620641"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.cityofguthrie.com/bids"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-27T10:50:21.150Z",
+  "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -4084,11 +4162,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4112,7 +4190,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "445825"
+      "value": "103938"
     }
   ],
   "id": 31,
@@ -4120,33 +4198,12 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.760Z",
+  "time": "2021-04-27T10:50:21.268Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.cityofguthrie.com/bids"
-    }
-  ],
-  "id": 39,
-  "method": "GET",
-  "time": "2021-04-17T06:07:15.761Z",
-  "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 28213,
+  "bodySize": 28218,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -4175,11 +4232,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Wed, 27 Apr 2022 10:46:23 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4198,12 +4255,12 @@ SyntaxError: Parse error
       "value": "0"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Age",
+      "value": "238"
     },
     {
-      "name": "Age",
-      "value": "171675"
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
   "id": 32,
@@ -4211,12 +4268,12 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.762Z",
+  "time": "2021-04-27T10:50:21.269Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
 {
-  "bodySize": 28303,
+  "bodySize": 28300,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -4245,11 +4302,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Thu, 22 Apr 2021 06:36:12 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Fri, 22 Apr 2022 06:36:12 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4273,7 +4330,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "761"
+      "value": "447249"
     }
   ],
   "id": 33,
@@ -4281,7 +4338,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.763Z",
+  "time": "2021-04-27T10:50:21.272Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
@@ -4315,11 +4372,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4343,7 +4400,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "171675"
+      "value": "351120"
     }
   ],
   "id": 34,
@@ -4351,7 +4408,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.764Z",
+  "time": "2021-04-27T10:50:21.274Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
@@ -4384,11 +4441,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4412,7 +4469,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "445825"
+      "value": "103938"
     }
   ],
   "id": 31,
@@ -4420,7 +4477,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.766Z",
+  "time": "2021-04-27T10:50:21.302Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
@@ -4453,11 +4510,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Wed, 27 Apr 2022 10:46:23 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4476,12 +4533,12 @@ SyntaxError: Parse error
       "value": "0"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Age",
+      "value": "238"
     },
     {
-      "name": "Age",
-      "value": "171675"
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
   "id": 32,
@@ -4489,7 +4546,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.779Z",
+  "time": "2021-04-27T10:50:21.302Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
@@ -4522,11 +4579,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Thu, 22 Apr 2021 06:36:12 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Fri, 22 Apr 2022 06:36:12 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4550,7 +4607,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "761"
+      "value": "447249"
     }
   ],
   "id": 33,
@@ -4558,7 +4615,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.779Z",
+  "time": "2021-04-27T10:50:21.302Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
@@ -4591,11 +4648,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4619,7 +4676,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "171675"
+      "value": "351120"
     }
   ],
   "id": 34,
@@ -4627,7 +4684,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.780Z",
+  "time": "2021-04-27T10:50:21.302Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
@@ -4661,15 +4718,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4686,6 +4739,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 35,
@@ -4693,7 +4754,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.838Z",
+  "time": "2021-04-27T10:50:21.302Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf"
 }
 
@@ -4726,15 +4787,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4751,6 +4808,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 35,
@@ -4758,7 +4823,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.838Z",
+  "time": "2021-04-27T10:50:21.303Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf"
 }
 
@@ -4792,15 +4857,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4817,6 +4878,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 36,
@@ -4824,7 +4893,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.838Z",
+  "time": "2021-04-27T10:50:21.303Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevHg.ttf"
 }
 
@@ -4857,15 +4926,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4882,6 +4947,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 36,
@@ -4889,139 +4962,8 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.839Z",
+  "time": "2021-04-27T10:50:21.303Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevHg.ttf"
-}
-
-{
-  "bodySize": 39392,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 20 Jan 2021 21:34:59 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.898Z",
-  "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 20 Jan 2021 21:34:59 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:07:15.899Z",
-  "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf"
 }
 
 {
@@ -5054,15 +4996,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5079,6 +5017,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 38,
@@ -5086,7 +5032,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.899Z",
+  "time": "2021-04-27T10:50:21.398Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevHg.ttf"
 }
 
@@ -5119,15 +5065,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Thu, 22 Apr 2021 06:46:56 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:07:15 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 06:46:56 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5144,6 +5086,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "446605"
     }
   ],
   "id": 38,
@@ -5151,65 +5101,139 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:15.899Z",
+  "time": "2021-04-27T10:50:21.398Z",
   "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevHg.ttf"
 }
 
 {
-  "contentType": "image/png",
+  "bodySize": 39392,
+  "contentType": "font/ttf",
   "headers": [
     {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
     },
     {
       "name": "Content-Type",
-      "value": "image/png"
+      "value": "font/ttf"
     },
     {
-      "name": "ETag",
-      "value": "\" \""
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
     },
     {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
+      "name": "Timing-Allow-Origin",
+      "value": "*"
     },
     {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:50:21 GMT"
     },
     {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:50:21 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 20 Jan 2021 21:34:59 GMT"
     },
     {
       "name": "X-Content-Type-Options",
       "value": "nosniff"
     },
     {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
+      "name": "Server",
+      "value": "sffe"
     },
     {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:50:21.443Z",
+  "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:21 GMT"
     },
     {
-      "name": "Content-Length",
-      "value": "36075"
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:50:21 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 20 Jan 2021 21:34:59 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
     }
   ],
-  "id": 12,
+  "id": 37,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:16.087Z",
-  "url": "http://www.cityofguthrie.com/ImageRepository/Document?documentID=4945"
+  "time": "2021-04-27T10:50:21.443Z",
+  "url": "http://fonts.gstatic.com/s/mulish/v3/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf"
 }
 
 {
@@ -5270,7 +5294,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 39,
@@ -5278,7 +5302,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:16.098Z",
+  "time": "2021-04-27T10:50:22.299Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -5339,7 +5363,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:07:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:50:20 GMT"
     }
   ],
   "id": 39,
@@ -5347,7 +5371,7 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:07:16.099Z",
+  "time": "2021-04-27T10:50:22.300Z",
   "url": "http://www.cityofguthrie.com/Assets/Scripts/RWD/quo.debug.js"
 }
 

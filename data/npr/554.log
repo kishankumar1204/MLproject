@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:06:04.848Z",
+  "time": "2021-04-27T10:48:54.246Z",
   "url": "http://www.prcity.com/Bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:05 GMT"
+      "value": "Tue, 27 Apr 2021 10:48:54 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T06:06:05.980Z",
+  "time": "2021-04-27T10:48:55.546Z",
   "url": "http://www.prcity.com/Bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:06:05.980Z",
+  "time": "2021-04-27T10:48:55.547Z",
   "url": "https://www.prcity.com/Bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:05 GMT"
+      "value": "Tue, 27 Apr 2021 10:48:54 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T06:06:05.981Z",
+  "time": "2021-04-27T10:48:55.548Z",
   "url": "http://www.prcity.com/Bids"
 }
 
@@ -155,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:06:07.820Z",
+  "time": "2021-04-27T10:49:00.778Z",
   "url": "https://www.prcity.com/Bids"
 }
 

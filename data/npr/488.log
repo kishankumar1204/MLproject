@@ -11,12 +11,12 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:03:03.813Z",
+  "time": "2021-04-27T10:46:14.872Z",
   "url": "http://www.newtontownhall.com/bids"
 }
 
 {
-  "bodySize": 74377,
+  "bodySize": 78074,
   "contentType": "text/html; charset=utf-8",
   "headers": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=yiol1zoccwcf23cyni41mwxd; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=yiol1zoccwcf23cyni41mwxd; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=SZdNewm2ix1rCm3Y1gFQgj_z34gc6EPkt1LNRdqItGnGwebPgTsQ8kR_8QRpPQRzt_Pt_stwiqFazRj8SQ67B21hilozYkph4g4l40Ipc201; path=/; HttpOnly"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=n53xv43th1urw05vcw3vkok5; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=n53xv43th1urw05vcw3vkok5; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=4sEVC8P-wPcoqRnsJNVVCymioBK-wdPBbi37krDOaQp8Qqg8CKPPGX-N5LU4H1pm3vzf2PypkC5ahH8vSmZjqv6fX5fmZsW6WCmusqqlujw1; path=/; HttpOnly"
     },
     {
       "name": "X-Content-Type-Options",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:05 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:15 GMT"
     }
   ],
   "id": 1,
@@ -73,7 +73,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:05.922Z",
+  "time": "2021-04-27T10:46:17.553Z",
   "url": "http://www.newtontownhall.com/bids"
 }
 
@@ -94,7 +94,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.930Z",
+  "time": "2021-04-27T10:46:17.561Z",
   "url": "http://www.newtontownhall.com/901781768.css"
 }
 
@@ -115,7 +115,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.930Z",
+  "time": "2021-04-27T10:46:17.562Z",
   "url": "http://www.newtontownhall.com/1760078270.css"
 }
 
@@ -136,7 +136,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.931Z",
+  "time": "2021-04-27T10:46:17.563Z",
   "url": "http://www.newtontownhall.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -157,7 +157,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.932Z",
+  "time": "2021-04-27T10:46:17.564Z",
   "url": "http://www.newtontownhall.com/App_Themes/CP/nmenu.css"
 }
 
@@ -178,7 +178,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.932Z",
+  "time": "2021-04-27T10:46:17.564Z",
   "url": "http://www.newtontownhall.com/-2031684067.js"
 }
 
@@ -199,7 +199,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.933Z",
+  "time": "2021-04-27T10:46:17.565Z",
   "url": "http://www.newtontownhall.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -220,7 +220,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.934Z",
+  "time": "2021-04-27T10:46:17.566Z",
   "url": "http://www.newtontownhall.com/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -241,7 +241,7 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.934Z",
+  "time": "2021-04-27T10:46:17.566Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
@@ -262,7 +262,7 @@
   ],
   "id": 10,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.935Z",
+  "time": "2021-04-27T10:46:17.567Z",
   "url": "http://www.newtontownhall.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHXYHcW4zQUJ3xEJnQ6DGCZi4oGbSyCjkEhH1aPAVNozqGgRUIJbwZSnUDVrPM4fpA2&t=637453854340000000"
 }
 
@@ -283,7 +283,7 @@
   ],
   "id": 11,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.936Z",
+  "time": "2021-04-27T10:46:17.567Z",
   "url": "http://www.newtontownhall.com/ScriptResource.axd?d=sQ9IPQQLsFn-lu9DC0q6R4bXm0BWXVy5g3v4VN6eo00U0xgcabMm7gjigCRzfuUEyk9kih1PJw4N5MHVQu3TEM90Tp0S7FLg4CrT6o-kY2pomOUWQYf17tUaH0UaSZT94GEAobHfYllZkTo1kpCWjvYvleie1YghLqu2TZOC7ioVpoLxjqLezmrMMs1UyS-9MHcLTii0_kHFJI0d1TOToUf_xxKIBIonIKWlBJsP7bbhQoW9xYwVA4tx7S27Ei0DzSwHUOr9b0ApjFkwbbctFm71ZRmswkoZMWLUxriElPyG3deGYjhjnaPobliiAyenbsn0Q0V08fg4PSyQDLhyMYd_JE-KFaRrUDa8t0WzX976D-a5Y3mSYcAj4xRyU4VrUAH0Im3HGV5mNpRlZ2Ij7y0Zwxk9nJBufqsUKeMrUImDe0gL1VfS7P5ghB0T9fbmnLx_rMKoy2AyyvUSI8x8On16T6h6EuBJCkF-wSZxU2YV9hGH_94yx3zBCg7S2Nr9GFnUK054DedrfrVgjtUrShUtEHo6HG3U5EOTHyUv1L19SSzHwHwQ4Z4bXKkuUTHpQKfvsPeD1SweCPZBiMWr75wrDpQsNvyh4ulmfdkkxJNua7lirUHbqJseaEB-TXR3IFuEJvTDKonimuP3BsAOKIRUiib6h8x7vfaj70nik-YNqBkWDHWVD-wCRilzOaYdTKO4bUHAx1K_zhirXbEbl0yfECrZKXhtxgfci6sIz2hPXed9jGkteviTeVrqUVsXN6VWkYewfTaapeAdM-Dgs2rmZFHrXx6sIz9vPoUOhD8klcL2ALbTWvU7kIAn9xxl-Rfhyz4Kmf6t2UEjlPyw0IxoiM3LJdiQMOP8gkiyBz01"
 }
 
@@ -304,7 +304,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.936Z",
+  "time": "2021-04-27T10:46:17.568Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.css"
 }
 
@@ -325,7 +325,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.936Z",
+  "time": "2021-04-27T10:46:17.568Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.js"
 }
 
@@ -346,7 +346,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.937Z",
+  "time": "2021-04-27T10:46:17.569Z",
   "url": "http://www.newtontownhall.com/237693563.js"
 }
 
@@ -383,7 +383,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=yiol1zoccwcf23cyni41mwxd; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=yiol1zoccwcf23cyni41mwxd; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=SZdNewm2ix1rCm3Y1gFQgj_z34gc6EPkt1LNRdqItGnGwebPgTsQ8kR_8QRpPQRzt_Pt_stwiqFazRj8SQ67B21hilozYkph4g4l40Ipc201; path=/; HttpOnly"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=n53xv43th1urw05vcw3vkok5; path=/; HttpOnly; SameSite=Lax\nCP_IsMobile=false; path=/\nASP.NET_SessionId=n53xv43th1urw05vcw3vkok5; path=/; HttpOnly; SameSite=Lax\n__RequestVerificationToken=4sEVC8P-wPcoqRnsJNVVCymioBK-wdPBbi37krDOaQp8Qqg8CKPPGX-N5LU4H1pm3vzf2PypkC5ahH8vSmZjqv6fX5fmZsW6WCmusqqlujw1; path=/; HttpOnly"
     },
     {
       "name": "X-Content-Type-Options",
@@ -399,7 +399,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:05 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:15 GMT"
     }
   ],
   "id": 1,
@@ -407,7 +407,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:05.937Z",
+  "time": "2021-04-27T10:46:17.570Z",
   "url": "http://www.newtontownhall.com/bids"
 }
 
@@ -428,7 +428,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T06:03:05.939Z",
+  "time": "2021-04-27T10:46:17.570Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -440,7 +440,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:03:06.073Z",
+  "time": "2021-04-27T10:46:17.801Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -462,7 +462,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 04 May 2021 10:46:17 GMT"
     },
     {
       "name": "ETag",
@@ -490,7 +490,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:05 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:16 GMT"
     }
   ],
   "id": 2,
@@ -498,64 +498,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.244Z",
-  "url": "http://www.newtontownhall.com/901781768.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:05 GMT"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.553Z",
+  "time": "2021-04-27T10:46:17.955Z",
   "url": "http://www.newtontownhall.com/901781768.css"
 }
 
@@ -617,7 +560,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 5,
@@ -625,7 +568,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.579Z",
+  "time": "2021-04-27T10:46:18.315Z",
   "url": "http://www.newtontownhall.com/App_Themes/CP/nmenu.css"
 }
 
@@ -686,7 +629,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 5,
@@ -694,8 +637,65 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.579Z",
+  "time": "2021-04-27T10:46:18.316Z",
   "url": "http://www.newtontownhall.com/App_Themes/CP/nmenu.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:46:17 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:16 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.329Z",
+  "url": "http://www.newtontownhall.com/901781768.css"
 }
 
 {
@@ -756,7 +756,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 7,
@@ -764,7 +764,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.582Z",
+  "time": "2021-04-27T10:46:18.351Z",
   "url": "http://www.newtontownhall.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -825,7 +825,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 7,
@@ -833,7 +833,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.583Z",
+  "time": "2021-04-27T10:46:18.351Z",
   "url": "http://www.newtontownhall.com/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -845,7 +845,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:03:06.641Z",
+  "time": "2021-04-27T10:46:18.503Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
@@ -867,7 +867,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 04 May 2021 10:46:18 GMT"
     },
     {
       "name": "ETag",
@@ -895,7 +895,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 3,
@@ -903,348 +903,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.814Z",
+  "time": "2021-04-27T10:46:18.653Z",
   "url": "http://www.newtontownhall.com/1760078270.css"
-}
-
-{
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.853Z",
-  "url": "http://www.newtontownhall.com/-2031684067.js"
-}
-
-{
-  "bodySize": 617,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.854Z",
-  "url": "http://www.newtontownhall.com/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.855Z",
-  "url": "http://www.newtontownhall.com/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "bodySize": 23063,
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:03:06 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 05 Jan 2021 01:30:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.861Z",
-  "url": "http://www.newtontownhall.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHXYHcW4zQUJ3xEJnQ6DGCZi4oGbSyCjkEhH1aPAVNozqGgRUIJbwZSnUDVrPM4fpA2&t=637453854340000000"
-}
-
-{
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:03:06 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 05 Jan 2021 01:30:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:06.861Z",
-  "url": "http://www.newtontownhall.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHXYHcW4zQUJ3xEJnQ6DGCZi4oGbSyCjkEhH1aPAVNozqGgRUIJbwZSnUDVrPM4fpA2&t=637453854340000000"
 }
 
 {
@@ -1305,7 +965,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 4,
@@ -1313,8 +973,348 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:06.861Z",
+  "time": "2021-04-27T10:46:18.679Z",
   "url": "http://www.newtontownhall.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 617,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.701Z",
+  "url": "http://www.newtontownhall.com/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.702Z",
+  "url": "http://www.newtontownhall.com/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:46:18 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.719Z",
+  "url": "http://www.newtontownhall.com/-2031684067.js"
+}
+
+{
+  "bodySize": 23063,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:46:18 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 05 Jan 2021 01:30:34 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.720Z",
+  "url": "http://www.newtontownhall.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHXYHcW4zQUJ3xEJnQ6DGCZi4oGbSyCjkEhH1aPAVNozqGgRUIJbwZSnUDVrPM4fpA2&t=637453854340000000"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:46:18 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 05 Jan 2021 01:30:34 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:18.720Z",
+  "url": "http://www.newtontownhall.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHXYHcW4zQUJ3xEJnQ6DGCZi4oGbSyCjkEhH1aPAVNozqGgRUIJbwZSnUDVrPM4fpA2&t=637453854340000000"
 }
 
 {
@@ -1334,7 +1334,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 04 May 2021 10:46:18 GMT"
     },
     {
       "name": "ETag",
@@ -1362,7 +1362,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 3,
@@ -1370,7 +1370,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.098Z",
+  "time": "2021-04-27T10:46:19.031Z",
   "url": "http://www.newtontownhall.com/1760078270.css"
 }
 
@@ -1432,7 +1432,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 12,
@@ -1440,7 +1440,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.156Z",
+  "time": "2021-04-27T10:46:19.054Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.css"
 }
 
@@ -1501,7 +1501,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 12,
@@ -1509,7 +1509,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.156Z",
+  "time": "2021-04-27T10:46:19.055Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.css"
 }
 
@@ -1571,7 +1571,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 13,
@@ -1579,7 +1579,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.164Z",
+  "time": "2021-04-27T10:46:19.066Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.js"
 }
 
@@ -1640,7 +1640,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 13,
@@ -1648,12 +1648,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.164Z",
+  "time": "2021-04-27T10:46:19.067Z",
   "url": "http://www.newtontownhall.com/Common/Modules/Bids/RWDBids.js"
 }
 
 {
-  "bodySize": 70430,
+  "bodySize": 63852,
   "contentType": "application/x-javascript",
   "headers": [
     {
@@ -1670,11 +1670,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:03:06 GMT"
+      "value": "Wed, 27 Apr 2022 10:46:18 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:18 GMT"
     },
     {
       "name": "ETag",
@@ -1706,7 +1706,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 11,
@@ -1714,7 +1714,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.253Z",
+  "time": "2021-04-27T10:46:19.091Z",
   "url": "http://www.newtontownhall.com/ScriptResource.axd?d=sQ9IPQQLsFn-lu9DC0q6R4bXm0BWXVy5g3v4VN6eo00U0xgcabMm7gjigCRzfuUEyk9kih1PJw4N5MHVQu3TEM90Tp0S7FLg4CrT6o-kY2pomOUWQYf17tUaH0UaSZT94GEAobHfYllZkTo1kpCWjvYvleie1YghLqu2TZOC7ioVpoLxjqLezmrMMs1UyS-9MHcLTii0_kHFJI0d1TOToUf_xxKIBIonIKWlBJsP7bbhQoW9xYwVA4tx7S27Ei0DzSwHUOr9b0ApjFkwbbctFm71ZRmswkoZMWLUxriElPyG3deGYjhjnaPobliiAyenbsn0Q0V08fg4PSyQDLhyMYd_JE-KFaRrUDa8t0WzX976D-a5Y3mSYcAj4xRyU4VrUAH0Im3HGV5mNpRlZ2Ij7y0Zwxk9nJBufqsUKeMrUImDe0gL1VfS7P5ghB0T9fbmnLx_rMKoy2AyyvUSI8x8On16T6h6EuBJCkF-wSZxU2YV9hGH_94yx3zBCg7S2Nr9GFnUK054DedrfrVgjtUrShUtEHo6HG3U5EOTHyUv1L19SSzHwHwQ4Z4bXKkuUTHpQKfvsPeD1SweCPZBiMWr75wrDpQsNvyh4ulmfdkkxJNua7lirUHbqJseaEB-TXR3IFuEJvTDKonimuP3BsAOKIRUiib6h8x7vfaj70nik-YNqBkWDHWVD-wCRilzOaYdTKO4bUHAx1K_zhirXbEbl0yfECrZKXhtxgfci6sIz2hPXed9jGkteviTeVrqUVsXN6VWkYewfTaapeAdM-Dgs2rmZFHrXx6sIz9vPoUOhD8klcL2ALbTWvU7kIAn9xxl-Rfhyz4Kmf6t2UEjlPyw0IxoiM3LJdiQMOP8gkiyBz01"
 }
 
@@ -1740,7 +1740,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 04 May 2021 10:46:19 GMT"
     },
     {
       "name": "ETag",
@@ -1768,7 +1768,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:18 GMT"
     }
   ],
   "id": 14,
@@ -1776,8 +1776,73 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.396Z",
+  "time": "2021-04-27T10:46:19.371Z",
   "url": "http://www.newtontownhall.com/237693563.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:46:18 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Apr 2021 10:46:18 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:19.761Z",
+  "url": "http://www.newtontownhall.com/ScriptResource.axd?d=sQ9IPQQLsFn-lu9DC0q6R4bXm0BWXVy5g3v4VN6eo00U0xgcabMm7gjigCRzfuUEyk9kih1PJw4N5MHVQu3TEM90Tp0S7FLg4CrT6o-kY2pomOUWQYf17tUaH0UaSZT94GEAobHfYllZkTo1kpCWjvYvleie1YghLqu2TZOC7ioVpoLxjqLezmrMMs1UyS-9MHcLTii0_kHFJI0d1TOToUf_xxKIBIonIKWlBJsP7bbhQoW9xYwVA4tx7S27Ei0DzSwHUOr9b0ApjFkwbbctFm71ZRmswkoZMWLUxriElPyG3deGYjhjnaPobliiAyenbsn0Q0V08fg4PSyQDLhyMYd_JE-KFaRrUDa8t0WzX976D-a5Y3mSYcAj4xRyU4VrUAH0Im3HGV5mNpRlZ2Ij7y0Zwxk9nJBufqsUKeMrUImDe0gL1VfS7P5ghB0T9fbmnLx_rMKoy2AyyvUSI8x8On16T6h6EuBJCkF-wSZxU2YV9hGH_94yx3zBCg7S2Nr9GFnUK054DedrfrVgjtUrShUtEHo6HG3U5EOTHyUv1L19SSzHwHwQ4Z4bXKkuUTHpQKfvsPeD1SweCPZBiMWr75wrDpQsNvyh4ulmfdkkxJNua7lirUHbqJseaEB-TXR3IFuEJvTDKonimuP3BsAOKIRUiib6h8x7vfaj70nik-YNqBkWDHWVD-wCRilzOaYdTKO4bUHAx1K_zhirXbEbl0yfECrZKXhtxgfci6sIz2hPXed9jGkteviTeVrqUVsXN6VWkYewfTaapeAdM-Dgs2rmZFHrXx6sIz9vPoUOhD8klcL2ALbTWvU7kIAn9xxl-Rfhyz4Kmf6t2UEjlPyw0IxoiM3LJdiQMOP8gkiyBz01"
 }
 
 {
@@ -1801,7 +1866,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 04 May 2021 10:46:18 GMT"
     },
     {
       "name": "ETag",
@@ -1829,7 +1894,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 6,
@@ -1837,7 +1902,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.460Z",
+  "time": "2021-04-27T10:46:20.544Z",
   "url": "http://www.newtontownhall.com/-2031684067.js"
 }
 
@@ -1898,7 +1963,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:17 GMT"
     }
   ],
   "id": 4,
@@ -1906,7 +1971,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.465Z",
+  "time": "2021-04-27T10:46:20.735Z",
   "url": "http://www.newtontownhall.com/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -1927,7 +1992,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.572Z",
+  "time": "2021-04-27T10:46:20.832Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1673"
 }
 
@@ -1948,7 +2013,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.572Z",
+  "time": "2021-04-27T10:46:20.832Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1692"
 }
 
@@ -1969,7 +2034,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.572Z",
+  "time": "2021-04-27T10:46:20.833Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1688"
 }
 
@@ -1990,7 +2055,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.573Z",
+  "time": "2021-04-27T10:46:20.833Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1690"
 }
 
@@ -2011,7 +2076,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.573Z",
+  "time": "2021-04-27T10:46:20.833Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1694"
 }
 
@@ -2032,7 +2097,7 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.573Z",
+  "time": "2021-04-27T10:46:20.833Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1686"
 }
 
@@ -2053,8 +2118,113 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T06:03:07.592Z",
+  "time": "2021-04-27T10:46:20.852Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1696"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 23,
+  "method": "GET",
+  "time": "2021-04-27T10:46:20.937Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 24,
+  "method": "GET",
+  "time": "2021-04-27T10:46:20.938Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1682"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-27T10:46:20.938Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1676"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-27T10:46:20.938Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1678"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-27T10:46:20.938Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
 }
 
 {
@@ -2099,7 +2269,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
@@ -2111,7 +2281,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.893Z",
+  "time": "2021-04-27T10:46:21.162Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1673"
 }
 
@@ -2156,7 +2326,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
@@ -2168,523 +2338,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:07.894Z",
+  "time": "2021-04-27T10:46:21.163Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1673"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 23,
-  "method": "GET",
-  "time": "2021-04-17T06:03:07.894Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
-}
-
-{
-  "bodySize": 308,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "308"
-    }
-  ],
-  "id": 18,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.896Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1688"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "308"
-    }
-  ],
-  "id": 18,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.897Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1688"
-}
-
-{
-  "bodySize": 209,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "209"
-    }
-  ],
-  "id": 17,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.898Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1692"
-}
-
-{
-  "bodySize": 208,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "208"
-    }
-  ],
-  "id": 19,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.898Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1690"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "209"
-    }
-  ],
-  "id": 17,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.899Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1692"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "208"
-    }
-  ],
-  "id": 19,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.899Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1690"
-}
-
-{
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, no-cache=\"Set-Cookie\", s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 06:03:06 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:07.917Z",
-  "url": "http://www.newtontownhall.com/ScriptResource.axd?d=sQ9IPQQLsFn-lu9DC0q6R4bXm0BWXVy5g3v4VN6eo00U0xgcabMm7gjigCRzfuUEyk9kih1PJw4N5MHVQu3TEM90Tp0S7FLg4CrT6o-kY2pomOUWQYf17tUaH0UaSZT94GEAobHfYllZkTo1kpCWjvYvleie1YghLqu2TZOC7ioVpoLxjqLezmrMMs1UyS-9MHcLTii0_kHFJI0d1TOToUf_xxKIBIonIKWlBJsP7bbhQoW9xYwVA4tx7S27Ei0DzSwHUOr9b0ApjFkwbbctFm71ZRmswkoZMWLUxriElPyG3deGYjhjnaPobliiAyenbsn0Q0V08fg4PSyQDLhyMYd_JE-KFaRrUDa8t0WzX976D-a5Y3mSYcAj4xRyU4VrUAH0Im3HGV5mNpRlZ2Ij7y0Zwxk9nJBufqsUKeMrUImDe0gL1VfS7P5ghB0T9fbmnLx_rMKoy2AyyvUSI8x8On16T6h6EuBJCkF-wSZxU2YV9hGH_94yx3zBCg7S2Nr9GFnUK054DedrfrVgjtUrShUtEHo6HG3U5EOTHyUv1L19SSzHwHwQ4Z4bXKkuUTHpQKfvsPeD1SweCPZBiMWr75wrDpQsNvyh4ulmfdkkxJNua7lirUHbqJseaEB-TXR3IFuEJvTDKonimuP3BsAOKIRUiib6h8x7vfaj70nik-YNqBkWDHWVD-wCRilzOaYdTKO4bUHAx1K_zhirXbEbl0yfECrZKXhtxgfci6sIz2hPXed9jGkteviTeVrqUVsXN6VWkYewfTaapeAdM-Dgs2rmZFHrXx6sIz9vPoUOhD8klcL2ALbTWvU7kIAn9xxl-Rfhyz4Kmf6t2UEjlPyw0IxoiM3LJdiQMOP8gkiyBz01"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 24,
-  "method": "GET",
-  "time": "2021-04-17T06:03:08.014Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 25,
-  "method": "GET",
-  "time": "2021-04-17T06:03:08.015Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1682"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 26,
-  "method": "GET",
-  "time": "2021-04-17T06:03:08.016Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1676"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 27,
-  "method": "GET",
-  "time": "2021-04-17T06:03:08.016Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1678"
 }
 
 {
@@ -2729,7 +2384,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
@@ -2741,7 +2396,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.195Z",
+  "time": "2021-04-27T10:46:21.164Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1694"
 }
 
@@ -2786,7 +2441,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
@@ -2798,12 +2453,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.196Z",
+  "time": "2021-04-27T10:46:21.167Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1694"
 }
 
 {
-  "bodySize": 247,
+  "bodySize": 209,
   "contentType": "image/png",
   "headers": [
     {
@@ -2844,20 +2499,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "247"
+      "value": "209"
     }
   ],
-  "id": 21,
+  "id": 17,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.199Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1686"
+  "time": "2021-04-27T10:46:21.168Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1692"
 }
 
 {
@@ -2901,24 +2556,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "247"
+      "value": "209"
     }
   ],
-  "id": 21,
+  "id": 17,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.200Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1686"
+  "time": "2021-04-27T10:46:21.168Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1692"
 }
 
 {
-  "bodySize": 5312,
+  "bodySize": 308,
   "contentType": "image/png",
   "headers": [
     {
@@ -2959,20 +2614,337 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "5312"
+      "value": "308"
     }
   ],
-  "id": 23,
+  "id": 18,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.201Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
+  "time": "2021-04-27T10:46:21.169Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1688"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "308"
+    }
+  ],
+  "id": 18,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:21.169Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1688"
+}
+
+{
+  "bodySize": 208,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "208"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:21.171Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1690"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:20 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "208"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:21.171Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1690"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:46:19 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:18 GMT"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:21.402Z",
+  "url": "http://www.newtontownhall.com/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-27T10:46:21.427Z",
+  "url": "http://www.newtontownhall.com/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.440Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.440Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 31,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.444Z",
+  "url": "http://www.newtontownhall.com/Assets/Images/GoogleTranslate.gif"
 }
 
 {
@@ -3017,7 +2989,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
@@ -3029,7 +3001,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.202Z",
+  "time": "2021-04-27T10:46:22.445Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1696"
 }
 
@@ -3074,64 +3046,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "5312"
-    }
-  ],
-  "id": 23,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:08.202Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
@@ -3143,8 +3058,238 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.202Z",
+  "time": "2021-04-27T10:46:22.445Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1696"
+}
+
+{
+  "bodySize": 247,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "247"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.446Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1686"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "247"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.446Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1686"
+}
+
+{
+  "bodySize": 2784,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2784"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.446Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "2784"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.446Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
 }
 
 {
@@ -3189,19 +3334,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3611"
     }
   ],
-  "id": 25,
+  "id": 24,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.497Z",
+  "time": "2021-04-27T10:46:22.446Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1682"
 }
 
@@ -3246,19 +3391,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3611"
     }
   ],
-  "id": 25,
+  "id": 24,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.498Z",
+  "time": "2021-04-27T10:46:22.447Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1682"
 }
 
@@ -3304,19 +3449,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3184"
     }
   ],
-  "id": 27,
+  "id": 26,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.503Z",
+  "time": "2021-04-27T10:46:22.447Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1678"
 }
 
@@ -3361,20 +3506,78 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3184"
     }
   ],
-  "id": 27,
+  "id": 26,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.504Z",
+  "time": "2021-04-27T10:46:22.447Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1678"
+}
+
+{
+  "bodySize": 3540,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "5312"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.447Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
 }
 
 {
@@ -3419,19 +3622,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3416"
     }
   ],
-  "id": 26,
+  "id": 25,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.504Z",
+  "time": "2021-04-27T10:46:22.448Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1676"
 }
 
@@ -3476,280 +3679,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3416"
     }
   ],
-  "id": 26,
+  "id": 25,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:08.504Z",
+  "time": "2021-04-27T10:46:22.448Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1676"
-}
-
-{
-  "bodySize": 2092,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "2784"
-    }
-  ],
-  "id": 24,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:08.773Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "2784"
-    }
-  ],
-  "id": 24,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:09.093Z",
-  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1680"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 06:03:07 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:06 GMT"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:10.995Z",
-  "url": "http://www.newtontownhall.com/237693563.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 28,
-  "method": "GET",
-  "time": "2021-04-17T06:03:11.018Z",
-  "url": "http://www.newtontownhall.com/Toggle"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 29,
-  "method": "GET",
-  "time": "2021-04-17T06:03:11.957Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 30,
-  "method": "GET",
-  "time": "2021-04-17T06:03:11.957Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 31,
-  "method": "GET",
-  "time": "2021-04-17T06:03:11.960Z",
-  "url": "http://www.newtontownhall.com/Assets/Images/GoogleTranslate.gif"
 }
 
 {
@@ -3773,8 +3716,8 @@
   ],
   "id": 32,
   "method": "GET",
-  "time": "2021-04-17T06:03:11.980Z",
-  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1618639391980"
+  "time": "2021-04-27T10:46:22.468Z",
+  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1619520382468"
 }
 
 {
@@ -3798,8 +3741,8 @@
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T06:03:11.986Z",
-  "url": "http://www.newtontownhall.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=secondaryNav&_=1618639391986"
+  "time": "2021-04-27T10:46:22.474Z",
+  "url": "http://www.newtontownhall.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=secondaryNav&_=1619520382473"
 }
 
 {
@@ -3823,8 +3766,8 @@
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T06:03:12.021Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1618639392021"
+  "time": "2021-04-27T10:46:22.505Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1619520382505"
 }
 
 {
@@ -3844,307 +3787,8 @@
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T06:03:12.066Z",
+  "time": "2021-04-27T10:46:22.534Z",
   "url": "http://fonts.googleapis.com/css?family=Lato:700,regular%7CMontserrat:500,600,700,regular%7CMuli:600,700,800,regular%7COswald:500,600,700,regular%7C"
-}
-
-{
-  "bodySize": 2654,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.254Z",
-  "url": "http://fonts.googleapis.com/css?family=Lato:700,regular%7CMontserrat:500,600,700,regular%7CMuli:600,700,800,regular%7COswald:500,600,700,regular%7C"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.255Z",
-  "url": "http://fonts.googleapis.com/css?family=Lato:700,regular%7CMontserrat:500,600,700,regular%7CMuli:600,700,800,regular%7COswald:500,600,700,regular%7C"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 36,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.274Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 37,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.277Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 38,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.281Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 39,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.286Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 40,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.300Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 41,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.304Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 42,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.307Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 43,
-  "method": "GET",
-  "time": "2021-04-17T06:03:12.310Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
 {
@@ -4197,7 +3841,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     },
     {
       "name": "Content-Length",
@@ -4209,7 +3853,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.342Z",
+  "time": "2021-04-27T10:46:22.808Z",
   "url": "http://www.newtontownhall.com/Assets/Images/GoogleTranslate.gif"
 }
 
@@ -4262,7 +3906,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     },
     {
       "name": "Content-Length",
@@ -4274,8 +3918,503 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.343Z",
+  "time": "2021-04-27T10:46:22.808Z",
   "url": "http://www.newtontownhall.com/Assets/Images/GoogleTranslate.gif"
+}
+
+{
+  "bodySize": 2654,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.809Z",
+  "url": "http://fonts.googleapis.com/css?family=Lato:700,regular%7CMontserrat:500,600,700,regular%7CMuli:600,700,800,regular%7COswald:500,600,700,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.809Z",
+  "url": "http://fonts.googleapis.com/css?family=Lato:700,regular%7CMontserrat:500,600,700,regular%7CMuli:600,700,800,regular%7COswald:500,600,700,regular%7C"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.819Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.819Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:21 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "5312"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:22.820Z",
+  "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1683"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 36,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.825Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 37,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.830Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.834Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.839Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.849Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 41,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.852Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 42,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.855Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 43,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.857Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
 {
@@ -4315,7 +4454,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     },
     {
       "name": "Content-Length",
@@ -4327,564 +4466,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.343Z",
-  "url": "http://www.newtontownhall.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=secondaryNav&_=1618639391986"
-}
-
-{
-  "bodySize": 39324,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:53:03 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.522Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:53:03 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 38,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.523Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
-}
-
-{
-  "bodySize": 38487,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:29 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.523Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
-}
-
-{
-  "bodySize": 39348,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:14 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.523Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:14 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 36,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.524Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
-}
-
-{
-  "bodySize": 39396,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:30 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.562Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:30 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.562Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 05:29:40 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 05:29:40 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 15 Jul 2020 20:50:29 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Age",
-      "value": "174812"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.562Z",
-  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
+  "time": "2021-04-27T10:46:22.880Z",
+  "url": "http://www.newtontownhall.com/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=secondaryNav&_=1619520382473"
 }
 
 {
@@ -4937,7 +4520,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
   "id": 32,
@@ -4945,8 +4528,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.620Z",
-  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1618639391980"
+  "time": "2021-04-27T10:46:22.884Z",
+  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1619520382468"
 }
 
 {
@@ -4998,7 +4581,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
   "id": 32,
@@ -5006,425 +4589,29 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.621Z",
-  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1618639391980"
+  "time": "2021-04-27T10:46:22.884Z",
+  "url": "http://www.newtontownhall.com/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=16&themeID=1&menuContainerID=mainNav&_=1619520382468"
 }
 
 {
-  "bodySize": 40803,
-  "contentType": "font/ttf",
   "headers": [
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "name": "Accept",
+      "value": "*/*"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171432"
+      "name": "Referer",
+      "value": "http://www.newtontownhall.com/bids"
     }
   ],
-  "id": 43,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.625Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "bodySize": 46392,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "445582"
-    }
-  ],
-  "id": 40,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.625Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "445582"
-    }
-  ],
-  "id": 40,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.625Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "bodySize": 46240,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:03 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171432"
-    }
-  ],
-  "id": 41,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.626Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:03 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171432"
-    }
-  ],
-  "id": 41,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.626Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171432"
-    }
-  ],
-  "id": 43,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:12.682Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+  "id": 44,
+  "method": "GET",
+  "time": "2021-04-27T10:46:22.908Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -5485,7 +4672,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
   "id": 34,
@@ -5493,8 +4680,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.727Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1618639392021"
+  "time": "2021-04-27T10:46:23.110Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1619520382505"
 }
 
 {
@@ -5554,7 +4741,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
   "id": 34,
@@ -5562,8 +4749,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.728Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1618639392021"
+  "time": "2021-04-27T10:46:23.110Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange.js?_=1619520382505"
 }
 
 {
@@ -5585,10 +4772,844 @@
       "value": "http://www.newtontownhall.com/bids"
     }
   ],
-  "id": 44,
+  "id": 45,
   "method": "GET",
-  "time": "2021-04-17T06:03:12.730Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1618639392730"
+  "time": "2021-04-27T10:46:23.113Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1619520383113"
+}
+
+{
+  "bodySize": 29500,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:29 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.114Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
+}
+
+{
+  "bodySize": 29640,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:14 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.115Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
+}
+
+{
+  "bodySize": 29472,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:30 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.119Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
+}
+
+{
+  "bodySize": 29515,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:53:03 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.119Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:29 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.121Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:14 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    }
+  ],
+  "id": 36,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.145Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:50:30 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 39,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.145Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:01:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:01:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 15 Jul 2020 20:53:03 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "24288"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.145Z",
+  "url": "http://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf"
+}
+
+{
+  "bodySize": 46392,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "103700"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.145Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 05:58:03 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 05:58:03 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "103700"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.146Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "bodySize": 46240,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:46:23 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:03 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "0"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.196Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:46:23 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:03 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "0"
+    }
+  ],
+  "id": 41,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.197Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
 {
@@ -5621,11 +5642,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Thu, 22 Apr 2021 06:36:12 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Fri, 22 Apr 2022 06:36:12 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5649,7 +5670,7 @@
     },
     {
       "name": "Age",
-      "value": "518"
+      "value": "447011"
     }
   ],
   "id": 42,
@@ -5657,7 +5678,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.869Z",
+  "time": "2021-04-27T10:46:23.247Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
@@ -5690,11 +5711,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Thu, 22 Apr 2021 06:36:12 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Fri, 22 Apr 2022 06:36:12 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5718,7 +5739,7 @@
     },
     {
       "name": "Age",
-      "value": "518"
+      "value": "447011"
     }
   ],
   "id": 42,
@@ -5726,12 +5747,151 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:12.870Z",
+  "time": "2021-04-27T10:46:23.248Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
 {
-  "bodySize": 24592,
+  "bodySize": 47088,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "350882"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.248Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 23 Apr 2021 09:18:21 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sat, 23 Apr 2022 09:18:21 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "350882"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:46:23.248Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "bodySize": 39906,
   "contentType": "application/javascript",
   "headers": [
     {
@@ -5748,7 +5908,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -5756,7 +5916,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
+      "value": "\"0594da3593ad01:0\",\" \""
     },
     {
       "name": "Vary",
@@ -5788,16 +5948,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 30,
+  "id": 44,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.322Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
+  "time": "2021-04-27T10:46:23.248Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -5817,7 +5977,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -5825,7 +5985,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0dfdbc3eae6d51:0\",\" \""
+      "value": "\"0594da3593ad01:0\",\" \""
     },
     {
       "name": "Vary",
@@ -5857,16 +6017,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 30,
+  "id": 44,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.323Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
+  "time": "2021-04-27T10:46:23.248Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -5884,10 +6044,10 @@
       "value": "http://www.newtontownhall.com/bids"
     }
   ],
-  "id": 45,
+  "id": 46,
   "method": "GET",
-  "time": "2021-04-17T06:03:13.326Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:46:23.320Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -5948,16 +6108,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 44,
+  "id": 45,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.771Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1618639392730"
+  "time": "2021-04-27T10:46:23.440Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1619520383113"
 }
 
 {
@@ -6017,20 +6177,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 44,
+  "id": 45,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.772Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1618639392730"
+  "time": "2021-04-27T10:46:23.441Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/attrchange_ext.js?_=1619520383113"
 }
 
 {
-  "bodySize": 39906,
+  "bodySize": 24592,
   "contentType": "application/javascript",
   "headers": [
     {
@@ -6047,7 +6207,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -6055,7 +6215,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
     },
     {
       "name": "Vary",
@@ -6087,16 +6247,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 45,
+  "id": 46,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.956Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:46:23.673Z",
+  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -6116,7 +6276,7 @@
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
     },
     {
       "name": "Accept-Ranges",
@@ -6124,7 +6284,7 @@
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
     },
     {
       "name": "Vary",
@@ -6156,36 +6316,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:12 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 45,
+  "id": 46,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:13.956Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    }
-  ],
-  "id": 46,
-  "method": "GET",
-  "time": "2021-04-17T06:03:13.962Z",
+  "time": "2021-04-27T10:46:23.674Z",
   "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -6247,15 +6386,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 46,
+  "id": 30,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:14.269Z",
+  "time": "2021-04-27T10:46:23.674Z",
   "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -6316,155 +6455,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:22 GMT"
     }
   ],
-  "id": 46,
+  "id": 30,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:14.270Z",
+  "time": "2021-04-27T10:46:23.674Z",
   "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:14.364Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:11 GMT"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T06:03:14.365Z",
-  "url": "http://www.newtontownhall.com/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -6484,7 +6484,7 @@
   ],
   "id": 47,
   "method": "GET",
-  "time": "2021-04-17T06:03:14.382Z",
+  "time": "2021-04-27T10:46:23.761Z",
   "url": "http://www.newtontownhall.com/Assets/Styles/Print.css"
 }
 
@@ -6546,7 +6546,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     }
   ],
   "id": 47,
@@ -6554,7 +6554,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:14.692Z",
+  "time": "2021-04-27T10:46:24.098Z",
   "url": "http://www.newtontownhall.com/Assets/Styles/Print.css"
 }
 
@@ -6615,7 +6615,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:13 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     }
   ],
   "id": 47,
@@ -6623,7 +6623,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:14.692Z",
+  "time": "2021-04-27T10:46:24.098Z",
   "url": "http://www.newtontownhall.com/Assets/Styles/Print.css"
 }
 
@@ -6644,7 +6644,7 @@
   ],
   "id": 48,
   "method": "GET",
-  "time": "2021-04-17T06:03:14.788Z",
+  "time": "2021-04-27T10:46:24.191Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
@@ -6665,7 +6665,7 @@
   ],
   "id": 49,
   "method": "GET",
-  "time": "2021-04-17T06:03:14.799Z",
+  "time": "2021-04-27T10:46:24.202Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1674"
 }
 
@@ -6711,7 +6711,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     },
     {
       "name": "Content-Length",
@@ -6723,7 +6723,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:15.118Z",
+  "time": "2021-04-27T10:46:24.533Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1674"
 }
 
@@ -6768,7 +6768,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:14 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:23 GMT"
     },
     {
       "name": "Content-Length",
@@ -6780,13 +6780,13 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:15.119Z",
+  "time": "2021-04-27T10:46:24.533Z",
   "url": "http://www.newtontownhall.com/ImageRepository/Document?documentID=1674"
 }
 
 {
-  "bodySize": 42862,
-  "contentType": "application/x-javascript",
+  "bodySize": 2896,
+  "contentType": "application/javascript",
   "headers": [
     {
       "name": "Server",
@@ -6794,39 +6794,39 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:24 GMT"
     },
     {
       "name": "Content-Type",
-      "value": "application/x-javascript"
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
     },
     {
       "name": "Connection",
-      "value": "close"
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
     },
     {
       "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:03:15 GMT"
+      "value": "Wed, 28 Apr 2021 10:46:24 GMT"
     },
     {
       "name": "Cache-Control",
       "value": "max-age=86400"
     },
     {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Accept-Ranges",
+      "value": "bytes"
     }
   ],
   "id": 48,
@@ -6834,12 +6834,12 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:17.996Z",
+  "time": "2021-04-27T10:46:24.948Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
 {
-  "contentType": "application/x-javascript",
+  "contentType": "application/javascript",
   "headers": [
     {
       "name": "Server",
@@ -6847,39 +6847,39 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:03:15 GMT"
+      "value": "Tue, 27 Apr 2021 10:46:24 GMT"
     },
     {
       "name": "Content-Type",
-      "value": "application/x-javascript"
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
     },
     {
       "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "value": "Fri, 29 Sep 2017 06:51:29 GMT"
     },
     {
       "name": "Connection",
-      "value": "close"
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cded71-daf2\""
     },
     {
       "name": "Expires",
-      "value": "Sun, 18 Apr 2021 06:03:15 GMT"
+      "value": "Wed, 28 Apr 2021 10:46:24 GMT"
     },
     {
       "name": "Cache-Control",
       "value": "max-age=86400"
     },
     {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Accept-Ranges",
+      "value": "bytes"
     }
   ],
   "id": 48,
@@ -6887,38 +6887,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T06:03:18.571Z",
+  "time": "2021-04-27T10:46:25.623Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.newtontownhall.com/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 50,
-  "method": "GET",
-  "time": "2021-04-17T06:03:18.592Z",
-  "url": "http://analytics.civicplus.com//piwik.php?action_name=Newton%2C%20NJ%20-%20Official%20Website&idsite=471&rec=1&r=430679&h=11&m=33&s=18&url=http%3A%2F%2Fwww.newtontownhall.com%2Fbids&_id=592e1d069f682916&_idts=1618639399&_idvc=1&_idn=0&_refts=0&_viewts=1618639399&send_image=1&cookie=1&res=1024x768"
-}
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL file:///home/bid/project/mlproject/extractor/extractor.coffee. Domains, protocols and ports must match.
 

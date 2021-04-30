@@ -11,12 +11,12 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:57:58.238Z",
+  "time": "2021-04-27T10:44:21.172Z",
   "url": "http://www.hpca.gov/bids"
 }
 
 {
-  "bodySize": 1981,
+  "bodySize": 4877,
   "contentType": "text/html; charset=utf-8",
   "headers": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ghglnohqnbujzwvpaplwm5ql; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=enekt43y1grs0lt5m3dj11ny; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T05:57:59.245Z",
+  "time": "2021-04-27T10:44:22.347Z",
   "url": "http://www.hpca.gov/bids"
 }
 
@@ -81,7 +81,7 @@
     },
     {
       "name": "Accept",
-      "value": "*/*"
+      "value": "text/css,*/*;q=0.1"
     },
     {
       "name": "Referer",
@@ -90,8 +90,8 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.249Z",
-  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
+  "time": "2021-04-27T10:44:22.355Z",
+  "url": "http://www.hpca.gov/901781768.css"
 }
 
 {
@@ -111,8 +111,8 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.252Z",
-  "url": "http://www.hpca.gov/901781768.css"
+  "time": "2021-04-27T10:44:22.356Z",
+  "url": "http://www.hpca.gov/-1292471575.css"
 }
 
 {
@@ -123,7 +123,7 @@
     },
     {
       "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
+      "value": "*/*"
     },
     {
       "name": "Referer",
@@ -132,19 +132,19 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.253Z",
-  "url": "http://www.hpca.gov/-1292471575.css"
+  "time": "2021-04-27T10:44:22.357Z",
+  "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
 {
   "contentType": null,
   "headers": [],
-  "id": 2,
+  "id": 4,
   "redirectURL": null,
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:57:59.407Z",
+  "time": "2021-04-27T10:44:22.581Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.551Z",
+  "time": "2021-04-27T10:44:22.719Z",
   "url": "http://www.hpca.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.552Z",
+  "time": "2021-04-27T10:44:22.720Z",
   "url": "http://www.hpca.gov/-2031684067.js"
 }
 
@@ -207,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.854Z",
+  "time": "2021-04-27T10:44:23.089Z",
   "url": "http://www.hpca.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -228,7 +228,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.855Z",
+  "time": "2021-04-27T10:44:23.090Z",
   "url": "http://www.hpca.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -249,12 +249,12 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T05:57:59.856Z",
+  "time": "2021-04-27T10:44:23.091Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
-  "bodySize": 65988,
+  "bodySize": 74598,
   "contentType": "text/css; charset=utf-8",
   "headers": [
     {
@@ -271,11 +271,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 04 May 2021 10:44:22 GMT"
     },
     {
       "name": "ETag",
-      "value": "1716668566,\" \""
+      "value": "1193280278,\" \""
     },
     {
       "name": "Vary",
@@ -299,7 +299,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
     }
   ],
   "id": 3,
@@ -307,8 +307,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:00.145Z",
-  "url": "http://www.hpca.gov/901781768.css"
+  "time": "2021-04-27T10:44:23.445Z",
+  "url": "http://www.hpca.gov/-1292471575.css"
 }
 
 {
@@ -328,7 +328,7 @@
   ],
   "id": 10,
   "method": "GET",
-  "time": "2021-04-17T05:58:00.162Z",
+  "time": "2021-04-27T10:44:23.467Z",
   "url": "http://www.hpca.gov/237693563.js"
 }
 
@@ -357,7 +357,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ghglnohqnbujzwvpaplwm5ql; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=enekt43y1grs0lt5m3dj11ny; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -373,7 +373,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
     },
     {
       "name": "Content-Length",
@@ -385,12 +385,12 @@
   "stage": "end",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T05:58:00.163Z",
+  "time": "2021-04-27T10:44:23.468Z",
   "url": "http://www.hpca.gov/bids"
 }
 
 {
-  "bodySize": 74598,
+  "bodySize": 65988,
   "contentType": "text/css; charset=utf-8",
   "headers": [
     {
@@ -407,11 +407,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 04 May 2021 10:44:22 GMT"
     },
     {
       "name": "ETag",
-      "value": "1193280278,\" \""
+      "value": "1716668566,\" \""
     },
     {
       "name": "Vary",
@@ -435,294 +435,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
     }
   ],
-  "id": 4,
+  "id": 2,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:00.220Z",
-  "url": "http://www.hpca.gov/-1292471575.css"
-}
-
-{
-  "bodySize": 8662,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 7,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.456Z",
-  "url": "http://www.hpca.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0fbebb920adcb1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 7,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.457Z",
-  "url": "http://www.hpca.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "bodySize": 617,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.472Z",
-  "url": "http://www.hpca.gov/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0badb1ca073d31:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 8,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.473Z",
-  "url": "http://www.hpca.gov/Areas/Layout/Assets/Scripts/Search.js"
+  "time": "2021-04-27T10:44:23.481Z",
+  "url": "http://www.hpca.gov/901781768.css"
 }
 
 {
@@ -783,7 +505,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
     }
   ],
   "id": 5,
@@ -791,45 +513,53 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:00.486Z",
+  "time": "2021-04-27T10:44:23.884Z",
   "url": "http://www.hpca.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
+  "bodySize": 617,
+  "contentType": "application/javascript",
   "headers": [
     {
       "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "value": "private, s-maxage=600,no-transform"
     },
     {
       "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
+      "value": "application/javascript"
     },
     {
       "name": "Content-Encoding",
       "value": "gzip"
     },
     {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
     },
     {
       "name": "ETag",
-      "value": "1781971946,\" \""
+      "value": "\"0badb1ca073d31:0\",\" \""
     },
     {
       "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
+      "value": "Accept-Encoding"
     },
     {
       "name": "Server",
       "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
@@ -845,16 +575,85 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
     }
   ],
-  "id": 6,
+  "id": 8,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:00.515Z",
-  "url": "http://www.hpca.gov/-2031684067.js"
+  "time": "2021-04-27T10:44:23.886Z",
+  "url": "http://www.hpca.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 12 Dec 2017 23:22:44 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0badb1ca073d31:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
+    }
+  ],
+  "id": 8,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:23.886Z",
+  "url": "http://www.hpca.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
 {
@@ -865,184 +664,8 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:58:00.521Z",
+  "time": "2021-04-27T10:44:23.964Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1193280278,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
-    }
-  ],
-  "id": 4,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.533Z",
-  "url": "http://www.hpca.gov/-1292471575.css"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:58 GMT"
-    }
-  ],
-  "id": 3,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:00.711Z",
-  "url": "http://www.hpca.gov/901781768.css"
-}
-
-{
-  "bodySize": 48808,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.034Z",
-  "url": "http://www.hpca.gov/237693563.js"
 }
 
 {
@@ -1102,7 +725,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
     }
   ],
   "id": 5,
@@ -1110,8 +733,209 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.107Z",
+  "time": "2021-04-27T10:44:24.618Z",
   "url": "http://www.hpca.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 45210,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:44:23 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:23 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:24.666Z",
+  "url": "http://www.hpca.gov/237693563.js"
+}
+
+{
+  "bodySize": 8662,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:25.049Z",
+  "url": "http://www.hpca.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 05 Jan 2011 21:37:18 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0fbebb920adcb1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
+    }
+  ],
+  "id": 7,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:25.049Z",
+  "url": "http://www.hpca.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
 {
@@ -1135,7 +959,69 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 04 May 2021 10:44:23 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:23 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:26.152Z",
+  "url": "http://www.hpca.gov/237693563.js"
+}
+
+{
+  "bodySize": 88221,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:44:23 GMT"
     },
     {
       "name": "ETag",
@@ -1163,7 +1049,182 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:26.507Z",
+  "url": "http://www.hpca.gov/-2031684067.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:44:22 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1193280278,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:27.162Z",
+  "url": "http://www.hpca.gov/-1292471575.css"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:44:22 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:21 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:28.444Z",
+  "url": "http://www.hpca.gov/901781768.css"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:44:23 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:22 GMT"
     }
   ],
   "id": 6,
@@ -1171,7 +1232,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.174Z",
+  "time": "2021-04-27T10:44:30.114Z",
   "url": "http://www.hpca.gov/-2031684067.js"
 }
 
@@ -1192,7 +1253,7 @@
   ],
   "id": 11,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.213Z",
+  "time": "2021-04-27T10:44:30.151Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5262"
 }
 
@@ -1213,7 +1274,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.221Z",
+  "time": "2021-04-27T10:44:30.159Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5264"
 }
 
@@ -1234,7 +1295,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.221Z",
+  "time": "2021-04-27T10:44:30.159Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5267"
 }
 
@@ -1255,7 +1316,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.230Z",
+  "time": "2021-04-27T10:44:30.168Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5266"
 }
 
@@ -1276,7 +1337,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.234Z",
+  "time": "2021-04-27T10:44:30.172Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5289"
 }
 
@@ -1297,7 +1358,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.236Z",
+  "time": "2021-04-27T10:44:30.174Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5291"
 }
 
@@ -1318,7 +1379,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.251Z",
+  "time": "2021-04-27T10:44:30.190Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5287"
 }
 
@@ -1339,7 +1400,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.268Z",
+  "time": "2021-04-27T10:44:30.206Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5285"
 }
 
@@ -1360,7 +1421,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.268Z",
+  "time": "2021-04-27T10:44:30.206Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5279"
 }
 
@@ -1381,7 +1442,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.268Z",
+  "time": "2021-04-27T10:44:30.206Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5281"
 }
 
@@ -1402,7 +1463,7 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.268Z",
+  "time": "2021-04-27T10:44:30.206Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5283"
 }
 
@@ -1423,7 +1484,7 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.303Z",
+  "time": "2021-04-27T10:44:30.238Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/1connect.png"
 }
 
@@ -1444,7 +1505,7 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.304Z",
+  "time": "2021-04-27T10:44:30.238Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/2notify.png"
 }
 
@@ -1465,7 +1526,7 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.304Z",
+  "time": "2021-04-27T10:44:30.238Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/3service.png"
 }
 
@@ -1486,7 +1547,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.304Z",
+  "time": "2021-04-27T10:44:30.239Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/4pay.png"
 }
 
@@ -1507,238 +1568,29 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T05:58:01.305Z",
+  "time": "2021-04-27T10:44:30.239Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/5council.png"
 }
 
 {
-  "bodySize": 13675,
-  "contentType": "image/png",
   "headers": [
     {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Content-Type",
-      "value": "image/png"
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
     },
     {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "15920"
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
-  "id": 13,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.511Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5267"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "15920"
-    }
-  ],
-  "id": 13,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.512Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5267"
-}
-
-{
-  "bodySize": 118,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "118"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.550Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5266"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "118"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.551Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5266"
+  "id": 27,
+  "method": "GET",
+  "time": "2021-04-27T10:44:30.271Z",
+  "url": "http://www.hpca.gov/Toggle"
 }
 
 {
@@ -1783,7 +1635,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -1795,7 +1647,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.555Z",
+  "time": "2021-04-27T10:44:31.423Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5264"
 }
 
@@ -1840,7 +1692,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -1852,123 +1704,50 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.556Z",
+  "time": "2021-04-27T10:44:31.423Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5264"
 }
 
 {
-  "bodySize": 3603,
-  "contentType": "image/jpeg",
   "headers": [
     {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Content-Type",
-      "value": "image/jpeg"
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
     },
     {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3603"
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.563Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5262"
+  "id": 28,
+  "method": "GET",
+  "time": "2021-04-27T10:44:31.424Z",
+  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
-  "contentType": "image/jpeg",
   "headers": [
     {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Content-Type",
-      "value": "image/jpeg"
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
     },
     {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3603"
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.564Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5262"
+  "id": 29,
+  "method": "GET",
+  "time": "2021-04-27T10:44:31.424Z",
+  "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -2013,7 +1792,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2025,7 +1804,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.565Z",
+  "time": "2021-04-27T10:44:31.424Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5289"
 }
 
@@ -2070,7 +1849,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2082,8 +1861,123 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.565Z",
+  "time": "2021-04-27T10:44:31.424Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5289"
+}
+
+{
+  "bodySize": 118,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "118"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.425Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5266"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "118"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.425Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5266"
 }
 
 {
@@ -2128,7 +2022,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2140,7 +2034,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.801Z",
+  "time": "2021-04-27T10:44:31.425Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5291"
 }
 
@@ -2185,7 +2079,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2197,8 +2091,123 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.801Z",
+  "time": "2021-04-27T10:44:31.425Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5291"
+}
+
+{
+  "bodySize": 3603,
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3603"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.426Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5262"
+}
+
+{
+  "contentType": "image/jpeg",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/jpeg"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3603"
+    }
+  ],
+  "id": 11,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.426Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5262"
 }
 
 {
@@ -2243,7 +2252,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2255,7 +2264,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.856Z",
+  "time": "2021-04-27T10:44:31.426Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5287"
 }
 
@@ -2300,7 +2309,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2312,123 +2321,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.856Z",
+  "time": "2021-04-27T10:44:31.426Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5287"
-}
-
-{
-  "bodySize": 1597,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1597"
-    }
-  ],
-  "id": 19,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.871Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5279"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1597"
-    }
-  ],
-  "id": 19,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:01.871Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5279"
 }
 
 {
@@ -2473,7 +2367,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2485,7 +2379,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.875Z",
+  "time": "2021-04-27T10:44:31.427Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5285"
 }
 
@@ -2530,7 +2424,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2542,12 +2436,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.876Z",
+  "time": "2021-04-27T10:44:31.427Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5285"
 }
 
 {
-  "bodySize": 1568,
+  "bodySize": 1597,
   "contentType": "image/png",
   "headers": [
     {
@@ -2588,20 +2482,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "1568"
+      "value": "1597"
     }
   ],
-  "id": 20,
+  "id": 19,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.887Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5281"
+  "time": "2021-04-27T10:44:31.427Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5279"
 }
 
 {
@@ -2645,20 +2539,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "1568"
+      "value": "1597"
     }
   ],
-  "id": 20,
+  "id": 19,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:01.887Z",
-  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5281"
+  "time": "2021-04-27T10:44:31.427Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5279"
 }
 
 {
@@ -2703,7 +2597,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2715,7 +2609,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.108Z",
+  "time": "2021-04-27T10:44:31.427Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5283"
 }
 
@@ -2760,7 +2654,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2772,7 +2666,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.108Z",
+  "time": "2021-04-27T10:44:31.428Z",
   "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5283"
 }
 
@@ -2790,11 +2684,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:30 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:30 GMT"
     },
     {
       "name": "ETag",
@@ -2826,7 +2720,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2838,7 +2732,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.175Z",
+  "time": "2021-04-27T10:44:31.428Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/1connect.png"
 }
 
@@ -2855,11 +2749,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:30 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:30 GMT"
     },
     {
       "name": "ETag",
@@ -2891,7 +2785,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2903,8 +2797,123 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.176Z",
+  "time": "2021-04-27T10:44:31.428Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/1connect.png"
+}
+
+{
+  "bodySize": 15920,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "15920"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.428Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5267"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "15920"
+    }
+  ],
+  "id": 13,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.428Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5267"
 }
 
 {
@@ -2921,11 +2930,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
@@ -2957,7 +2966,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -2969,7 +2978,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.186Z",
+  "time": "2021-04-27T10:44:31.429Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/2notify.png"
 }
 
@@ -2986,11 +2995,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
@@ -3022,7 +3031,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -3034,7 +3043,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.187Z",
+  "time": "2021-04-27T10:44:31.429Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/2notify.png"
 }
 
@@ -3052,11 +3061,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
@@ -3088,7 +3097,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -3100,7 +3109,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.204Z",
+  "time": "2021-04-27T10:44:31.429Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/3service.png"
 }
 
@@ -3117,11 +3126,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
@@ -3153,7 +3162,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
@@ -3165,12 +3174,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.205Z",
+  "time": "2021-04-27T10:44:31.429Z",
   "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/3service.png"
 }
 
 {
-  "bodySize": 3357,
+  "bodySize": 1568,
   "contentType": "image/png",
   "headers": [
     {
@@ -3180,14 +3189,6 @@
     {
       "name": "Content-Type",
       "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
     },
     {
       "name": "ETag",
@@ -3219,20 +3220,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "3357"
+      "value": "1568"
     }
   ],
-  "id": 25,
+  "id": 20,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.214Z",
-  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/4pay.png"
+  "time": "2021-04-27T10:44:31.430Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5281"
 }
 
 {
@@ -3245,14 +3246,6 @@
     {
       "name": "Content-Type",
       "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:01 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:01 GMT"
     },
     {
       "name": "ETag",
@@ -3284,275 +3277,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:30 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "3357"
+      "value": "1568"
     }
   ],
-  "id": 25,
+  "id": 20,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:02.214Z",
-  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/4pay.png"
-}
-
-{
-  "bodySize": 3611,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:02 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:02 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3611"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:02.405Z",
-  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/5council.png"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 25 Apr 2021 05:58:02 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 17 Mar 2021 05:58:02 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:01 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "3611"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:02.406Z",
-  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/5council.png"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:58:00 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:57:59 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:03.747Z",
-  "url": "http://www.hpca.gov/237693563.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 27,
-  "method": "GET",
-  "time": "2021-04-17T05:58:03.770Z",
-  "url": "http://www.hpca.gov/Toggle"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 28,
-  "method": "GET",
-  "time": "2021-04-17T05:58:04.736Z",
-  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 29,
-  "method": "GET",
-  "time": "2021-04-17T05:58:04.737Z",
-  "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
+  "time": "2021-04-27T10:44:31.430Z",
+  "url": "http://www.hpca.gov/ImageRepository/Document?documentID=5281"
 }
 
 {
@@ -3576,8 +3314,8 @@
   ],
   "id": 30,
   "method": "GET",
-  "time": "2021-04-17T05:58:04.756Z",
-  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639084756"
+  "time": "2021-04-27T10:44:31.448Z",
+  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520271448"
 }
 
 {
@@ -3601,8 +3339,8 @@
   ],
   "id": 31,
   "method": "GET",
-  "time": "2021-04-17T05:58:04.762Z",
-  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639084762"
+  "time": "2021-04-27T10:44:31.454Z",
+  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520271453"
 }
 
 {
@@ -3622,186 +3360,13 @@
   ],
   "id": 32,
   "method": "GET",
-  "time": "2021-04-17T05:58:04.815Z",
+  "time": "2021-04-27T10:44:31.503Z",
   "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7C"
 }
 
 {
-  "bodySize": 386,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 32,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:04.998Z",
-  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7C"
-}
-
-{
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "private, max-age=86400"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Server",
-      "value": "ESF"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "X-Frame-Options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    }
-  ],
-  "id": 32,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:04.998Z",
-  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7C"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 33,
-  "method": "GET",
-  "time": "2021-04-17T05:58:05.010Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 34,
-  "method": "GET",
-  "time": "2021-04-17T05:58:05.015Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
+  "bodySize": 3357,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3809,27 +3374,19 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
+      "value": "image/png"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -3857,20 +3414,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3357"
     }
   ],
-  "id": 28,
+  "id": 25,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.046Z",
-  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:44:31.635Z",
+  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/4pay.png"
 }
 
 {
-  "contentType": "application/javascript",
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
@@ -3878,27 +3439,19 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
+      "value": "image/png"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -3926,16 +3479,151 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3357"
     }
   ],
-  "id": 28,
+  "id": 25,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.047Z",
-  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:44:31.635Z",
+  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/4pay.png"
+}
+
+{
+  "bodySize": 3611,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3611"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.645Z",
+  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/5council.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 05 May 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sat, 27 Mar 2021 10:44:31 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "3611"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.646Z",
+  "url": "http://www.hpca.gov/ImageRepository/Path?filePath=/Documents/Content/137/257/5council.png"
 }
 
 {
@@ -3996,7 +3684,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 29,
@@ -4004,7 +3692,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.066Z",
+  "time": "2021-04-27T10:44:31.806Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -4065,7 +3753,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 29,
@@ -4073,8 +3761,202 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.066Z",
+  "time": "2021-04-27T10:44:31.807Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
+    }
+  ],
+  "id": 33,
+  "method": "GET",
+  "time": "2021-04-27T10:44:31.811Z",
+  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 386,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.832Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7C"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "private, max-age=86400"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Server",
+      "value": "ESF"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "X-Frame-Options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:31.832Z",
+  "url": "http://fonts.googleapis.com/css?family=Montserrat:700,regular%7C"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-27T10:44:31.843Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.hpca.gov/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 35,
+  "method": "GET",
+  "time": "2021-04-27T10:44:31.848Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
 {
@@ -4127,7 +4009,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 30,
@@ -4135,8 +4017,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.067Z",
-  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639084756"
+  "time": "2021-04-27T10:44:31.877Z",
+  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520271448"
 }
 
 {
@@ -4188,7 +4070,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 30,
@@ -4196,29 +4078,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.068Z",
-  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618639084756"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.hpca.gov/bids"
-    }
-  ],
-  "id": 35,
-  "method": "GET",
-  "time": "2021-04-17T05:58:05.073Z",
-  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:44:31.877Z",
+  "url": "http://www.hpca.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619520271448"
 }
 
 {
@@ -4271,7 +4132,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 31,
@@ -4279,8 +4140,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.097Z",
-  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639084762"
+  "time": "2021-04-27T10:44:31.881Z",
+  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520271453"
 }
 
 {
@@ -4332,7 +4193,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:03 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
   "id": 31,
@@ -4340,12 +4201,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.098Z",
-  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1618639084762"
+  "time": "2021-04-27T10:44:31.882Z",
+  "url": "http://www.hpca.gov/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=secondaryNav&_=1619520271453"
 }
 
 {
-  "bodySize": 47088,
+  "bodySize": 6678,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -4355,10 +4216,6 @@
     {
       "name": "Vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
     },
     {
       "name": "Content-Type",
@@ -4373,151 +4230,16 @@
       "value": "*"
     },
     {
-      "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171125"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:05.176Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
+      "name": "Content-Length",
+      "value": "46392"
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "171125"
-    }
-  ],
-  "id": 34,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:05.176Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "bodySize": 46392,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4541,84 +4263,15 @@
     },
     {
       "name": "Age",
-      "value": "445275"
+      "value": "497797"
     }
   ],
-  "id": 33,
+  "id": 34,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.176Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "445275"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:58:05.177Z",
+  "time": "2021-04-27T10:44:32.164Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
@@ -4680,15 +4333,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
-  "id": 35,
+  "id": 28,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.391Z",
+  "time": "2021-04-27T10:44:32.174Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4749,15 +4402,154 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
     }
   ],
-  "id": 35,
+  "id": 28,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.392Z",
+  "time": "2021-04-27T10:44:32.175Z",
+  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:32.182Z",
+  "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:44:31 GMT"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:32.182Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4778,7 +4570,7 @@
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T05:58:05.398Z",
+  "time": "2021-04-27T10:44:32.189Z",
   "url": "http://www.hpca.gov/Assets/Styles/Print.css"
 }
 
@@ -4799,8 +4591,216 @@
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T05:58:05.399Z",
+  "time": "2021-04-27T10:44:32.208Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 28392,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "170488"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:32.262Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "170488"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:32.268Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "46392"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "497797"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:44:32.337Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
@@ -4861,7 +4861,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:32 GMT"
     }
   ],
   "id": 36,
@@ -4869,7 +4869,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.732Z",
+  "time": "2021-04-27T10:44:32.555Z",
   "url": "http://www.hpca.gov/Assets/Styles/Print.css"
 }
 
@@ -4930,7 +4930,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:32 GMT"
     }
   ],
   "id": 36,
@@ -4938,7 +4938,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.733Z",
+  "time": "2021-04-27T10:44:32.555Z",
   "url": "http://www.hpca.gov/Assets/Styles/Print.css"
 }
 
@@ -5000,7 +5000,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:32 GMT"
     }
   ],
   "id": 37,
@@ -5008,7 +5008,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.746Z",
+  "time": "2021-04-27T10:44:32.593Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -5069,7 +5069,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:04 GMT"
+      "value": "Tue, 27 Apr 2021 10:44:32 GMT"
     }
   ],
   "id": 37,
@@ -5077,7 +5077,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:58:05.746Z",
+  "time": "2021-04-27T10:44:32.594Z",
   "url": "http://www.hpca.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 

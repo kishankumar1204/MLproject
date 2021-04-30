@@ -22,7 +22,10 @@ def extract(site_data):
 def main(args):
 	extractor = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'extractor.coffee')
 	path = utils.get_data_path(args.site[0])
-    	#urls = utils.load_urls(path)	print(path)
+    	#urls = utils.load_urls(path)
+	print(path)
+	print(extractor)
+	print(label)
 	name=[]
 	start=[]
 	base=[]

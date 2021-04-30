@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:58:33.719Z",
+  "time": "2021-04-27T10:44:59.091Z",
   "url": "http://www.cityofmiddletown.com/Bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:58:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:45:00 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:58:34.966Z",
+  "time": "2021-04-27T10:45:01.305Z",
   "url": "http://www.cityofmiddletown.com/Bids"
 }
 
@@ -86,8 +86,65 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:58:34.966Z",
+  "time": "2021-04-27T10:45:01.306Z",
   "url": "https://www.middletownct.gov/Bids"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Location",
+      "value": "https://www.middletownct.gov/Bids"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:45:00 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "150"
+    }
+  ],
+  "id": 1,
+  "redirectURL": "https://www.middletownct.gov/Bids",
+  "stage": "end",
+  "status": 302,
+  "statusText": "Found",
+  "time": "2021-04-27T10:45:01.307Z",
+  "url": "http://www.cityofmiddletown.com/Bids"
 }
 
 {
@@ -98,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:58:37.619Z",
+  "time": "2021-04-27T10:45:04.295Z",
   "url": "https://www.middletownct.gov/Bids"
 }
 

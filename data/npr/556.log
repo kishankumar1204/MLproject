@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T06:06:09.685Z",
+  "time": "2021-04-27T10:49:02.399Z",
   "url": "http://www.countyofplumas.com/bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T06:06:12.006Z",
+  "time": "2021-04-27T10:49:03.898Z",
   "url": "http://www.countyofplumas.com/bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T06:06:12.007Z",
+  "time": "2021-04-27T10:49:03.898Z",
   "url": "https://www.plumascounty.us/bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 06:06:11 GMT"
+      "value": "Tue, 27 Apr 2021 10:49:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T06:06:12.008Z",
+  "time": "2021-04-27T10:49:03.899Z",
   "url": "http://www.countyofplumas.com/bids"
 }
 
@@ -155,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T06:06:14.792Z",
+  "time": "2021-04-27T10:49:06.740Z",
   "url": "https://www.plumascounty.us/bids"
 }
 

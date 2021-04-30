@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:53:32.557Z",
+  "time": "2021-04-27T10:34:56.967Z",
   "url": "http://www.gloucester-ma.gov/Bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=2qixezkuuiryzfgeswaqv2ob; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ktiotce40rqbdx1y5pyfuwqv; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:32 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:57 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T05:53:33.543Z",
+  "time": "2021-04-27T10:34:58.189Z",
   "url": "http://www.gloucester-ma.gov/Bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:53:33.549Z",
+  "time": "2021-04-27T10:34:58.197Z",
   "url": "http://www.gloucester-ma.gov/901781768.css"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T05:53:33.550Z",
+  "time": "2021-04-27T10:34:58.198Z",
   "url": "http://www.gloucester-ma.gov/-1999389225.css"
 }
 
@@ -132,7 +132,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T05:53:33.551Z",
+  "time": "2021-04-27T10:34:58.199Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:53:33.683Z",
+  "time": "2021-04-27T10:34:58.452Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T05:53:33.834Z",
+  "time": "2021-04-27T10:34:58.551Z",
   "url": "http://www.gloucester-ma.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,207 +186,8 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T05:53:33.835Z",
+  "time": "2021-04-27T10:34:58.552Z",
   "url": "http://www.gloucester-ma.gov/-2031684067.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    }
-  ],
-  "id": 7,
-  "method": "GET",
-  "time": "2021-04-17T05:53:34.123Z",
-  "url": "http://www.gloucester-ma.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    }
-  ],
-  "id": 8,
-  "method": "GET",
-  "time": "2021-04-17T05:53:34.124Z",
-  "url": "http://www.gloucester-ma.gov/Areas/Layout/Assets/Scripts/Search.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    }
-  ],
-  "id": 9,
-  "method": "GET",
-  "time": "2021-04-17T05:53:34.125Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    }
-  ],
-  "id": 10,
-  "method": "GET",
-  "time": "2021-04-17T05:53:34.417Z",
-  "url": "http://www.gloucester-ma.gov/237693563.js"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=2qixezkuuiryzfgeswaqv2ob; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:32 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "62204"
-    }
-  ],
-  "id": 1,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T05:53:34.418Z",
-  "url": "http://www.gloucester-ma.gov/Bids"
-}
-
-{
-  "bodySize": 65988,
-  "contentType": "text/css; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:33 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
-    }
-  ],
-  "id": 2,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:34.420Z",
-  "url": "http://www.gloucester-ma.gov/901781768.css"
 }
 
 {
@@ -407,7 +208,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 04 May 2021 10:34:58 GMT"
     },
     {
       "name": "ETag",
@@ -435,7 +236,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
     }
   ],
   "id": 3,
@@ -443,8 +244,390 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.466Z",
+  "time": "2021-04-27T10:34:59.296Z",
   "url": "http://www.gloucester-ma.gov/-1999389225.css"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:34:59.657Z",
+  "url": "http://www.gloucester-ma.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:34:59 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:34:59.677Z",
+  "url": "http://www.gloucester-ma.gov/-2031684067.js"
+}
+
+{
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:34:58 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1940360932,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
+    }
+  ],
+  "id": 3,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:00.041Z",
+  "url": "http://www.gloucester-ma.gov/-1999389225.css"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:00.387Z",
+  "url": "http://www.gloucester-ma.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:34:59 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:00.427Z",
+  "url": "http://www.gloucester-ma.gov/-2031684067.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    }
+  ],
+  "id": 7,
+  "method": "GET",
+  "time": "2021-04-27T10:35:00.572Z",
+  "url": "http://www.gloucester-ma.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    }
+  ],
+  "id": 8,
+  "method": "GET",
+  "time": "2021-04-27T10:35:00.572Z",
+  "url": "http://www.gloucester-ma.gov/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    }
+  ],
+  "id": 9,
+  "method": "GET",
+  "time": "2021-04-27T10:35:00.573Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
@@ -505,7 +688,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:59 GMT"
     }
   ],
   "id": 7,
@@ -513,7 +696,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.718Z",
+  "time": "2021-04-27T10:35:00.927Z",
   "url": "http://www.gloucester-ma.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -574,7 +757,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:59 GMT"
     }
   ],
   "id": 7,
@@ -582,7 +765,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.719Z",
+  "time": "2021-04-27T10:35:00.928Z",
   "url": "http://www.gloucester-ma.gov/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -644,7 +827,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:59 GMT"
     }
   ],
   "id": 8,
@@ -652,7 +835,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.722Z",
+  "time": "2021-04-27T10:35:00.930Z",
   "url": "http://www.gloucester-ma.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -713,7 +896,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:59 GMT"
     }
   ],
   "id": 8,
@@ -721,75 +904,33 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.722Z",
+  "time": "2021-04-27T10:35:00.931Z",
   "url": "http://www.gloucester-ma.gov/Areas/Layout/Assets/Scripts/Search.js"
 }
 
 {
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
   "headers": [
     {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "name": "Accept",
+      "value": "*/*"
     },
     {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
     }
   ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:34.759Z",
-  "url": "http://www.gloucester-ma.gov/-2031684067.js"
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:35:01.691Z",
+  "url": "http://www.gloucester-ma.gov/237693563.js"
 }
 
 {
-  "bodySize": 34827,
-  "contentType": "application/javascript",
+  "contentType": "text/html; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
@@ -797,27 +938,11 @@
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "text/html; charset=utf-8"
     },
     {
       "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -829,7 +954,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=ktiotce40rqbdx1y5pyfuwqv; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -845,31 +970,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:57 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "62204"
     }
   ],
-  "id": 5,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:34.766Z",
-  "url": "http://www.gloucester-ma.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
-}
-
-{
-  "contentType": null,
-  "headers": [],
-  "id": 9,
+  "id": 1,
   "redirectURL": null,
   "stage": "end",
-  "status": null,
-  "statusText": null,
-  "time": "2021-04-17T05:53:34.806Z",
-  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:35:01.692Z",
+  "url": "http://www.gloucester-ma.gov/Bids"
 }
 
 {
+  "bodySize": 132188,
   "contentType": "text/css; charset=utf-8",
   "headers": [
     {
@@ -886,7 +1004,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 04 May 2021 10:34:58 GMT"
     },
     {
       "name": "ETag",
@@ -914,16 +1032,90 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
     }
   ],
   "id": 2,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:34.998Z",
+  "time": "2021-04-27T10:35:02.094Z",
   "url": "http://www.gloucester-ma.gov/901781768.css"
+}
+
+{
+  "contentType": null,
+  "headers": [],
+  "id": 9,
+  "redirectURL": null,
+  "stage": "end",
+  "status": null,
+  "statusText": null,
+  "time": "2021-04-27T10:35:02.502Z",
+  "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+}
+
+{
+  "bodySize": 48808,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:35:01 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:01 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:03.700Z",
+  "url": "http://www.gloucester-ma.gov/237693563.js"
 }
 
 {
@@ -943,11 +1135,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 04 May 2021 10:34:58 GMT"
     },
     {
       "name": "ETag",
-      "value": "-1940360932,\" \""
+      "value": "1716668566,\" \""
     },
     {
       "name": "Vary",
@@ -971,269 +1163,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
+      "value": "Tue, 27 Apr 2021 10:34:58 GMT"
     }
   ],
-  "id": 3,
+  "id": 2,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:35.065Z",
-  "url": "http://www.gloucester-ma.gov/-1999389225.css"
-}
-
-{
-  "bodySize": 45210,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:35.299Z",
-  "url": "http://www.gloucester-ma.gov/237693563.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
-    }
-  ],
-  "id": 5,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:35.755Z",
-  "url": "http://www.gloucester-ma.gov/Scripts/2011.3.1115/jquery-1.6.4.min.js"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:34 GMT"
-    }
-  ],
-  "id": 10,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:36.176Z",
-  "url": "http://www.gloucester-ma.gov/237693563.js"
-}
-
-{
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:53:34 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:33 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:37.955Z",
-  "url": "http://www.gloucester-ma.gov/-2031684067.js"
+  "time": "2021-04-27T10:35:04.465Z",
+  "url": "http://www.gloucester-ma.gov/901781768.css"
 }
 
 {
@@ -1253,7 +1192,7 @@
   ],
   "id": 11,
   "method": "GET",
-  "time": "2021-04-17T05:53:37.989Z",
+  "time": "2021-04-27T10:35:04.536Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1274,7 +1213,7 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T05:53:37.990Z",
+  "time": "2021-04-27T10:35:04.538Z",
   "url": "http://www.gloucester-ma.gov/Common/Images/AlertCenter/alertBarBlink.svg"
 }
 
@@ -1296,11 +1235,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Cache-Control",
@@ -1340,7 +1279,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:38.144Z",
+  "time": "2021-04-27T10:35:04.813Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1361,11 +1300,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Cache-Control",
@@ -1405,7 +1344,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:38.144Z",
+  "time": "2021-04-27T10:35:04.814Z",
   "url": "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"
 }
 
@@ -1426,7 +1365,7 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.154Z",
+  "time": "2021-04-27T10:35:04.825Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=7060"
 }
 
@@ -1447,7 +1386,7 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.155Z",
+  "time": "2021-04-27T10:35:04.825Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6364"
 }
 
@@ -1468,7 +1407,7 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.155Z",
+  "time": "2021-04-27T10:35:04.826Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6362"
 }
 
@@ -1489,7 +1428,7 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.156Z",
+  "time": "2021-04-27T10:35:04.826Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6365"
 }
 
@@ -1510,7 +1449,7 @@
   ],
   "id": 17,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.156Z",
+  "time": "2021-04-27T10:35:04.827Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
 }
 
@@ -1531,29 +1470,8 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T05:53:38.208Z",
+  "time": "2021-04-27T10:35:04.880Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6360"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 19,
-  "method": "GET",
-  "time": "2021-04-17T05:53:38.256Z",
-  "url": "http://www.gloucester-ma.gov/Toggle"
 }
 
 {
@@ -1606,7 +1524,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -1618,7 +1536,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.155Z",
+  "time": "2021-04-27T10:35:04.917Z",
   "url": "http://www.gloucester-ma.gov/Common/Images/AlertCenter/alertBarBlink.svg"
 }
 
@@ -1671,7 +1589,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:03 GMT"
     },
     {
       "name": "Content-Length",
@@ -1683,54 +1601,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.155Z",
+  "time": "2021-04-27T10:35:04.917Z",
   "url": "http://www.gloucester-ma.gov/Common/Images/AlertCenter/alertBarBlink.svg"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 20,
-  "method": "GET",
-  "time": "2021-04-17T05:53:39.157Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 21,
-  "method": "GET",
-  "time": "2021-04-17T05:53:39.157Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 32176,
+  "bodySize": 24988,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -1759,11 +1635,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+      "value": "Thu, 22 Apr 2021 12:22:55 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+      "value": "Fri, 22 Apr 2022 12:22:55 GMT"
     },
     {
       "name": "Last-Modified",
@@ -1787,7 +1663,7 @@
     },
     {
       "name": "Age",
-      "value": "8"
+      "value": "425530"
     }
   ],
   "id": 17,
@@ -1795,8 +1671,66 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.158Z",
+  "time": "2021-04-27T10:35:05.180Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
+}
+
+{
+  "bodySize": 645,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "723"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:05.189Z",
+  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6362"
 }
 
 {
@@ -1828,11 +1762,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:30 GMT"
+      "value": "Thu, 22 Apr 2021 12:22:55 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:30 GMT"
+      "value": "Fri, 22 Apr 2022 12:22:55 GMT"
     },
     {
       "name": "Last-Modified",
@@ -1856,7 +1790,7 @@
     },
     {
       "name": "Age",
-      "value": "8"
+      "value": "425530"
     }
   ],
   "id": 17,
@@ -1864,7 +1798,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.158Z",
+  "time": "2021-04-27T10:35:05.190Z",
   "url": "http://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf"
 }
 
@@ -1910,7 +1844,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -1922,7 +1856,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.158Z",
+  "time": "2021-04-27T10:35:05.210Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=7060"
 }
 
@@ -1967,7 +1901,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -1979,7 +1913,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.158Z",
+  "time": "2021-04-27T10:35:05.211Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=7060"
 }
 
@@ -2025,7 +1959,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -2037,7 +1971,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.159Z",
+  "time": "2021-04-27T10:35:05.213Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6364"
 }
 
@@ -2082,7 +2016,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -2094,12 +2028,12 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.159Z",
+  "time": "2021-04-27T10:35:05.213Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6364"
 }
 
 {
-  "bodySize": 723,
+  "bodySize": 7882,
   "contentType": "image/png",
   "headers": [
     {
@@ -2140,77 +2074,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "723"
+      "value": "133151"
     }
   ],
-  "id": 15,
+  "id": 16,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.159Z",
-  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6362"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "723"
-    }
-  ],
-  "id": 15,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.159Z",
-  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6362"
+  "time": "2021-04-27T10:35:05.290Z",
+  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6365"
 }
 
 {
@@ -2255,7 +2132,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -2267,7 +2144,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.160Z",
+  "time": "2021-04-27T10:35:05.578Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6360"
 }
 
@@ -2312,7 +2189,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -2324,12 +2201,11 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.160Z",
+  "time": "2021-04-27T10:35:05.579Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6360"
 }
 
 {
-  "bodySize": 25258,
   "contentType": "image/png",
   "headers": [
     {
@@ -2370,7 +2246,64 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "723"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:05.994Z",
+  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6362"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:04 GMT"
     },
     {
       "name": "Content-Length",
@@ -2379,11 +2312,135 @@
   ],
   "id": 16,
   "redirectURL": null,
-  "stage": "start",
+  "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.160Z",
+  "time": "2021-04-27T10:35:08.532Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6365"
+}
+
+{
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:35:01 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:01 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:08.887Z",
+  "url": "http://www.gloucester-ma.gov/237693563.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 19,
+  "method": "GET",
+  "time": "2021-04-27T10:35:08.912Z",
+  "url": "http://www.gloucester-ma.gov/Toggle"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 20,
+  "method": "GET",
+  "time": "2021-04-27T10:35:11.461Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 21,
+  "method": "GET",
+  "time": "2021-04-27T10:35:11.462Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -2403,7 +2460,7 @@
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.177Z",
+  "time": "2021-04-27T10:35:11.463Z",
   "url": "http://www.google-analytics.com/analytics.js"
 }
 
@@ -2428,8 +2485,8 @@
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.195Z",
-  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638819194"
+  "time": "2021-04-27T10:35:11.481Z",
+  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619519711480"
 }
 
 {
@@ -2449,7 +2506,7 @@
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.286Z",
+  "time": "2021-04-27T10:35:11.572Z",
   "url": "http://fonts.googleapis.com/css?family=Poppins:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -2471,11 +2528,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:11 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:11 GMT"
     },
     {
       "name": "Cache-Control",
@@ -2515,7 +2572,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.366Z",
+  "time": "2021-04-27T10:35:11.681Z",
   "url": "http://fonts.googleapis.com/css?family=Poppins:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular%7C"
 }
 
@@ -2536,11 +2593,11 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:11 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:11 GMT"
     },
     {
       "name": "Cache-Control",
@@ -2580,131 +2637,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.366Z",
+  "time": "2021-04-27T10:35:11.681Z",
   "url": "http://fonts.googleapis.com/css?family=Poppins:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular%7C"
-}
-
-{
-  "bodySize": 48759,
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 04:33:24 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:33:24 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Age",
-      "value": "4815"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=7200"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.374Z",
-  "url": "http://www.google-analytics.com/analytics.js"
-}
-
-{
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 04:33:24 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:33:24 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 19 Mar 2021 19:22:18 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Age",
-      "value": "4815"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=7200"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.374Z",
-  "url": "http://www.google-analytics.com/analytics.js"
 }
 
 {
@@ -2724,7 +2658,7 @@
   ],
   "id": 25,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.384Z",
+  "time": "2021-04-27T10:35:11.707Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf"
 }
 
@@ -2745,7 +2679,7 @@
   ],
   "id": 26,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.388Z",
+  "time": "2021-04-27T10:35:11.712Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
 }
 
@@ -2766,7 +2700,7 @@
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.392Z",
+  "time": "2021-04-27T10:35:11.716Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
 }
 
@@ -2787,7 +2721,7 @@
   ],
   "id": 28,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.396Z",
+  "time": "2021-04-27T10:35:11.720Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
 }
 
@@ -2808,41 +2742,8 @@
   ],
   "id": 29,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.401Z",
+  "time": "2021-04-27T10:35:11.725Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Content-Length",
-      "value": "0"
-    }
-  ],
-  "id": 30,
-  "method": "POST",
-  "time": "2021-04-17T05:53:39.445Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1502731960&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=453962850&gjid=1137154625&cid=903201747.1618638819&tid=UA-47685920-1&_gid=653739874.1618638819&_r=1&_slc=1&z=1103430262"
 }
 
 {
@@ -2903,7 +2804,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
     }
   ],
   "id": 21,
@@ -2911,7 +2812,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.461Z",
+  "time": "2021-04-27T10:35:11.816Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -2972,7 +2873,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
     }
   ],
   "id": 21,
@@ -2980,446 +2881,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.462Z",
+  "time": "2021-04-27T10:35:11.817Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
-    }
-  ],
-  "id": 20,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.462Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
-    }
-  ],
-  "id": 20,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.463Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    }
-  ],
-  "id": 31,
-  "method": "GET",
-  "time": "2021-04-17T05:53:39.465Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 16136,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.465Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.466Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
-}
-
-{
-  "bodySize": 16092,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.471Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.472Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
 }
 
 {
@@ -3452,15 +2915,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Thu, 22 Apr 2021 04:23:24 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 04:23:24 GMT"
     },
     {
       "name": "Last-Modified",
@@ -3477,6 +2936,14 @@
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "454307"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
   "id": 25,
@@ -3484,7 +2951,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.472Z",
+  "time": "2021-04-27T10:35:11.819Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf"
 }
 
@@ -3517,15 +2984,11 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Thu, 22 Apr 2021 04:23:24 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Fri, 22 Apr 2022 04:23:24 GMT"
     },
     {
       "name": "Last-Modified",
@@ -3542,6 +3005,14 @@
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "454307"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
   "id": 25,
@@ -3549,565 +3020,8 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.472Z",
+  "time": "2021-04-27T10:35:11.820Z",
   "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 15804,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.511Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:07 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:07 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "32"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.512Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 16032,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 28,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.512Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:53:39 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 28,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.512Z",
-  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
-}
-
-{
-  "bodySize": 118241,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
-    }
-  ],
-  "id": 23,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.552Z",
-  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638819194"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
-    }
-  ],
-  "id": 23,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.553Z",
-  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1618638819194"
-}
-
-{
-  "bodySize": 4,
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "4"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.684Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1502731960&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=453962850&gjid=1137154625&cid=903201747.1618638819&tid=UA-47685920-1&_gid=653739874.1618638819&_r=1&_slc=1&z=1103430262"
-}
-
-{
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "4"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:39.685Z",
-  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j89&a=1502731960&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=453962850&gjid=1137154625&cid=903201747.1618638819&tid=UA-47685920-1&_gid=653739874.1618638819&_r=1&_slc=1&z=1103430262"
-}
-
-{
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Content-Length",
-      "value": "0"
-    }
-  ],
-  "id": 32,
-  "method": "POST",
-  "time": "2021-04-17T05:53:39.686Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-47685920-1&cid=903201747.1618638819&jid=453962850&gjid=1137154625&_gid=653739874.1618638819&_u=IEBAAEAAAAAAAC~&z=896458045"
 }
 
 {
@@ -4168,15 +3082,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
     }
   ],
-  "id": 31,
+  "id": 20,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.781Z",
+  "time": "2021-04-27T10:35:11.820Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4237,15 +3151,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:38 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
     }
   ],
-  "id": 31,
+  "id": 20,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:39.782Z",
+  "time": "2021-04-27T10:35:11.820Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -4264,9 +3178,1328 @@
       "value": "http://www.gloucester-ma.gov/Bids"
     }
   ],
+  "id": 30,
+  "method": "GET",
+  "time": "2021-04-27T10:35:11.863Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 49153,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:42 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 12:34:42 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Age",
+      "value": "29"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.863Z",
+  "url": "http://www.google-analytics.com/analytics.js"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:34:42 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 12:34:42 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 09 Apr 2021 23:59:54 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Age",
+      "value": "29"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=7200"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.863Z",
+  "url": "http://www.google-analytics.com/analytics.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 31,
+  "method": "POST",
+  "time": "2021-04-27T10:35:11.879Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=84739781&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=1326388806&gjid=765425295&cid=1942555516.1619519712&tid=UA-47685920-1&_gid=1991573461.1619519712&_r=1&_slc=1&z=1800908662"
+}
+
+{
+  "bodySize": 119139,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.880Z",
+  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619519711480"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.881Z",
+  "url": "http://www.gloucester-ma.gov/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=1&menuContainerID=mainNav&_=1619519711480"
+}
+
+{
+  "bodySize": 16092,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:21:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:21:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "22416"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.908Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 04:21:35 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 04:21:35 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:53 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "22416"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 27,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.908Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 16136,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 06:29:45 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 06:29:45 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "273926"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.909Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 06:29:45 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 06:29:45 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "273926"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.909Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf"
+}
+
+{
+  "bodySize": 16032,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 10:11:12 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 10:11:12 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "260639"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.909Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 10:11:12 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 10:11:12 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:02:10 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "260639"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 28,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.909Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 15804,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 05:00:31 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 05:00:31 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "192880"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.915Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 05:00:31 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 05:00:31 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 05 Nov 2020 22:01:45 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "192880"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:11.915Z",
+  "url": "http://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+}
+
+{
+  "bodySize": 4,
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:12 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.255Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=84739781&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=1326388806&gjid=765425295&cid=1942555516.1619519712&tid=UA-47685920-1&_gid=1991573461.1619519712&_r=1&_slc=1&z=1800908662"
+}
+
+{
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:12 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.256Z",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j90&a=84739781&t=pageview&_s=1&dl=http%3A%2F%2Fwww.gloucester-ma.gov%2FBids&ul=en-in&de=UTF-8&dt=Gloucester%2C%20MA%20-%20Official%20Website&sd=32-bit&sr=1024x768&vp=1600x4000&je=0&_u=IEBAAEQAAAAAAC~&jid=1326388806&gjid=765425295&cid=1942555516.1619519712&tid=UA-47685920-1&_gid=1991573461.1619519712&_r=1&_slc=1&z=1800908662"
+}
+
+{
+  "headers": [
+    {
+      "name": "Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Content-Length",
+      "value": "0"
+    }
+  ],
+  "id": 32,
+  "method": "POST",
+  "time": "2021-04-27T10:35:12.256Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-47685920-1&cid=1942555516.1619519712&jid=1326388806&gjid=765425295&_gid=1991573461.1619519712&_u=IEBAAEAAAAAAAC~&z=998722478"
+}
+
+{
+  "bodySize": 1,
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:12 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.883Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-47685920-1&cid=1942555516.1619519712&jid=1326388806&gjid=765425295&_gid=1991573461.1619519712&_u=IEBAAEAAAAAAAC~&z=998722478"
+}
+
+{
+  "contentType": "text/plain",
+  "headers": [
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "http://www.gloucester-ma.gov"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=10886400; includeSubDomains; preload"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:12 GMT"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Sun, 17 May 1998 03:00:00 GMT"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "value": "true"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Server",
+      "value": "Golfe2"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.883Z",
+  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j90&tid=UA-47685920-1&cid=1942555516.1619519712&jid=1326388806&gjid=765425295&_gid=1991573461.1619519712&_u=IEBAAEAAAAAAAC~&z=998722478"
+}
+
+{
+  "bodySize": 39906,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.994Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:10 GMT"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:12.995Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    }
+  ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T05:53:39.786Z",
+  "time": "2021-04-27T10:35:13.002Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    }
+  ],
+  "id": 34,
+  "method": "GET",
+  "time": "2021-04-27T10:35:13.003Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -4328,15 +4561,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:13 GMT"
     }
   ],
-  "id": 33,
+  "id": 34,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:40.090Z",
+  "time": "2021-04-27T10:35:14.187Z",
   "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -4397,233 +4630,16 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:39 GMT"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:40.091Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "bodySize": 1,
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 32,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:40.133Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-47685920-1&cid=903201747.1618638819&jid=453962850&gjid=1137154625&_gid=653739874.1618638819&_u=IEBAAEAAAAAAAC~&z=896458045"
-}
-
-{
-  "contentType": "text/plain",
-  "headers": [
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "http://www.gloucester-ma.gov"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=10886400; includeSubDomains; preload"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, no-store, must-revalidate"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Sun, 17 May 1998 03:00:00 GMT"
-    },
-    {
-      "name": "Access-Control-Allow-Credentials",
-      "value": "true"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/plain"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Server",
-      "value": "Golfe2"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 32,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:40.133Z",
-  "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j89&tid=UA-47685920-1&cid=903201747.1618638819&jid=453962850&gjid=1137154625&_gid=653739874.1618638819&_u=IEBAAEAAAAAAAC~&z=896458045"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:37 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "133151"
-    }
-  ],
-  "id": 16,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:41.518Z",
-  "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6365"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://www.gloucester-ma.gov/Bids"
+      "value": "Tue, 27 Apr 2021 10:35:13 GMT"
     }
   ],
   "id": 34,
-  "method": "GET",
-  "time": "2021-04-17T05:53:41.519Z",
-  "url": "http://www.gloucester-ma.gov/Assets/Styles/Print.css"
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:14.188Z",
+  "url": "http://www.gloucester-ma.gov/Assets/Scripts/RWD/MediaFramework.js"
 }
 
 {
@@ -4684,15 +4700,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:13 GMT"
     }
   ],
-  "id": 34,
+  "id": 33,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:41.814Z",
+  "time": "2021-04-27T10:35:14.230Z",
   "url": "http://www.gloucester-ma.gov/Assets/Styles/Print.css"
 }
 
@@ -4753,15 +4769,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:13 GMT"
     }
   ],
-  "id": 34,
+  "id": 33,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:41.814Z",
+  "time": "2021-04-27T10:35:14.230Z",
   "url": "http://www.gloucester-ma.gov/Assets/Styles/Print.css"
 }
 
@@ -4782,7 +4798,7 @@
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T05:53:41.905Z",
+  "time": "2021-04-27T10:35:14.315Z",
   "url": "http://analytics.civicplus.com//piwik.js"
 }
 
@@ -4803,7 +4819,7 @@
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T05:53:41.911Z",
+  "time": "2021-04-27T10:35:14.322Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6440"
 }
 
@@ -4824,12 +4840,12 @@
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T05:53:41.912Z",
+  "time": "2021-04-27T10:35:14.322Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6361"
 }
 
 {
-  "bodySize": 9330,
+  "bodySize": 6434,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -4870,7 +4886,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
     },
     {
       "name": "Content-Length",
@@ -4882,12 +4898,12 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:42.210Z",
+  "time": "2021-04-27T10:35:14.670Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6361"
 }
 
 {
-  "bodySize": 103825,
+  "bodySize": 2089,
   "contentType": "image/jpeg",
   "headers": [
     {
@@ -4928,7 +4944,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
     },
     {
       "name": "Content-Length",
@@ -4940,8 +4956,211 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:42.230Z",
+  "time": "2021-04-27T10:35:14.689Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6440"
+}
+
+{
+  "bodySize": 8688,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cdea4e-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:35:14 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:15.502Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Length",
+      "value": "56050"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 06:38:06 GMT"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "ETag",
+      "value": "\"59cdea4e-daf2\""
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:35:14 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    }
+  ],
+  "id": 35,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:17.325Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://www.gloucester-ma.gov/Bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 38,
+  "method": "GET",
+  "time": "2021-04-27T10:35:17.344Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252FBids%2FReferrer%3A%20&idsite=595&rec=1&r=410533&h=16&m=5&s=17&url=http%3A%2F%2Fwww.gloucester-ma.gov%2Fbids&_id=76122354b02038fc&_idts=1619519717&_idvc=1&_idn=0&_refts=0&_viewts=1619519717&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "bodySize": 43,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:17 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:17.800Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252FBids%2FReferrer%3A%20&idsite=595&rec=1&r=410533&h=16&m=5&s=17&url=http%3A%2F%2Fwww.gloucester-ma.gov%2Fbids&_id=76122354b02038fc&_idts=1619519717&_idvc=1&_idn=0&_refts=0&_viewts=1619519717&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:35:17 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 38,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:35:17.801Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252FBids%2FReferrer%3A%20&idsite=595&rec=1&r=410533&h=16&m=5&s=17&url=http%3A%2F%2Fwww.gloucester-ma.gov%2Fbids&_id=76122354b02038fc&_idts=1619519717&_idvc=1&_idn=0&_refts=0&_viewts=1619519717&send_image=1&cookie=1&res=1024x768"
 }
 
 {
@@ -4985,7 +5204,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
     },
     {
       "name": "Content-Length",
@@ -4997,7 +5216,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:42.490Z",
+  "time": "2021-04-27T10:35:18.054Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6361"
 }
 
@@ -5042,7 +5261,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:40 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:14 GMT"
     },
     {
       "name": "Content-Length",
@@ -5054,114 +5273,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:53:42.800Z",
+  "time": "2021-04-27T10:35:29.206Z",
   "url": "http://www.gloucester-ma.gov/ImageRepository/Document?documentID=6440"
-}
-
-{
-  "bodySize": 56050,
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:42 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Connection",
-      "value": "close"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 18 Apr 2021 05:53:42 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "max-age=86400"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:43.132Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
-}
-
-{
-  "contentType": "application/x-javascript",
-  "headers": [
-    {
-      "name": "Server",
-      "value": "nginx"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:42 GMT"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/x-javascript"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Connection",
-      "value": "close"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 18 Apr 2021 05:53:42 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "max-age=86400"
-    },
-    {
-      "name": "Strict-Transport-Security",
-      "value": "max-age=15768000"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    }
-  ],
-  "id": 35,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:53:43.133Z",
-  "url": "http://analytics.civicplus.com//piwik.js"
 }
 

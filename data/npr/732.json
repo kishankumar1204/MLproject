@@ -46,7 +46,7 @@
       "color-interpolation": "srgb",
       "color-interpolation-filters": "linearrgb",
       "color-rendering": "auto",
-      "cursor": "auto",
+      "cursor": "default",
       "direction": "ltr",
       "display": "block",
       "dominant-baseline": "auto",
@@ -246,6 +246,7 @@
         "border-top-width": "1px",
         "box-sizing": "border-box",
         "clip": "rect(1px 1px 1px 1px)",
+        "cursor": "auto",
         "overflow-x": "hidden",
         "overflow-y": "hidden",
         "padding-bottom": "7px",
@@ -299,7 +300,6 @@
         "border-right-color": "rgb(255, 255, 255)",
         "border-top-color": "rgb(255, 255, 255)",
         "color": "rgb(255, 255, 255)",
-        "cursor": "default",
         "float": "left",
         "font-size": "12px",
         "line-height": "34px",
@@ -390,6 +390,7 @@
         "border-right-color": "rgb(255, 255, 255)",
         "border-top-color": "rgb(255, 255, 255)",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-size": "12px",
         "font-weight": "300",
         "line-height": "34px",
@@ -499,6 +500,7 @@
         "border-top-color": "rgb(65, 65, 65)",
         "box-sizing": "border-box",
         "color": "rgb(65, 65, 65)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "19px",
         "font-weight": "500",
@@ -657,6 +659,7 @@
         "border-top-color": "rgb(65, 65, 65)",
         "box-sizing": "border-box",
         "color": "rgb(65, 65, 65)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "19px",
         "font-weight": "500",
@@ -815,6 +818,7 @@
         "border-top-color": "rgb(65, 65, 65)",
         "box-sizing": "border-box",
         "color": "rgb(65, 65, 65)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "19px",
         "font-weight": "500",
@@ -973,6 +977,7 @@
         "border-top-color": "rgb(65, 65, 65)",
         "box-sizing": "border-box",
         "color": "rgb(65, 65, 65)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "19px",
         "font-weight": "500",
@@ -1131,6 +1136,7 @@
         "border-top-color": "rgb(65, 65, 65)",
         "box-sizing": "border-box",
         "color": "rgb(65, 65, 65)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "19px",
         "font-weight": "500",
@@ -1284,7 +1290,6 @@
       },
       "computed": {
         "box-sizing": "border-box",
-        "cursor": "default",
         "font-size": "12px",
         "line-height": "17px",
         "list-style-type": "none"
@@ -1413,9 +1418,9 @@
     {
       "bound": {
         "height": 43,
-        "left": 504,
-        "top": 556,
-        "width": 878
+        "left": 506,
+        "top": 559,
+        "width": 873
       },
       "computed": {
         "background-color": "rgb(254, 247, 203)",
@@ -1438,7 +1443,6 @@
         "border-top-width": "1px",
         "box-sizing": "border-box",
         "color": "rgb(51, 51, 51)",
-        "cursor": "default",
         "margin-bottom": "10px",
         "margin-top": "10px",
         "outline-color": "rgb(51, 51, 51)",
@@ -1609,14 +1613,25 @@
     },
     {
       "bound": {
-        "height": 42,
-        "left": 510,
-        "top": 612,
-        "width": 866
+        "height": 44,
+        "left": 515,
+        "top": 618,
+        "width": 855
       },
       "computed": {
+        "border-bottom-color": "rgb(128, 128, 128)",
+        "border-bottom-style": "inset",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(128, 128, 128)",
+        "border-left-style": "inset",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(128, 128, 128)",
+        "border-right-style": "inset",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(128, 128, 128)",
+        "border-top-style": "inset",
+        "border-top-width": "1px",
         "box-sizing": "border-box",
-        "cursor": "default",
         "display": "table-cell",
         "text-align": "left",
         "vertical-align": "middle"
@@ -1801,15 +1816,26 @@
     },
     {
       "bound": {
-        "height": 23,
-        "left": 507,
-        "top": 662,
+        "height": 25,
+        "left": 510,
+        "top": 672,
         "width": 70
       },
       "computed": {
+        "border-bottom-color": "rgb(128, 128, 128)",
+        "border-bottom-style": "inset",
+        "border-bottom-width": "1px",
         "border-collapse": "collapse",
+        "border-left-color": "rgb(128, 128, 128)",
+        "border-left-style": "inset",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(128, 128, 128)",
+        "border-right-style": "inset",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(128, 128, 128)",
+        "border-top-style": "inset",
+        "border-top-width": "1px",
         "box-sizing": "border-box",
-        "cursor": "default",
         "display": "table-cell",
         "text-align": "left",
         "vertical-align": "top"
@@ -2000,15 +2026,26 @@
     },
     {
       "bound": {
-        "height": 23,
-        "left": 507,
-        "top": 685,
+        "height": 24,
+        "left": 510,
+        "top": 697,
         "width": 70
       },
       "computed": {
+        "border-bottom-color": "rgb(128, 128, 128)",
+        "border-bottom-style": "inset",
+        "border-bottom-width": "1px",
         "border-collapse": "collapse",
+        "border-left-color": "rgb(128, 128, 128)",
+        "border-left-style": "inset",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(128, 128, 128)",
+        "border-right-style": "inset",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(128, 128, 128)",
+        "border-top-style": "inset",
+        "border-top-width": "1px",
         "box-sizing": "border-box",
-        "cursor": "default",
         "display": "table-cell",
         "text-align": "left",
         "vertical-align": "top"
@@ -2200,9 +2237,9 @@
     {
       "bound": {
         "height": 43,
-        "left": 507,
-        "top": 732,
-        "width": 290
+        "left": 512,
+        "top": 746,
+        "width": 314
       },
       "computed": {
         "background-color": "rgb(254, 247, 203)",
@@ -2225,7 +2262,6 @@
         "border-top-width": "1px",
         "box-sizing": "border-box",
         "color": "rgb(51, 51, 51)",
-        "cursor": "default",
         "float": "left",
         "margin-bottom": "10px",
         "margin-top": "10px",
@@ -2433,14 +2469,13 @@
     {
       "bound": {
         "height": 52,
-        "left": 507,
-        "top": 788,
-        "width": 872
+        "left": 509,
+        "top": 805,
+        "width": 867
       },
       "computed": {
         "border-collapse": "collapse",
         "box-sizing": "border-box",
-        "cursor": "default",
         "margin-bottom": "3px",
         "margin-left": "3px",
         "margin-right": "3px",
@@ -2606,14 +2641,13 @@
     {
       "bound": {
         "height": 52,
-        "left": 507,
-        "top": 845,
-        "width": 872
+        "left": 509,
+        "top": 862,
+        "width": 867
       },
       "computed": {
         "background-color": "rgb(239, 238, 223)",
         "box-sizing": "border-box",
-        "cursor": "default",
         "display": "table-cell",
         "padding-bottom": "5px",
         "padding-left": "5px",
@@ -2818,6 +2852,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -2976,6 +3011,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3134,6 +3170,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3292,6 +3329,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3450,6 +3488,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3608,6 +3647,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3766,6 +3806,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -3924,6 +3965,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4082,6 +4124,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4240,6 +4283,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4398,6 +4442,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4556,6 +4601,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4714,6 +4760,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -4872,6 +4919,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -5033,6 +5081,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -5191,6 +5240,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "font-family": "Raleway",
         "font-size": "17px",
         "font-weight": "500",
@@ -5350,6 +5400,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -5613,6 +5664,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -5875,6 +5927,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -6138,6 +6191,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -6401,6 +6455,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -6663,6 +6718,7 @@
         "border-top-color": "rgb(255, 255, 255)",
         "box-sizing": "border-box",
         "color": "rgb(255, 255, 255)",
+        "cursor": "auto",
         "display": "table-cell",
         "font-family": "Raleway",
         "font-size": "19px",
@@ -6923,7 +6979,6 @@
         "border-top-color": "rgb(239, 235, 215)",
         "box-sizing": "border-box",
         "color": "rgb(239, 235, 215)",
-        "cursor": "default",
         "font-family": "Bitter",
         "font-size": "23px",
         "line-height": "34px",
@@ -7118,7 +7173,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -7352,7 +7406,6 @@
         "border-top-color": "rgb(239, 235, 215)",
         "box-sizing": "border-box",
         "color": "rgb(239, 235, 215)",
-        "cursor": "default",
         "font-family": "Bitter",
         "font-size": "23px",
         "line-height": "34px",
@@ -7546,7 +7599,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -7774,7 +7826,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -7795,7 +7846,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://public.coderedweb.com/CNE/en-US/8B7ACDC9E3F8\" target=\"_blank\" aria-label=\"CodeRED Opens in new window\">CodeRED</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://public.coderedweb.com/CNE/en-US/8B7ACDC9E3F8\" target=\"_blank\" aria-label=\"CodeRED Opens in new window\" rel=\"noopener\">CodeRED</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8002,7 +8053,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -8230,7 +8280,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -8458,7 +8507,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -8686,7 +8734,6 @@
         "border-top-color": "rgb(239, 235, 215)",
         "box-sizing": "border-box",
         "color": "rgb(239, 235, 215)",
-        "cursor": "default",
         "font-family": "Bitter",
         "font-size": "23px",
         "line-height": "34px",
@@ -8880,7 +8927,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -9106,7 +9152,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -9332,7 +9377,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -9558,7 +9602,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -9784,7 +9827,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -10010,7 +10052,6 @@
         "border-top-color": "rgb(239, 235, 215)",
         "box-sizing": "border-box",
         "color": "rgb(239, 235, 215)",
-        "cursor": "default",
         "font-family": "Bitter",
         "font-size": "23px",
         "line-height": "34px",
@@ -10205,7 +10246,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -10434,7 +10474,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -10663,7 +10702,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -10892,7 +10930,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -11121,7 +11158,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -11350,7 +11386,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -11579,7 +11614,6 @@
         "border-top-color": "rgb(246, 246, 246)",
         "box-sizing": "border-box",
         "color": "rgb(246, 246, 246)",
-        "cursor": "default",
         "display": "list-item",
         "font-family": "Raleway",
         "font-size": "16px",
@@ -11906,6 +11940,7 @@
         "border-top-color": "rgb(113, 107, 68)",
         "box-sizing": "border-box",
         "color": "rgb(113, 107, 68)",
+        "cursor": "auto",
         "display": "inline",
         "max-width": "100%",
         "outline-color": "rgb(113, 107, 68)",
@@ -12048,6 +12083,7 @@
         "border-top-color": "rgb(113, 107, 68)",
         "box-sizing": "border-box",
         "color": "rgb(113, 107, 68)",
+        "cursor": "auto",
         "display": "inline",
         "max-width": "100%",
         "outline-color": "rgb(113, 107, 68)",
@@ -12268,6 +12304,7 @@
         "border-top-color": "rgb(113, 107, 68)",
         "box-sizing": "border-box",
         "color": "rgb(113, 107, 68)",
+        "cursor": "auto",
         "display": "inline",
         "list-style-type": "none",
         "max-width": "100%",
@@ -12502,6 +12539,7 @@
         "border-top-color": "rgb(113, 107, 68)",
         "box-sizing": "border-box",
         "color": "rgb(113, 107, 68)",
+        "cursor": "auto",
         "display": "inline",
         "list-style-type": "none",
         "max-width": "100%",
@@ -13195,6 +13233,83 @@
         }
       ],
       "src": "http://www.gainesville.tx.us/Assets/Images/GoogleTranslate.gif"
+    },
+    {
+      "bound": {
+        "height": 471,
+        "left": -300,
+        "top": 35,
+        "width": 2200
+      },
+      "computed": {
+        "box-sizing": "border-box",
+        "margin-left": "-1100px",
+        "position": "absolute",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "bannerObject"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "outer-wrap"
+          ],
+          "id": "outer-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inner-wrap"
+          ],
+          "id": "inner-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "structuralContainer1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "banner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject",
+            "external"
+          ],
+          "id": "bannerDivbanner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.gainesville.tx.us/ImageRepository/Document?documentID=4515"
     }
   ]
 }

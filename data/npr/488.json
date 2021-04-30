@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 1384,
+      "height": 1308,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "1384px",
+      "height": "1308px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -168,8 +168,6 @@
     "http://www.newtontownhall.com/bids#",
     "http://www.newtontownhall.com/bids#",
     "http://www.newtontownhall.com/list.aspx?Mode=Subscribe#bids",
-    "http://www.newtontownhall.com/bids.aspx?bidID=50",
-    "http://www.newtontownhall.com/bids.aspx?bidID=50",
     "http://www.newtontownhall.com/210/Hours",
     "http://www.newtontownhall.com/jobs.asp",
     "http://www.newtontownhall.com/37/Newsletters",
@@ -3880,378 +3878,10 @@
     },
     {
       "bound": {
-        "height": 32,
+        "height": 54,
         "left": 527,
         "top": 626,
-        "width": 683
-      },
-      "computed": {
-        "background-color": "rgb(51, 51, 51)",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "box-sizing": "border-box",
-        "color": "rgb(255, 255, 255)",
-        "display": "table-cell",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-bottom": "5px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "5px",
-        "text-align": "left",
-        "vertical-align": "top"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "th"
-      },
-      "html": "\n\t\t\t\t\t\t<span>Newton Bid Opportunities</span>\n\t\t\t\t\t",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "form",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td",
-        "div",
-        "table",
-        "thead",
-        "tr",
-        "th"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "siteWrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "mainWrap"
-          ],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "outerContentWrap"
-          ],
-          "id": "structuralContainer7",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "contentWrap"
-          ],
-          "id": "structuralContainer8",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "moduleContent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ctl00_ctl00_MainContent_BodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "aspnetForm",
-          "name": "form"
-        },
-        {
-          "classes": [],
-          "id": "modulecontent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        },
-        {
-          "classes": [
-            "pageStyles"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "thead"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "th"
-        }
-      ],
-      "text": [
-        "Newton Bid Opportunities"
-      ]
-    },
-    {
-      "bound": {
-        "height": 34,
-        "left": 1210,
-        "top": 626,
-        "width": 170
-      },
-      "computed": {
-        "background-color": "rgb(51, 51, 51)",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "box-sizing": "border-box",
-        "color": "rgb(255, 255, 255)",
-        "display": "table-cell",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-bottom": "5px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "5px",
-        "text-align": "right",
-        "vertical-align": "top"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "th"
-      },
-      "html": "\n\t\t\t\t\t\t<span>1 Bid</span>\n\t\t\t\t\t",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "form",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td",
-        "div",
-        "table",
-        "thead",
-        "tr",
-        "th"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "siteWrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "mainWrap"
-          ],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "outerContentWrap"
-          ],
-          "id": "structuralContainer7",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "contentWrap"
-          ],
-          "id": "structuralContainer8",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "moduleContent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ctl00_ctl00_MainContent_BodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "aspnetForm",
-          "name": "form"
-        },
-        {
-          "classes": [],
-          "id": "modulecontent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        },
-        {
-          "classes": [
-            "pageStyles"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "thead"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "th"
-        }
-      ],
-      "text": [
-        "1 Bid"
-      ]
-    },
-    {
-      "bound": {
-        "height": 98,
-        "left": 545,
-        "top": 660,
-        "width": 597
+        "width": 853
       },
       "computed": {
         "background-color": "rgb(234, 234, 234)",
@@ -4269,7 +3899,7 @@
         "id": "",
         "name": "td"
       },
-      "html": "\n\t\t\t\t\t\t<span><a href=\"bids.aspx?bidID=50\">PROPOSED CROSSWALK AT ROUTE U.S. 206 AND CHURCH STREET INTERSECTION</a></span><br>\n\t\t\t\t\t\t<span>Notice is hereby given that sealed bids will be received by the Town of Newton for PROPOSED CROSSWALK AT ROUTE U.S. 206 AND CHURCH STREET INTERSECTION in the Town of Newton. ...[<a href=\"bids.aspx?bidID=50\" style=\"font-style: normal; text-decoration: underline; font-family: arial\">Read&nbsp;on</a>]</span>\n\t\t\t\t\t",
+      "html": "<br><span>\n\t\t\t\t\tThere are no open bid postings at this time.\n\t\t\t\t</span>",
       "path": [
         "div",
         "div",
@@ -4421,368 +4051,7 @@
         }
       ],
       "text": [
-        "PROPOSED CROSSWALK AT ROUTE U.S. 206 AND CHURCH STREET INTERSECTION",
-        "Notice is hereby given that sealed bids will be received by the Town of Newton for PROPOSED CROSSWALK AT ROUTE U.S. 206 AND CHURCH STREET INTERSECTION in the Town of Newton. ...[",
-        "Read on",
-        "]"
-      ]
-    },
-    {
-      "bound": {
-        "height": 100,
-        "left": 1142,
-        "top": 660,
-        "width": 68
-      },
-      "computed": {
-        "background-color": "rgb(234, 234, 234)",
-        "box-sizing": "border-box",
-        "display": "table-cell",
-        "padding-bottom": "5px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "5px",
-        "text-align": "left",
-        "vertical-align": "top"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "td"
-      },
-      "html": "\t\t\t\t\t\t<span id=\"BidStatus5016\">Status:</span><br>\t\t\t\t\t\t<span id=\"BidCloses5016\">Closes:</span>\n\t\t\t\t\t",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "form",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "siteWrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "mainWrap"
-          ],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "outerContentWrap"
-          ],
-          "id": "structuralContainer7",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "contentWrap"
-          ],
-          "id": "structuralContainer8",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "moduleContent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ctl00_ctl00_MainContent_BodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "aspnetForm",
-          "name": "form"
-        },
-        {
-          "classes": [],
-          "id": "modulecontent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        },
-        {
-          "classes": [
-            "pageStyles"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        }
-      ],
-      "text": [
-        "Status:",
-        "Closes:"
-      ]
-    },
-    {
-      "bound": {
-        "height": 100,
-        "left": 1210,
-        "top": 660,
-        "width": 170
-      },
-      "computed": {
-        "background-color": "rgb(234, 234, 234)",
-        "box-sizing": "border-box",
-        "display": "table-cell",
-        "padding-bottom": "5px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "5px",
-        "text-align": "left",
-        "vertical-align": "top"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "td"
-      },
-      "html": "\t\t\t\t\t\t<span>Open</span><br>\t\t\t\t\t\t<span>4/22/2021 11:00 AM</span>\n\t\t\t\t\t",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "form",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td",
-        "div",
-        "table",
-        "tbody",
-        "tr",
-        "td"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "siteWrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "mainWrap"
-          ],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "outerContentWrap"
-          ],
-          "id": "structuralContainer7",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "contentWrap"
-          ],
-          "id": "structuralContainer8",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "moduleContent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ctl00_ctl00_MainContent_BodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "aspnetForm",
-          "name": "form"
-        },
-        {
-          "classes": [],
-          "id": "modulecontent",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        },
-        {
-          "classes": [
-            "pageStyles"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "table"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tbody"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "tr"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "td"
-        }
-      ],
-      "text": [
-        "Open",
-        "4/22/2021 11:00 AM"
+        "\n\t\t\t\t\tThere are no open bid postings at this time.\n\t\t\t\t"
       ]
     },
     {
@@ -5727,7 +4996,7 @@
       "bound": {
         "height": 172,
         "left": 199,
-        "top": 839,
+        "top": 761,
         "width": 295
       },
       "computed": {
@@ -5975,7 +5244,7 @@
       "bound": {
         "height": 172,
         "left": 504,
-        "top": 839,
+        "top": 761,
         "width": 295
       },
       "computed": {
@@ -6223,7 +5492,7 @@
       "bound": {
         "height": 172,
         "left": 800,
-        "top": 839,
+        "top": 761,
         "width": 295
       },
       "computed": {
@@ -6471,7 +5740,7 @@
       "bound": {
         "height": 172,
         "left": 1105,
-        "top": 839,
+        "top": 761,
         "width": 295
       },
       "computed": {
@@ -6719,7 +5988,7 @@
       "bound": {
         "height": 27,
         "left": 615,
-        "top": 1099,
+        "top": 1021,
         "width": 384
       },
       "computed": {
@@ -6898,7 +6167,7 @@
       "bound": {
         "height": 28,
         "left": 615,
-        "top": 1142,
+        "top": 1064,
         "width": 384
       },
       "computed": {
@@ -7109,7 +6378,7 @@
       "bound": {
         "height": 28,
         "left": 615,
-        "top": 1172,
+        "top": 1094,
         "width": 384
       },
       "computed": {
@@ -7320,7 +6589,7 @@
       "bound": {
         "height": 28,
         "left": 615,
-        "top": 1202,
+        "top": 1124,
         "width": 384
       },
       "computed": {
@@ -7531,7 +6800,7 @@
       "bound": {
         "height": 28,
         "left": 615,
-        "top": 1232,
+        "top": 1154,
         "width": 384
       },
       "computed": {
@@ -7743,7 +7012,7 @@
       "bound": {
         "height": 27,
         "left": 1015,
-        "top": 1099,
+        "top": 1021,
         "width": 384
       },
       "computed": {
@@ -7923,7 +7192,7 @@
       "bound": {
         "height": 28,
         "left": 1015,
-        "top": 1142,
+        "top": 1064,
         "width": 384
       },
       "computed": {
@@ -8134,7 +7403,7 @@
       "bound": {
         "height": 28,
         "left": 1015,
-        "top": 1172,
+        "top": 1094,
         "width": 384
       },
       "computed": {
@@ -8345,7 +7614,7 @@
       "bound": {
         "height": 28,
         "left": 1015,
-        "top": 1202,
+        "top": 1124,
         "width": 384
       },
       "computed": {
@@ -8556,7 +7825,7 @@
       "bound": {
         "height": 28,
         "left": 1015,
-        "top": 1232,
+        "top": 1154,
         "width": 384
       },
       "computed": {
@@ -8767,7 +8036,7 @@
       "bound": {
         "height": 28,
         "left": 1015,
-        "top": 1262,
+        "top": 1184,
         "width": 384
       },
       "computed": {
@@ -8978,7 +8247,7 @@
       "bound": {
         "height": 28,
         "left": 411,
-        "top": 1350,
+        "top": 1272,
         "width": 38
       },
       "computed": {
@@ -9193,7 +8462,7 @@
       "bound": {
         "height": 28,
         "left": 468,
-        "top": 1350,
+        "top": 1272,
         "width": 56
       },
       "computed": {
@@ -9407,7 +8676,7 @@
       "bound": {
         "height": 28,
         "left": 543,
-        "top": 1350,
+        "top": 1272,
         "width": 70
       },
       "computed": {
@@ -9621,7 +8890,7 @@
       "bound": {
         "height": 28,
         "left": 632,
-        "top": 1350,
+        "top": 1272,
         "width": 76
       },
       "computed": {
@@ -9835,7 +9104,7 @@
       "bound": {
         "height": 28,
         "left": 727,
-        "top": 1350,
+        "top": 1272,
         "width": 112
       },
       "computed": {
@@ -10049,7 +9318,7 @@
       "bound": {
         "height": 28,
         "left": 858,
-        "top": 1350,
+        "top": 1272,
         "width": 87
       },
       "computed": {
@@ -10263,7 +9532,7 @@
       "bound": {
         "height": 28,
         "left": 964,
-        "top": 1350,
+        "top": 1272,
         "width": 231
       },
       "computed": {
@@ -10946,7 +10215,7 @@
       "bound": {
         "height": 145,
         "left": 199,
-        "top": 1115,
+        "top": 1037,
         "width": 290
       },
       "computed": {

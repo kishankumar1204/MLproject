@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 1442,
+      "height": 1586,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "1442px",
+      "height": "1586px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -255,10 +255,10 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 506,
-        "top": 63,
-        "width": 146
+        "height": 61,
+        "left": 505,
+        "top": 207,
+        "width": 131
       },
       "computed": {
         "border-bottom-color": "rgb(53, 53, 53)",
@@ -270,13 +270,13 @@
         "font-family": "Poppins",
         "font-size": "18px",
         "font-weight": "bold",
-        "line-height": "27px",
+        "line-height": "26px",
         "list-style-type": "none",
         "outline-color": "rgb(53, 53, 53)",
-        "padding-bottom": "18px",
-        "padding-left": "9px",
-        "padding-right": "9px",
-        "padding-top": "18px",
+        "padding-bottom": "17px",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "padding-top": "17px",
         "text-align": "center",
         "text-transform": "uppercase",
         "white-space": "nowrap"
@@ -290,7 +290,7 @@
         "id": "mainNavFacilities",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Facilities</span>",
+      "html": "Facilities",
       "path": [
         "div",
         "div",
@@ -393,10 +393,10 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 652,
-        "top": 63,
-        "width": 184
+        "height": 61,
+        "left": 636,
+        "top": 207,
+        "width": 190
       },
       "computed": {
         "border-bottom-color": "rgb(53, 53, 53)",
@@ -408,13 +408,13 @@
         "font-family": "Poppins",
         "font-size": "18px",
         "font-weight": "bold",
-        "line-height": "27px",
+        "line-height": "26px",
         "list-style-type": "none",
         "outline-color": "rgb(53, 53, 53)",
-        "padding-bottom": "18px",
-        "padding-left": "9px",
-        "padding-right": "9px",
-        "padding-top": "18px",
+        "padding-bottom": "17px",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "padding-top": "17px",
         "text-align": "center",
         "text-transform": "uppercase",
         "white-space": "nowrap"
@@ -428,7 +428,7 @@
         "id": "mainNavParksTrails",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Parks &amp; Trails</span>",
+      "html": "Parks &amp; Trails",
       "path": [
         "div",
         "div",
@@ -531,10 +531,10 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 836,
-        "top": 63,
-        "width": 246
+        "height": 61,
+        "left": 826,
+        "top": 207,
+        "width": 278
       },
       "computed": {
         "border-bottom-color": "rgb(53, 53, 53)",
@@ -546,13 +546,13 @@
         "font-family": "Poppins",
         "font-size": "18px",
         "font-weight": "bold",
-        "line-height": "27px",
+        "line-height": "26px",
         "list-style-type": "none",
         "outline-color": "rgb(53, 53, 53)",
-        "padding-bottom": "18px",
-        "padding-left": "9px",
-        "padding-right": "9px",
-        "padding-top": "18px",
+        "padding-bottom": "17px",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "padding-top": "17px",
         "text-align": "center",
         "text-transform": "uppercase",
         "white-space": "nowrap"
@@ -566,7 +566,7 @@
         "id": "mainNavProgramsActivities",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Programs &amp; Activities</span>",
+      "html": "Programs &amp; Activities",
       "path": [
         "div",
         "div",
@@ -669,10 +669,10 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 1082,
-        "top": 63,
-        "width": 175
+        "height": 61,
+        "left": 1104,
+        "top": 207,
+        "width": 170
       },
       "computed": {
         "border-bottom-color": "rgb(53, 53, 53)",
@@ -684,13 +684,13 @@
         "font-family": "Poppins",
         "font-size": "18px",
         "font-weight": "bold",
-        "line-height": "27px",
+        "line-height": "26px",
         "list-style-type": "none",
         "outline-color": "rgb(53, 53, 53)",
-        "padding-bottom": "18px",
-        "padding-left": "9px",
-        "padding-right": "9px",
-        "padding-top": "18px",
+        "padding-bottom": "17px",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "padding-top": "17px",
         "text-align": "center",
         "text-transform": "uppercase",
         "white-space": "nowrap"
@@ -704,7 +704,7 @@
         "id": "mainNavThingstoDo",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Things to Do</span>",
+      "html": "Things to Do",
       "path": [
         "div",
         "div",
@@ -807,10 +807,10 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 1257,
-        "top": 63,
-        "width": 136
+        "height": 61,
+        "left": 1274,
+        "top": 207,
+        "width": 120
       },
       "computed": {
         "border-bottom-color": "rgb(53, 53, 53)",
@@ -822,13 +822,13 @@
         "font-family": "Poppins",
         "font-size": "18px",
         "font-weight": "bold",
-        "line-height": "27px",
+        "line-height": "26px",
         "list-style-type": "none",
         "outline-color": "rgb(53, 53, 53)",
-        "padding-bottom": "18px",
-        "padding-left": "9px",
-        "padding-right": "9px",
-        "padding-top": "18px",
+        "padding-bottom": "17px",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "padding-top": "17px",
         "text-align": "center",
         "text-transform": "uppercase",
         "white-space": "nowrap"
@@ -842,7 +842,7 @@
         "id": "mainNavAboutUs",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">About Us</span>",
+      "html": "About Us",
       "path": [
         "div",
         "div",
@@ -947,7 +947,7 @@
       "bound": {
         "height": 19,
         "left": 584,
-        "top": 251,
+        "top": 395,
         "width": 702
       },
       "computed": {
@@ -1068,7 +1068,7 @@
       "bound": {
         "height": 55,
         "left": 599,
-        "top": 306,
+        "top": 450,
         "width": 650
       },
       "computed": {
@@ -1230,7 +1230,7 @@
       "bound": {
         "height": 44,
         "left": 599,
-        "top": 363,
+        "top": 507,
         "width": 652
       },
       "computed": {
@@ -1399,7 +1399,7 @@
       "bound": {
         "height": 22,
         "left": 599,
-        "top": 409,
+        "top": 553,
         "width": 652
       },
       "computed": {
@@ -1561,7 +1561,7 @@
       "bound": {
         "height": 56,
         "left": 200,
-        "top": 219,
+        "top": 363,
         "width": 299
       },
       "computed": {
@@ -1702,7 +1702,7 @@
       "bound": {
         "height": 19,
         "left": 215,
-        "top": 683,
+        "top": 827,
         "width": 171
       },
       "computed": {
@@ -1885,7 +1885,7 @@
       "bound": {
         "height": 41,
         "left": 215,
-        "top": 718,
+        "top": 862,
         "width": 171
       },
       "computed": {
@@ -2100,7 +2100,7 @@
       "bound": {
         "height": 19,
         "left": 414,
-        "top": 683,
+        "top": 827,
         "width": 171
       },
       "computed": {
@@ -2282,7 +2282,7 @@
       "bound": {
         "height": 41,
         "left": 414,
-        "top": 718,
+        "top": 862,
         "width": 171
       },
       "computed": {
@@ -2496,7 +2496,7 @@
       "bound": {
         "height": 41,
         "left": 414,
-        "top": 761,
+        "top": 905,
         "width": 171
       },
       "computed": {
@@ -2710,7 +2710,7 @@
       "bound": {
         "height": 41,
         "left": 414,
-        "top": 804,
+        "top": 948,
         "width": 171
       },
       "computed": {
@@ -2924,7 +2924,7 @@
       "bound": {
         "height": 41,
         "left": 414,
-        "top": 847,
+        "top": 991,
         "width": 171
       },
       "computed": {
@@ -3138,7 +3138,7 @@
       "bound": {
         "height": 19,
         "left": 613,
-        "top": 683,
+        "top": 827,
         "width": 171
       },
       "computed": {
@@ -3320,7 +3320,7 @@
       "bound": {
         "height": 41,
         "left": 613,
-        "top": 718,
+        "top": 862,
         "width": 171
       },
       "computed": {
@@ -3534,7 +3534,7 @@
       "bound": {
         "height": 41,
         "left": 613,
-        "top": 761,
+        "top": 905,
         "width": 171
       },
       "computed": {
@@ -3748,7 +3748,7 @@
       "bound": {
         "height": 19,
         "left": 812,
-        "top": 683,
+        "top": 827,
         "width": 221
       },
       "computed": {
@@ -3930,7 +3930,7 @@
       "bound": {
         "height": 41,
         "left": 812,
-        "top": 718,
+        "top": 862,
         "width": 221
       },
       "computed": {
@@ -4144,7 +4144,7 @@
       "bound": {
         "height": 41,
         "left": 812,
-        "top": 761,
+        "top": 905,
         "width": 221
       },
       "computed": {
@@ -4358,7 +4358,7 @@
       "bound": {
         "height": 41,
         "left": 812,
-        "top": 804,
+        "top": 948,
         "width": 221
       },
       "computed": {
@@ -4572,7 +4572,7 @@
       "bound": {
         "height": 41,
         "left": 812,
-        "top": 847,
+        "top": 991,
         "width": 221
       },
       "computed": {
@@ -4786,7 +4786,7 @@
       "bound": {
         "height": 19,
         "left": 614,
-        "top": 1005,
+        "top": 1149,
         "width": 371
       },
       "computed": {
@@ -4933,8 +4933,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin57",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet32"
@@ -4968,7 +4968,7 @@
       "bound": {
         "height": 104,
         "left": 614,
-        "top": 1040,
+        "top": 1184,
         "width": 371
       },
       "computed": {
@@ -5122,8 +5122,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin57",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet32"
@@ -5142,8 +5142,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5183,7 +5183,7 @@
       "bound": {
         "height": 41,
         "left": 215,
-        "top": 1363,
+        "top": 1507,
         "width": 169
       },
       "computed": {
@@ -5401,7 +5401,7 @@
       "bound": {
         "height": 41,
         "left": 404,
-        "top": 1363,
+        "top": 1507,
         "width": 134
       },
       "computed": {
@@ -5618,7 +5618,7 @@
       "bound": {
         "height": 41,
         "left": 558,
-        "top": 1363,
+        "top": 1507,
         "width": 83
       },
       "computed": {
@@ -5835,7 +5835,7 @@
       "bound": {
         "height": 41,
         "left": 661,
-        "top": 1363,
+        "top": 1507,
         "width": 118
       },
       "computed": {
@@ -6141,7 +6141,7 @@
       "bound": {
         "height": 63,
         "left": 201,
-        "top": 34,
+        "top": 178,
         "width": 275
       },
       "computed": {
@@ -6255,7 +6255,7 @@
       "bound": {
         "height": 43,
         "left": 509,
-        "top": 9,
+        "top": 153,
         "width": 44
       },
       "computed": {
@@ -6499,7 +6499,7 @@
       "bound": {
         "height": 43,
         "left": 587,
-        "top": 9,
+        "top": 153,
         "width": 43
       },
       "computed": {
@@ -6742,7 +6742,7 @@
       "bound": {
         "height": 43,
         "left": 664,
-        "top": 9,
+        "top": 153,
         "width": 41
       },
       "computed": {
@@ -6985,7 +6985,7 @@
       "bound": {
         "height": 43,
         "left": 739,
-        "top": 9,
+        "top": 153,
         "width": 42
       },
       "computed": {
@@ -7229,7 +7229,7 @@
       "bound": {
         "height": 35,
         "left": 1347,
-        "top": 16,
+        "top": 160,
         "width": 35
       },
       "computed": {
@@ -7429,87 +7429,9 @@
     },
     {
       "bound": {
-        "height": 1104,
-        "left": -160,
-        "top": 0,
-        "width": 1920
-      },
-      "computed": {
-        "box-sizing": "border-box",
-        "cursor": "default",
-        "margin-left": "-960px",
-        "position": "absolute",
-        "vertical-align": "middle"
-      },
-      "element": {
-        "classes": [
-          "bannerObject"
-        ],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "banner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject",
-            "external"
-          ],
-          "id": "bannerDivbanner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject"
-          ],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://www.dallasparks.org/ImageRepository/Document?documentID=7387"
-    },
-    {
-      "bound": {
         "height": 30,
         "left": 1070,
-        "top": 670,
+        "top": 814,
         "width": 30
       },
       "computed": {
@@ -7736,7 +7658,7 @@
       "bound": {
         "height": 30,
         "left": 1161,
-        "top": 670,
+        "top": 814,
         "width": 30
       },
       "computed": {
@@ -7962,7 +7884,7 @@
       "bound": {
         "height": 30,
         "left": 1252,
-        "top": 670,
+        "top": 814,
         "width": 30
       },
       "computed": {
@@ -8188,7 +8110,7 @@
       "bound": {
         "height": 30,
         "left": 1343,
-        "top": 670,
+        "top": 814,
         "width": 30
       },
       "computed": {
@@ -8415,7 +8337,7 @@
       "bound": {
         "height": 48,
         "left": 215,
-        "top": 1029,
+        "top": 1173,
         "width": 289
       },
       "computed": {
@@ -8565,8 +8487,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin57",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet31"
@@ -8585,8 +8507,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8634,7 +8556,7 @@
       "bound": {
         "height": 90,
         "left": 201,
-        "top": 1109,
+        "top": 1253,
         "width": 296
       },
       "computed": {
@@ -8775,8 +8697,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin43",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet31"
@@ -8795,8 +8717,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8839,7 +8761,7 @@
       "bound": {
         "height": 48,
         "left": 1113,
-        "top": 1029,
+        "top": 1173,
         "width": 172
       },
       "computed": {
@@ -8990,8 +8912,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin57",
+            "wide",
             "widget",
             "widgetGraphicLinks",
             "widgetOptionSet27"

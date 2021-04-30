@@ -260,7 +260,7 @@
       "bound": {
         "height": 56,
         "left": 9,
-        "top": 57,
+        "top": 92,
         "width": 343
       },
       "computed": {
@@ -404,7 +404,7 @@
       "bound": {
         "height": 56,
         "left": 352,
-        "top": 57,
+        "top": 92,
         "width": 310
       },
       "computed": {
@@ -548,7 +548,7 @@
       "bound": {
         "height": 56,
         "left": 662,
-        "top": 57,
+        "top": 92,
         "width": 321
       },
       "computed": {
@@ -692,7 +692,7 @@
       "bound": {
         "height": 56,
         "left": 983,
-        "top": 57,
+        "top": 92,
         "width": 311
       },
       "computed": {
@@ -836,7 +836,7 @@
       "bound": {
         "height": 56,
         "left": 1294,
-        "top": 57,
+        "top": 92,
         "width": 298
       },
       "computed": {
@@ -980,7 +980,7 @@
       "bound": {
         "height": 55,
         "left": 567,
-        "top": 581,
+        "top": 616,
         "width": 650
       },
       "computed": {
@@ -1138,7 +1138,7 @@
       "bound": {
         "height": 44,
         "left": 567,
-        "top": 638,
+        "top": 673,
         "width": 652
       },
       "computed": {
@@ -1303,7 +1303,7 @@
       "bound": {
         "height": 22,
         "left": 567,
-        "top": 684,
+        "top": 719,
         "width": 652
       },
       "computed": {
@@ -1461,7 +1461,7 @@
       "bound": {
         "height": 56,
         "left": 200,
-        "top": 575,
+        "top": 610,
         "width": 323
       },
       "computed": {
@@ -1607,7 +1607,7 @@
       "bound": {
         "height": 56,
         "left": 200,
-        "top": 633,
+        "top": 668,
         "width": 323
       },
       "computed": {
@@ -1753,7 +1753,7 @@
       "bound": {
         "height": 56,
         "left": 200,
-        "top": 691,
+        "top": 726,
         "width": 323
       },
       "computed": {
@@ -1899,7 +1899,7 @@
       "bound": {
         "height": 176,
         "left": 217,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -2150,7 +2150,7 @@
       "bound": {
         "height": 176,
         "left": 422,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -2400,7 +2400,7 @@
       "bound": {
         "height": 200,
         "left": 627,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -2651,7 +2651,7 @@
       "bound": {
         "height": 176,
         "left": 816,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -2902,7 +2902,7 @@
       "bound": {
         "height": 176,
         "left": 1021,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -3152,7 +3152,7 @@
       "bound": {
         "height": 200,
         "left": 1226,
-        "top": 801,
+        "top": 836,
         "width": 157
       },
       "computed": {
@@ -3403,7 +3403,7 @@
       "bound": {
         "height": 28,
         "left": 449,
-        "top": 1069,
+        "top": 1104,
         "width": 199
       },
       "computed": {
@@ -3588,7 +3588,7 @@
       "bound": {
         "height": 80,
         "left": 449,
-        "top": 1115,
+        "top": 1150,
         "width": 199
       },
       "computed": {
@@ -3804,7 +3804,7 @@
       "bound": {
         "height": 32,
         "left": 449,
-        "top": 1197,
+        "top": 1232,
         "width": 199
       },
       "computed": {
@@ -4019,7 +4019,7 @@
       "bound": {
         "height": 32,
         "left": 449,
-        "top": 1231,
+        "top": 1266,
         "width": 199
       },
       "computed": {
@@ -4233,7 +4233,7 @@
       "bound": {
         "height": 32,
         "left": 449,
-        "top": 1265,
+        "top": 1300,
         "width": 199
       },
       "computed": {
@@ -4447,7 +4447,7 @@
       "bound": {
         "height": 28,
         "left": 648,
-        "top": 1069,
+        "top": 1104,
         "width": 199
       },
       "computed": {
@@ -4632,7 +4632,7 @@
       "bound": {
         "height": 32,
         "left": 648,
-        "top": 1115,
+        "top": 1150,
         "width": 199
       },
       "computed": {
@@ -4660,7 +4660,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://library.municode.com/ca/el_monte/codes/code_of_ordinances\" target=\"_blank\" aria-label=\"Municipal Code Opens in new window\" rel=\"noopener\">Municipal Code</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://library.municode.com/ca/el_monte/codes/code_of_ordinances\" target=\"_blank\" aria-label=\"Municipal Code Opens in new window\">Municipal Code</a>\n    ",
       "path": [
         "div",
         "div",
@@ -4845,7 +4845,7 @@
       "bound": {
         "height": 32,
         "left": 648,
-        "top": 1149,
+        "top": 1184,
         "width": 199
       },
       "computed": {
@@ -4873,7 +4873,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://agency.governmentjobs.com/elmonteca/default.cfm\" target=\"_blank\" aria-label=\"Job Openings Opens in new window\" rel=\"noopener\">Job Openings</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://agency.governmentjobs.com/elmonteca/default.cfm\" target=\"_blank\" aria-label=\"Job Openings Opens in new window\">Job Openings</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5058,7 +5058,7 @@
       "bound": {
         "height": 32,
         "left": 648,
-        "top": 1183,
+        "top": 1218,
         "width": 199
       },
       "computed": {
@@ -5086,7 +5086,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://owa.elmonteca.gov\" target=\"_blank\" aria-label=\"City Staff Email Opens in new window\" rel=\"noopener\">City Staff Email</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://owa.elmonteca.gov\" target=\"_blank\" aria-label=\"City Staff Email Opens in new window\">City Staff Email</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5271,7 +5271,7 @@
       "bound": {
         "height": 32,
         "left": 648,
-        "top": 1217,
+        "top": 1252,
         "width": 199
       },
       "computed": {
@@ -5484,7 +5484,7 @@
       "bound": {
         "height": 32,
         "left": 648,
-        "top": 1251,
+        "top": 1286,
         "width": 199
       },
       "computed": {
@@ -5697,7 +5697,7 @@
       "bound": {
         "height": 28,
         "left": 847,
-        "top": 1069,
+        "top": 1104,
         "width": 349
       },
       "computed": {
@@ -5882,7 +5882,7 @@
       "bound": {
         "height": 32,
         "left": 847,
-        "top": 1115,
+        "top": 1150,
         "width": 349
       },
       "computed": {
@@ -6093,7 +6093,7 @@
       "bound": {
         "height": 32,
         "left": 847,
-        "top": 1149,
+        "top": 1184,
         "width": 349
       },
       "computed": {
@@ -6304,7 +6304,7 @@
       "bound": {
         "height": 32,
         "left": 847,
-        "top": 1183,
+        "top": 1218,
         "width": 349
       },
       "computed": {
@@ -6515,7 +6515,7 @@
       "bound": {
         "height": 32,
         "left": 847,
-        "top": 1217,
+        "top": 1252,
         "width": 349
       },
       "computed": {
@@ -6726,7 +6726,7 @@
       "bound": {
         "height": 28,
         "left": 1196,
-        "top": 1069,
+        "top": 1104,
         "width": 199
       },
       "computed": {
@@ -6912,7 +6912,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1115,
+        "top": 1150,
         "width": 199
       },
       "computed": {
@@ -7126,7 +7126,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1149,
+        "top": 1184,
         "width": 199
       },
       "computed": {
@@ -7340,7 +7340,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1183,
+        "top": 1218,
         "width": 199
       },
       "computed": {
@@ -7554,7 +7554,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1217,
+        "top": 1252,
         "width": 199
       },
       "computed": {
@@ -7768,7 +7768,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1251,
+        "top": 1286,
         "width": 199
       },
       "computed": {
@@ -7982,7 +7982,7 @@
       "bound": {
         "height": 32,
         "left": 1196,
-        "top": 1285,
+        "top": 1320,
         "width": 199
       },
       "computed": {
@@ -8196,7 +8196,7 @@
       "bound": {
         "height": 56,
         "left": 1196,
-        "top": 1319,
+        "top": 1354,
         "width": 199
       },
       "computed": {
@@ -8412,7 +8412,7 @@
       "bound": {
         "height": 157,
         "left": 0,
-        "top": 0,
+        "top": 35,
         "width": 300
       },
       "computed": {
@@ -8534,7 +8534,7 @@
       "bound": {
         "height": 60,
         "left": 404,
-        "top": 307,
+        "top": 342,
         "width": 60
       },
       "computed": {
@@ -8732,93 +8732,9 @@
     },
     {
       "bound": {
-        "height": 509,
-        "left": 0,
-        "top": 0,
-        "width": 1600
-      },
-      "computed": {
-        "box-sizing": "border-box",
-        "cursor": "default",
-        "min-height": "0px",
-        "position": "absolute",
-        "vertical-align": "middle"
-      },
-      "element": {
-        "classes": [
-          "bannerObject"
-        ],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer1",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer3",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "banner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject",
-            "external"
-          ],
-          "id": "bannerDivbanner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject"
-          ],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ci.el-monte.ca.us/ImageRepository/Document?documentID=3289"
-    },
-    {
-      "bound": {
         "height": 170,
         "left": 203,
-        "top": 1089,
+        "top": 1124,
         "width": 194
       },
       "computed": {

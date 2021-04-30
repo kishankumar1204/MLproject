@@ -157,6 +157,22 @@
     "http://livingstonnj.org/MyAccount/ProfileCreate",
     "http://livingstonnj.org/MyAccount",
     "http://livingstonnj.org/1/Home",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Facebook",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Twitter",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Pinterest",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Delicious",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Blogger",
+    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/LinkedIn",
+    "http://livingstonnj.org/",
+    "http://livingstonnj.org/MyAccount",
+    "http://livingstonnj.org/172/Purchasing#PrinterFriendlyed1ce659-a4fc-4557-872e-0c0030f29efa",
+    "http://livingstonnj.org/EmailPage",
+    "http://livingstonnj.org/directory.aspx",
+    "http://livingstonnj.org/rss.aspx",
+    "http://livingstonnj.org/SiteMap",
+    "http://livingstonnj.org/172/Purchasing#TranslatePageed1ce659-a4fc-4557-872e-0c0030f29efa",
+    "http://livingstonnj.org/list.aspx",
+    "http://livingstonnj.org/DocumentCenter",
     "https://www.facebook.com/LivingstonTownshipNJ",
     "https://twitter.com/Livingston_NJ",
     "https://www.instagram.com/livingstontownshipnj/",
@@ -202,23 +218,7 @@
     "http://livingstonnj.org/Accessibility",
     "http://livingstonnj.org/site/copyright",
     "http://livingstonnj.org/1052/Website-Privacy-Policy",
-    "http://www.civicplus.com/",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Facebook",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Twitter",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Pinterest",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Delicious",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/Blogger",
-    "http://livingstonnj.org/Layout/WidgetShare/ShareLink/LinkedIn",
-    "http://livingstonnj.org/",
-    "http://livingstonnj.org/MyAccount",
-    "http://livingstonnj.org/172/Purchasing#PrinterFriendlyed1ce659-a4fc-4557-872e-0c0030f29efa",
-    "http://livingstonnj.org/EmailPage",
-    "http://livingstonnj.org/directory.aspx",
-    "http://livingstonnj.org/rss.aspx",
-    "http://livingstonnj.org/SiteMap",
-    "http://livingstonnj.org/172/Purchasing#TranslatePageed1ce659-a4fc-4557-872e-0c0030f29efa",
-    "http://livingstonnj.org/list.aspx",
-    "http://livingstonnj.org/DocumentCenter"
+    "http://www.civicplus.com/"
   ],
   "texts": [
     {
@@ -801,9 +801,9 @@
     {
       "bound": {
         "height": 56,
-        "left": 578,
+        "left": 577,
         "top": 253,
-        "width": 196
+        "width": 189
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -815,7 +815,7 @@
         "color": "rgb(11, 72, 44)",
         "font-family": "'Sorts Mill Goudy'",
         "font-size": "17px",
-        "line-height": "23px",
+        "line-height": "24px",
         "list-style-type": "none",
         "min-height": "0px",
         "outline-color": "rgb(11, 72, 44)",
@@ -837,7 +837,7 @@
         "id": "mainNavGovernment",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Government</span>",
+      "html": "Government",
       "path": [
         "div",
         "div",
@@ -949,9 +949,9 @@
     {
       "bound": {
         "height": 56,
-        "left": 774,
+        "left": 766,
         "top": 253,
-        "width": 151
+        "width": 152
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -963,7 +963,7 @@
         "color": "rgb(11, 72, 44)",
         "font-family": "'Sorts Mill Goudy'",
         "font-size": "17px",
-        "line-height": "23px",
+        "line-height": "24px",
         "list-style-type": "none",
         "min-height": "0px",
         "outline-color": "rgb(11, 72, 44)",
@@ -985,7 +985,7 @@
         "id": "mainNavServices",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Services</span>",
+      "html": "Services",
       "path": [
         "div",
         "div",
@@ -1097,9 +1097,9 @@
     {
       "bound": {
         "height": 56,
-        "left": 925,
+        "left": 918,
         "top": 253,
-        "width": 162
+        "width": 165
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1111,7 +1111,7 @@
         "color": "rgb(11, 72, 44)",
         "font-family": "'Sorts Mill Goudy'",
         "font-size": "17px",
-        "line-height": "23px",
+        "line-height": "24px",
         "list-style-type": "none",
         "min-height": "0px",
         "outline-color": "rgb(11, 72, 44)",
@@ -1133,7 +1133,7 @@
         "id": "mainNavResidents",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Residents</span>",
+      "html": "Residents",
       "path": [
         "div",
         "div",
@@ -1245,9 +1245,9 @@
     {
       "bound": {
         "height": 56,
-        "left": 1087,
+        "left": 1083,
         "top": 253,
-        "width": 150
+        "width": 155
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1259,7 +1259,7 @@
         "color": "rgb(11, 72, 44)",
         "font-family": "'Sorts Mill Goudy'",
         "font-size": "17px",
-        "line-height": "23px",
+        "line-height": "24px",
         "list-style-type": "none",
         "min-height": "0px",
         "outline-color": "rgb(11, 72, 44)",
@@ -1281,7 +1281,7 @@
         "id": "mainNavBusiness",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">Business</span>",
+      "html": "Business",
       "path": [
         "div",
         "div",
@@ -1393,9 +1393,9 @@
     {
       "bound": {
         "height": 56,
-        "left": 1237,
+        "left": 1238,
         "top": 253,
-        "width": 158
+        "width": 159
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1407,7 +1407,7 @@
         "color": "rgb(11, 72, 44)",
         "font-family": "'Sorts Mill Goudy'",
         "font-size": "17px",
-        "line-height": "23px",
+        "line-height": "24px",
         "list-style-type": "none",
         "min-height": "0px",
         "outline-color": "rgb(11, 72, 44)",
@@ -1429,7 +1429,7 @@
         "id": "mainNavHowDoI",
         "name": "a"
       },
-      "html": "<span style=\"display: inline; \">How Do I...</span>",
+      "html": "How Do I...",
       "path": [
         "div",
         "div",
@@ -3918,7 +3918,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -3939,7 +3940,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4125,7 +4127,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4146,7 +4149,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4334,7 +4338,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4355,7 +4360,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4542,7 +4548,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4563,7 +4570,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4760,7 +4768,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4781,7 +4790,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4969,7 +4979,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -4990,7 +5001,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5176,7 +5188,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5197,7 +5210,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5383,7 +5397,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5404,7 +5419,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5592,7 +5608,8 @@
         {
           "classes": [
             "outer",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -5613,7 +5630,8 @@
             "first",
             "last",
             "nest",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -6219,7 +6237,7 @@
       "bound": {
         "height": 19,
         "left": 199,
-        "top": 1072,
+        "top": 1054,
         "width": 200
       },
       "computed": {
@@ -6466,7 +6484,7 @@
       "bound": {
         "height": 19,
         "left": 399,
-        "top": 1072,
+        "top": 1054,
         "width": 200
       },
       "computed": {
@@ -6712,7 +6730,7 @@
       "bound": {
         "height": 19,
         "left": 599,
-        "top": 1072,
+        "top": 1054,
         "width": 200
       },
       "computed": {
@@ -6959,7 +6977,7 @@
       "bound": {
         "height": 19,
         "left": 800,
-        "top": 1072,
+        "top": 1054,
         "width": 196
       },
       "computed": {
@@ -7206,7 +7224,7 @@
       "bound": {
         "height": 19,
         "left": 1002,
-        "top": 1072,
+        "top": 1054,
         "width": 196
       },
       "computed": {
@@ -7452,7 +7470,7 @@
       "bound": {
         "height": 19,
         "left": 1204,
-        "top": 1072,
+        "top": 1054,
         "width": 196
       },
       "computed": {
@@ -7699,7 +7717,7 @@
       "bound": {
         "height": 30,
         "left": 499,
-        "top": 1170,
+        "top": 1152,
         "width": 250
       },
       "computed": {
@@ -7848,8 +7866,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin37",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -7883,7 +7901,7 @@
       "bound": {
         "height": 162,
         "left": 499,
-        "top": 1209,
+        "top": 1191,
         "width": 250
       },
       "computed": {
@@ -8037,8 +8055,8 @@
         },
         {
           "classes": [
-            "narrow",
             "skin37",
+            "wide",
             "widget",
             "widgetInfoAdvanced",
             "widgetOptionSet5"
@@ -8057,8 +8075,8 @@
         },
         {
           "classes": [
-            "narrow",
-            "row"
+            "row",
+            "wide"
           ],
           "id": "",
           "name": "div"
@@ -8104,7 +8122,7 @@
       "bound": {
         "height": 30,
         "left": 799,
-        "top": 1170,
+        "top": 1152,
         "width": 300
       },
       "computed": {
@@ -8288,7 +8306,7 @@
       "bound": {
         "height": 29,
         "left": 799,
-        "top": 1209,
+        "top": 1191,
         "width": 300
       },
       "computed": {
@@ -8502,7 +8520,7 @@
       "bound": {
         "height": 29,
         "left": 799,
-        "top": 1240,
+        "top": 1222,
         "width": 300
       },
       "computed": {
@@ -8716,7 +8734,7 @@
       "bound": {
         "height": 29,
         "left": 799,
-        "top": 1271,
+        "top": 1253,
         "width": 300
       },
       "computed": {
@@ -8930,7 +8948,7 @@
       "bound": {
         "height": 29,
         "left": 799,
-        "top": 1302,
+        "top": 1284,
         "width": 300
       },
       "computed": {
@@ -9144,7 +9162,7 @@
       "bound": {
         "height": 29,
         "left": 799,
-        "top": 1333,
+        "top": 1315,
         "width": 300
       },
       "computed": {
@@ -9358,7 +9376,7 @@
       "bound": {
         "height": 30,
         "left": 1149,
-        "top": 1170,
+        "top": 1152,
         "width": 250
       },
       "computed": {
@@ -9543,7 +9561,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1209,
+        "top": 1191,
         "width": 250
       },
       "computed": {
@@ -9758,7 +9776,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1240,
+        "top": 1222,
         "width": 250
       },
       "computed": {
@@ -9973,7 +9991,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1271,
+        "top": 1253,
         "width": 250
       },
       "computed": {
@@ -10188,7 +10206,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1302,
+        "top": 1284,
         "width": 250
       },
       "computed": {
@@ -10403,7 +10421,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1333,
+        "top": 1315,
         "width": 250
       },
       "computed": {
@@ -10618,7 +10636,7 @@
       "bound": {
         "height": 29,
         "left": 1149,
-        "top": 1364,
+        "top": 1346,
         "width": 250
       },
       "computed": {
@@ -12410,94 +12428,9 @@
     },
     {
       "bound": {
-        "height": 350,
-        "left": -200,
-        "top": 144,
-        "width": 2000
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "box-sizing": "border-box",
-        "cursor": "default",
-        "min-height": "0px",
-        "position": "absolute",
-        "vertical-align": "middle"
-      },
-      "element": {
-        "classes": [
-          "bannerObject"
-        ],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "banner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject",
-            "external"
-          ],
-          "id": "bannerDivbanner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject"
-          ],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://livingstonnj.org/ImageRepository/Document?documentID=85"
-    },
-    {
-      "bound": {
         "height": 189,
         "left": 199,
-        "top": 1186,
+        "top": 1168,
         "width": 240
       },
       "computed": {

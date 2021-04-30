@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:51:59.108Z",
+  "time": "2021-04-27T10:31:43.234Z",
   "url": "http://ci.marble-falls.tx.us/bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:52:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:31:44 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:52:00.394Z",
+  "time": "2021-04-27T10:31:44.750Z",
   "url": "http://ci.marble-falls.tx.us/bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:52:00.394Z",
+  "time": "2021-04-27T10:31:44.751Z",
   "url": "https://marblefallstx.gov/bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:52:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:31:44 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:52:00.395Z",
+  "time": "2021-04-27T10:31:44.756Z",
   "url": "http://ci.marble-falls.tx.us/bids"
 }
 
@@ -155,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:52:02.873Z",
+  "time": "2021-04-27T10:31:47.668Z",
   "url": "https://marblefallstx.gov/bids"
 }
 

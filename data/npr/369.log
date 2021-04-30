@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:52:55.043Z",
+  "time": "2021-04-27T10:33:05.487Z",
   "url": "http://www.fishers.in.us/bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:52:54 GMT"
+      "value": "Tue, 27 Apr 2021 10:33:05 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:52:55.829Z",
+  "time": "2021-04-27T10:33:06.367Z",
   "url": "http://www.fishers.in.us/bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:52:55.830Z",
+  "time": "2021-04-27T10:33:06.368Z",
   "url": "https://www.fishers.in.us/bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:52:54 GMT"
+      "value": "Tue, 27 Apr 2021 10:33:05 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:52:55.830Z",
+  "time": "2021-04-27T10:33:06.368Z",
   "url": "http://www.fishers.in.us/bids"
 }
 
@@ -155,7 +155,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:52:58.251Z",
+  "time": "2021-04-27T10:33:08.606Z",
   "url": "https://www.fishers.in.us/bids"
 }
 

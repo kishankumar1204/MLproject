@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:53:44.630Z",
+  "time": "2021-04-27T10:35:30.679Z",
   "url": "http://www.grandviewheights.org/bids"
 }
 
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:44 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:31 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 301,
   "statusText": "Moved Permanently",
-  "time": "2021-04-17T05:53:45.665Z",
+  "time": "2021-04-27T10:35:31.994Z",
   "url": "http://www.grandviewheights.org/bids"
 }
 
@@ -86,7 +86,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:53:45.666Z",
+  "time": "2021-04-27T10:35:31.995Z",
   "url": "http://www.grandviewheights.gov/bids"
 }
 
@@ -131,7 +131,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:44 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:31 GMT"
     },
     {
       "name": "Content-Length",
@@ -143,7 +143,7 @@
   "stage": "end",
   "status": 301,
   "statusText": "Moved Permanently",
-  "time": "2021-04-17T05:53:45.666Z",
+  "time": "2021-04-27T10:35:31.995Z",
   "url": "http://www.grandviewheights.org/bids"
 }
 
@@ -189,7 +189,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:45 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:32 GMT"
     },
     {
       "name": "Content-Length",
@@ -201,7 +201,7 @@
   "stage": "start",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:53:46.519Z",
+  "time": "2021-04-27T10:35:33.121Z",
   "url": "http://www.grandviewheights.gov/bids"
 }
 
@@ -218,7 +218,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T05:53:46.520Z",
+  "time": "2021-04-27T10:35:33.122Z",
   "url": "https://www.grandviewheights.gov/bids"
 }
 
@@ -263,7 +263,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:45 GMT"
+      "value": "Tue, 27 Apr 2021 10:35:32 GMT"
     },
     {
       "name": "Content-Length",
@@ -275,7 +275,7 @@
   "stage": "end",
   "status": 302,
   "statusText": "Found",
-  "time": "2021-04-17T05:53:46.521Z",
+  "time": "2021-04-27T10:35:33.122Z",
   "url": "http://www.grandviewheights.gov/bids"
 }
 
@@ -287,7 +287,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:53:48.335Z",
+  "time": "2021-04-27T10:35:36.195Z",
   "url": "https://www.grandviewheights.gov/bids"
 }
 

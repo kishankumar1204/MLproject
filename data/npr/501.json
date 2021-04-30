@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 1385,
+      "height": 1259,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "1385px",
+      "height": "1259px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -1377,7 +1377,7 @@
       "bound": {
         "height": 26,
         "left": 199,
-        "top": 444,
+        "top": 318,
         "width": 300
       },
       "computed": {
@@ -1554,7 +1554,7 @@
       "bound": {
         "height": 16,
         "left": 489,
-        "top": 564,
+        "top": 438,
         "width": 840
       },
       "computed": {
@@ -1670,7 +1670,7 @@
       "bound": {
         "height": 118,
         "left": 504,
-        "top": 612,
+        "top": 486,
         "width": 882
       },
       "computed": {
@@ -1828,7 +1828,7 @@
       "bound": {
         "height": 38,
         "left": 504,
-        "top": 732,
+        "top": 606,
         "width": 882
       },
       "computed": {
@@ -1991,7 +1991,7 @@
       "bound": {
         "height": 22,
         "left": 504,
-        "top": 772,
+        "top": 646,
         "width": 882
       },
       "computed": {
@@ -2147,7 +2147,7 @@
       "bound": {
         "height": 30,
         "left": 199,
-        "top": 918,
+        "top": 792,
         "width": 350
       },
       "computed": {
@@ -2324,7 +2324,7 @@
       "bound": {
         "height": 33,
         "left": 199,
-        "top": 964,
+        "top": 838,
         "width": 350
       },
       "computed": {
@@ -2531,7 +2531,7 @@
       "bound": {
         "height": 33,
         "left": 199,
-        "top": 999,
+        "top": 873,
         "width": 350
       },
       "computed": {
@@ -2738,7 +2738,7 @@
       "bound": {
         "height": 33,
         "left": 199,
-        "top": 1034,
+        "top": 908,
         "width": 350
       },
       "computed": {
@@ -2945,7 +2945,7 @@
       "bound": {
         "height": 52,
         "left": 199,
-        "top": 1069,
+        "top": 943,
         "width": 350
       },
       "computed": {
@@ -3152,7 +3152,7 @@
       "bound": {
         "height": 33,
         "left": 199,
-        "top": 1123,
+        "top": 997,
         "width": 350
       },
       "computed": {
@@ -3359,7 +3359,7 @@
       "bound": {
         "height": 33,
         "left": 199,
-        "top": 1158,
+        "top": 1032,
         "width": 350
       },
       "computed": {
@@ -3566,7 +3566,7 @@
       "bound": {
         "height": 30,
         "left": 599,
-        "top": 918,
+        "top": 792,
         "width": 350
       },
       "computed": {
@@ -3741,7 +3741,7 @@
       "bound": {
         "height": 109,
         "left": 599,
-        "top": 964,
+        "top": 838,
         "width": 350
       },
       "computed": {
@@ -3953,7 +3953,7 @@
       "bound": {
         "height": 19,
         "left": 599,
-        "top": 1160,
+        "top": 1034,
         "width": 350
       },
       "computed": {
@@ -4119,7 +4119,7 @@
       "bound": {
         "height": 23,
         "left": 1020,
-        "top": 927,
+        "top": 801,
         "width": 361
       },
       "computed": {
@@ -4350,7 +4350,7 @@
       "bound": {
         "height": 23,
         "left": 1020,
-        "top": 998,
+        "top": 872,
         "width": 361
       },
       "computed": {
@@ -4581,7 +4581,7 @@
       "bound": {
         "height": 25,
         "left": 1020,
-        "top": 1067,
+        "top": 941,
         "width": 361
       },
       "computed": {
@@ -4814,7 +4814,7 @@
       "bound": {
         "height": 25,
         "left": 1020,
-        "top": 1136,
+        "top": 1010,
         "width": 361
       },
       "computed": {
@@ -5047,7 +5047,7 @@
       "bound": {
         "height": 25,
         "left": 1020,
-        "top": 1199,
+        "top": 1073,
         "width": 361
       },
       "computed": {
@@ -5280,7 +5280,7 @@
       "bound": {
         "height": 25,
         "left": 400,
-        "top": 1335,
+        "top": 1209,
         "width": 38
       },
       "computed": {
@@ -5497,7 +5497,7 @@
       "bound": {
         "height": 25,
         "left": 484,
-        "top": 1335,
+        "top": 1209,
         "width": 89
       },
       "computed": {
@@ -5713,7 +5713,7 @@
       "bound": {
         "height": 25,
         "left": 619,
-        "top": 1335,
+        "top": 1209,
         "width": 54
       },
       "computed": {
@@ -5929,7 +5929,7 @@
       "bound": {
         "height": 25,
         "left": 719,
-        "top": 1335,
+        "top": 1209,
         "width": 114
       },
       "computed": {
@@ -6145,7 +6145,7 @@
       "bound": {
         "height": 25,
         "left": 879,
-        "top": 1335,
+        "top": 1209,
         "width": 79
       },
       "computed": {
@@ -6559,94 +6559,9 @@
     },
     {
       "bound": {
-        "height": 419,
-        "left": 0,
-        "top": 126,
-        "width": 1600
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "box-sizing": "border-box",
-        "cursor": "default",
-        "position": "absolute",
-        "vertical-align": "middle"
-      },
-      "element": {
-        "classes": [
-          "bannerObject"
-        ],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "outer-wrap"
-          ],
-          "id": "outer-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "inner-wrap"
-          ],
-          "id": "inner-wrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "bodyWrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer5",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "structuralContainer6",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "banner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject",
-            "external",
-            "fixedBanner"
-          ],
-          "id": "bannerDivbanner1",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bannerObject"
-          ],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://www.mncppc.org/ImageRepository/Document?documentID=12945"
-    },
-    {
-      "bound": {
         "height": 44,
         "left": 1296,
-        "top": 435,
+        "top": 309,
         "width": 104
       },
       "computed": {
@@ -6832,7 +6747,7 @@
       "bound": {
         "height": 27,
         "left": 599,
-        "top": 1102,
+        "top": 976,
         "width": 27
       },
       "computed": {
@@ -7054,7 +6969,7 @@
       "bound": {
         "height": 27,
         "left": 640,
-        "top": 1102,
+        "top": 976,
         "width": 27
       },
       "computed": {
@@ -7275,7 +7190,7 @@
       "bound": {
         "height": 11,
         "left": 1244,
-        "top": 1345,
+        "top": 1219,
         "width": 13
       },
       "computed": {
@@ -7454,7 +7369,7 @@
       "bound": {
         "height": 13,
         "left": 1343,
-        "top": 1344,
+        "top": 1218,
         "width": 14
       },
       "computed": {

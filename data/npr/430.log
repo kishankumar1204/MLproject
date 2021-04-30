@@ -11,7 +11,7 @@
   ],
   "id": 1,
   "method": "GET",
-  "time": "2021-04-17T05:55:40.736Z",
+  "time": "2021-04-27T10:38:51.900Z",
   "url": "http://stannmo.org/bids"
 }
 
@@ -41,7 +41,7 @@
     },
     {
       "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=32bbcbh3nw0su0tquf3findo; path=/; HttpOnly; SameSite=Lax"
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=cegupckajxzd3mvtu4ikqeqw; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:41 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:52 GMT"
     },
     {
       "name": "Content-Length",
@@ -69,7 +69,7 @@
   "stage": "start",
   "status": 404,
   "statusText": "Not Found",
-  "time": "2021-04-17T05:55:41.867Z",
+  "time": "2021-04-27T10:38:53.377Z",
   "url": "http://stannmo.org/bids"
 }
 
@@ -90,7 +90,7 @@
   ],
   "id": 2,
   "method": "GET",
-  "time": "2021-04-17T05:55:41.872Z",
+  "time": "2021-04-27T10:38:53.385Z",
   "url": "http://stannmo.org/901781768.css"
 }
 
@@ -111,7 +111,7 @@
   ],
   "id": 3,
   "method": "GET",
-  "time": "2021-04-17T05:55:41.872Z",
+  "time": "2021-04-27T10:38:53.386Z",
   "url": "http://stannmo.org/2042759911.css"
 }
 
@@ -132,7 +132,7 @@
   ],
   "id": 4,
   "method": "GET",
-  "time": "2021-04-17T05:55:41.873Z",
+  "time": "2021-04-27T10:38:53.387Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -144,7 +144,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:55:41.997Z",
+  "time": "2021-04-27T10:38:53.622Z",
   "url": "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"
 }
 
@@ -165,7 +165,7 @@
   ],
   "id": 5,
   "method": "GET",
-  "time": "2021-04-17T05:55:42.167Z",
+  "time": "2021-04-27T10:38:53.731Z",
   "url": "http://stannmo.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -186,7 +186,7 @@
   ],
   "id": 6,
   "method": "GET",
-  "time": "2021-04-17T05:55:42.168Z",
+  "time": "2021-04-27T10:38:53.732Z",
   "url": "http://stannmo.org/-2031684067.js"
 }
 
@@ -207,7 +207,7 @@
   ],
   "id": 7,
   "method": "GET",
-  "time": "2021-04-17T05:55:42.169Z",
+  "time": "2021-04-27T10:38:53.733Z",
   "url": "http://stannmo.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -228,7 +228,7 @@
   ],
   "id": 8,
   "method": "GET",
-  "time": "2021-04-17T05:55:42.170Z",
+  "time": "2021-04-27T10:38:53.734Z",
   "url": "http://stannmo.org/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -249,41 +249,57 @@
   ],
   "id": 9,
   "method": "GET",
-  "time": "2021-04-17T05:55:42.459Z",
+  "time": "2021-04-27T10:38:54.068Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
 {
-  "bodySize": 65988,
-  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 10,
+  "method": "GET",
+  "time": "2021-04-27T10:38:54.446Z",
+  "url": "http://stannmo.org/237693563.js"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
   "headers": [
     {
       "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
+      "value": "private, s-maxage=600,no-transform"
     },
     {
       "name": "Content-Type",
-      "value": "text/css; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
+      "value": "text/html; charset=utf-8"
     },
     {
       "name": "ETag",
-      "value": "1716668566,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
       "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=cegupckajxzd3mvtu4ikqeqw; path=/; HttpOnly; SameSite=Lax"
     },
     {
       "name": "X-Content-Type-Options",
@@ -299,16 +315,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:41 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:52 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "80944"
     }
   ],
-  "id": 2,
+  "id": 1,
   "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:42.781Z",
-  "url": "http://stannmo.org/901781768.css"
+  "stage": "end",
+  "status": 404,
+  "statusText": "Not Found",
+  "time": "2021-04-27T10:38:54.446Z",
+  "url": "http://stannmo.org/bids"
 }
 
 {
@@ -369,7 +389,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 7,
@@ -377,7 +397,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:42.793Z",
+  "time": "2021-04-27T10:38:54.483Z",
   "url": "http://stannmo.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
 }
 
@@ -438,7 +458,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 7,
@@ -446,8 +466,66 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:42.794Z",
+  "time": "2021-04-27T10:38:54.484Z",
   "url": "http://stannmo.org/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"
+}
+
+{
+  "bodySize": 65988,
+  "contentType": "text/css; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:53 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1716668566,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
+    }
+  ],
+  "id": 2,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:54.495Z",
+  "url": "http://stannmo.org/901781768.css"
 }
 
 {
@@ -468,7 +546,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 04 May 2021 10:38:53 GMT"
     },
     {
       "name": "ETag",
@@ -496,7 +574,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 3,
@@ -504,140 +582,8 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:42.855Z",
+  "time": "2021-04-27T10:38:54.506Z",
   "url": "http://stannmo.org/2042759911.css"
-}
-
-{
-  "bodySize": 42193,
-  "contentType": "text/javascript; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
-    },
-    {
-      "name": "ETag",
-      "value": "1781971946,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
-    }
-  ],
-  "id": 6,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:43.060Z",
-  "url": "http://stannmo.org/-2031684067.js"
-}
-
-{
-  "bodySize": 34827,
-  "contentType": "application/javascript",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"085c21f9d5cc1:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
-    }
-  ],
-  "id": 5,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:43.061Z",
-  "url": "http://stannmo.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
 {
@@ -698,7 +644,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 8,
@@ -706,7 +652,7 @@
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.094Z",
+  "time": "2021-04-27T10:38:54.833Z",
   "url": "http://stannmo.org/Areas/Layout/Assets/Scripts/Search.js"
 }
 
@@ -767,7 +713,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 8,
@@ -775,8 +721,140 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.095Z",
+  "time": "2021-04-27T10:38:54.833Z",
   "url": "http://stannmo.org/Areas/Layout/Assets/Scripts/Search.js"
+}
+
+{
+  "bodySize": 34827,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 18 Jan 2012 15:51:14 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"085c21f9d5cc1:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
+    }
+  ],
+  "id": 5,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:54.850Z",
+  "url": "http://stannmo.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
+}
+
+{
+  "bodySize": 42193,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:54 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "1781971946,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
+    }
+  ],
+  "id": 6,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:54.853Z",
+  "url": "http://stannmo.org/-2031684067.js"
 }
 
 {
@@ -787,7 +865,7 @@
   "stage": "end",
   "status": null,
   "statusText": null,
-  "time": "2021-04-17T05:55:43.121Z",
+  "time": "2021-04-27T10:38:54.942Z",
   "url": "https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
 }
 
@@ -808,7 +886,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 04 May 2021 10:38:53 GMT"
     },
     {
       "name": "ETag",
@@ -836,7 +914,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:41 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 2,
@@ -844,8 +922,70 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.345Z",
+  "time": "2021-04-27T10:38:55.247Z",
   "url": "http://stannmo.org/901781768.css"
+}
+
+{
+  "bodySize": 45210,
+  "contentType": "text/javascript; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "public, must-revalidate, max-age=604800,no-transform"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 04 May 2021 10:38:54 GMT"
+    },
+    {
+      "name": "ETag",
+      "value": "-1014361937,\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
+    }
+  ],
+  "id": 10,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:55.269Z",
+  "url": "http://stannmo.org/237693563.js"
 }
 
 {
@@ -865,7 +1005,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 04 May 2021 10:38:53 GMT"
     },
     {
       "name": "ETag",
@@ -893,7 +1033,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 3,
@@ -901,7 +1041,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.479Z",
+  "time": "2021-04-27T10:38:55.269Z",
   "url": "http://stannmo.org/2042759911.css"
 }
 
@@ -962,7 +1102,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 5,
@@ -970,7 +1110,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.622Z",
+  "time": "2021-04-27T10:38:55.600Z",
   "url": "http://stannmo.org/Scripts/2011.3.1115/jquery-1.6.4.min.js"
 }
 
@@ -995,7 +1135,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 04 May 2021 10:38:54 GMT"
     },
     {
       "name": "ETag",
@@ -1023,7 +1163,7 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:42 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
   "id": 6,
@@ -1031,7 +1171,7 @@
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:43.644Z",
+  "time": "2021-04-27T10:38:55.629Z",
   "url": "http://stannmo.org/-2031684067.js"
 }
 
@@ -1050,146 +1190,10 @@
       "value": "*/*"
     }
   ],
-  "id": 10,
+  "id": 11,
   "method": "GET",
-  "time": "2021-04-17T05:55:43.692Z",
+  "time": "2021-04-27T10:38:55.671Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3541"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 11,
-  "method": "GET",
-  "time": "2021-04-17T05:55:43.712Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
-}
-
-{
-  "bodySize": 353,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "353"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.027Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "353"
-    }
-  ],
-  "id": 11,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.028Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
 }
 
 {
@@ -1209,8 +1213,8 @@
   ],
   "id": 12,
   "method": "GET",
-  "time": "2021-04-17T05:55:44.028Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3550"
+  "time": "2021-04-27T10:38:55.688Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
 }
 
 {
@@ -1230,8 +1234,8 @@
   ],
   "id": 13,
   "method": "GET",
-  "time": "2021-04-17T05:55:44.028Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
+  "time": "2021-04-27T10:38:55.739Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3550"
 }
 
 {
@@ -1251,8 +1255,8 @@
   ],
   "id": 14,
   "method": "GET",
-  "time": "2021-04-17T05:55:44.028Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
+  "time": "2021-04-27T10:38:55.739Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
 }
 
 {
@@ -1272,8 +1276,8 @@
   ],
   "id": 15,
   "method": "GET",
-  "time": "2021-04-17T05:55:44.029Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
+  "time": "2021-04-27T10:38:55.739Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
 }
 
 {
@@ -1293,7 +1297,28 @@
   ],
   "id": 16,
   "method": "GET",
-  "time": "2021-04-17T05:55:44.029Z",
+  "time": "2021-04-27T10:38:55.739Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 17,
+  "method": "GET",
+  "time": "2021-04-27T10:38:55.740Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3556"
 }
 
@@ -1339,19 +1364,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3628"
     }
   ],
-  "id": 10,
+  "id": 11,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.029Z",
+  "time": "2021-04-27T10:38:56.060Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3541"
 }
 
@@ -1396,102 +1421,24 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
       "value": "3628"
     }
   ],
-  "id": 10,
+  "id": 11,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.029Z",
+  "time": "2021-04-27T10:38:56.060Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3541"
 }
 
 {
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    }
-  ],
-  "id": 17,
-  "method": "GET",
-  "time": "2021-04-17T05:55:44.286Z",
-  "url": "http://stannmo.org/237693563.js"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/\nASP.NET_SessionId=32bbcbh3nw0su0tquf3findo; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:41 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "80944"
-    }
-  ],
-  "id": 1,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 404,
-  "statusText": "Not Found",
-  "time": "2021-04-17T05:55:44.287Z",
-  "url": "http://stannmo.org/bids"
-}
-
-{
-  "bodySize": 4510,
+  "bodySize": 353,
   "contentType": "image/png",
   "headers": [
     {
@@ -1532,20 +1479,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "4510"
+      "value": "353"
     }
   ],
-  "id": 16,
+  "id": 12,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.324Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3556"
+  "time": "2021-04-27T10:38:56.076Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
 }
 
 {
@@ -1589,365 +1536,20 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
-      "value": "4510"
+      "value": "353"
     }
   ],
-  "id": 16,
+  "id": 12,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.324Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3556"
-}
-
-{
-  "bodySize": 1235,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1235"
-    }
-  ],
-  "id": 15,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.328Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1235"
-    }
-  ],
-  "id": 15,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.329Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
-}
-
-{
-  "bodySize": 1259,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1259"
-    }
-  ],
-  "id": 13,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.335Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1259"
-    }
-  ],
-  "id": 13,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.336Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
-}
-
-{
-  "bodySize": 1219,
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1219"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.342Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
-}
-
-{
-  "contentType": "image/png",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/png"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1219"
-    }
-  ],
-  "id": 14,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:44.343Z",
-  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
+  "time": "2021-04-27T10:38:56.077Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3542"
 }
 
 {
@@ -1992,19 +1594,19 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
       "value": "1388"
     }
   ],
-  "id": 12,
+  "id": 13,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.358Z",
+  "time": "2021-04-27T10:38:56.124Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3550"
 }
 
@@ -2049,57 +1651,49 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
     },
     {
       "name": "Content-Length",
       "value": "1388"
     }
   ],
-  "id": 12,
+  "id": 13,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.359Z",
+  "time": "2021-04-27T10:38:56.124Z",
   "url": "http://stannmo.org/ImageRepository/Document?documentID=3550"
 }
 
 {
-  "bodySize": 48808,
-  "contentType": "text/javascript; charset=utf-8",
+  "bodySize": 1219,
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Cache-Control",
-      "value": "public, must-revalidate, max-age=604800,no-transform"
-    },
-    {
-      "name": "Transfer-Encoding",
-      "value": "chunked"
+      "value": "private, s-maxage=600,no-transform"
     },
     {
       "name": "Content-Type",
-      "value": "text/javascript; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:44 GMT"
+      "value": "image/png"
     },
     {
       "name": "ETag",
-      "value": "-1014361937,\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding,Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
       "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
     },
     {
       "name": "X-Content-Type-Options",
@@ -2115,16 +1709,192 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1219"
     }
   ],
-  "id": 17,
+  "id": 15,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:44.588Z",
-  "url": "http://stannmo.org/237693563.js"
+  "time": "2021-04-27T10:38:56.127Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1219"
+    }
+  ],
+  "id": 15,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:56.127Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3548"
+}
+
+{
+  "bodySize": 1259,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1259"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:56.131Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1259"
+    }
+  ],
+  "id": 14,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:56.132Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3544"
 }
 
 {
@@ -2148,7 +1918,7 @@
     },
     {
       "name": "Expires",
-      "value": "Sat, 24 Apr 2021 05:55:44 GMT"
+      "value": "Tue, 04 May 2021 10:38:54 GMT"
     },
     {
       "name": "ETag",
@@ -2176,15 +1946,15 @@
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:43 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:53 GMT"
     }
   ],
-  "id": 17,
+  "id": 10,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:46.050Z",
+  "time": "2021-04-27T10:38:56.382Z",
   "url": "http://stannmo.org/237693563.js"
 }
 
@@ -2205,7 +1975,7 @@
   ],
   "id": 18,
   "method": "GET",
-  "time": "2021-04-17T05:55:46.074Z",
+  "time": "2021-04-27T10:38:56.409Z",
   "url": "http://stannmo.org/Toggle"
 }
 
@@ -2226,7 +1996,7 @@
   ],
   "id": 19,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.017Z",
+  "time": "2021-04-27T10:38:57.555Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -2247,7 +2017,7 @@
   ],
   "id": 20,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.018Z",
+  "time": "2021-04-27T10:38:57.555Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -2268,8 +2038,238 @@
   ],
   "id": 21,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.024Z",
+  "time": "2021-04-27T10:38:57.559Z",
   "url": "http://stannmo.org/Assets/Images/GoogleTranslate.gif"
+}
+
+{
+  "bodySize": 1235,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1235"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.560Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1235"
+    }
+  ],
+  "id": 16,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.560Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3546"
+}
+
+{
+  "bodySize": 4510,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4510"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.560Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3556"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:55 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "4510"
+    }
+  ],
+  "id": 17,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.560Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3556"
 }
 
 SyntaxError: Parse error
@@ -2295,8 +2295,8 @@ SyntaxError: Parse error
   ],
   "id": 22,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.046Z",
-  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1618638947046"
+  "time": "2021-04-27T10:38:57.583Z",
+  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1619519937583"
 }
 
 {
@@ -2316,8 +2316,8 @@ SyntaxError: Parse error
   ],
   "id": 23,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.057Z",
-  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1618638947057"
+  "time": "2021-04-27T10:38:57.594Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1619519937594"
 }
 
 {
@@ -2337,8 +2337,165 @@ SyntaxError: Parse error
   ],
   "id": 24,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.115Z",
+  "time": "2021-04-27T10:38:57.651Z",
   "url": "http://fonts.googleapis.com/css?family=Bitter:700,italic,regular%7CCrimson+Text:600,700,regular%7CMontserrat:200,200italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular%7C"
+}
+
+{
+  "bodySize": 4002,
+  "contentType": "text/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, must-revalidate"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Disposition",
+      "value": "attachment; filename=\"f.txt\""
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Server",
+      "value": "HTTP server (unknown)"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.877Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1619519937594"
+}
+
+{
+  "contentType": "text/javascript; charset=UTF-8",
+  "headers": [
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "no-cache, must-revalidate"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript; charset=UTF-8"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en"
+    },
+    {
+      "name": "Pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Content-Disposition",
+      "value": "attachment; filename=\"f.txt\""
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Server",
+      "value": "HTTP server (unknown)"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 23,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.877Z",
+  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1619519937594"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 25,
+  "method": "GET",
+  "time": "2021-04-27T10:38:57.878Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 26,
+  "method": "GET",
+  "time": "2021-04-27T10:38:57.879Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
 }
 
 {
@@ -2359,11 +2516,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     },
     {
       "name": "Cache-Control",
@@ -2403,7 +2560,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.268Z",
+  "time": "2021-04-27T10:38:57.890Z",
   "url": "http://fonts.googleapis.com/css?family=Bitter:700,italic,regular%7CCrimson+Text:600,700,regular%7CMontserrat:200,200italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular%7C"
 }
 
@@ -2424,11 +2581,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Expires",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     },
     {
       "name": "Cache-Control",
@@ -2468,29 +2625,147 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.268Z",
+  "time": "2021-04-27T10:38:57.890Z",
   "url": "http://fonts.googleapis.com/css?family=Bitter:700,italic,regular%7CCrimson+Text:600,700,regular%7CMontserrat:200,200italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular%7C"
 }
 
 {
+  "bodySize": 39906,
+  "contentType": "application/javascript",
   "headers": [
     {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
     },
     {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
+      "name": "Content-Type",
+      "value": "application/javascript"
     },
     {
-      "name": "Accept",
-      "value": "*/*"
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     }
   ],
-  "id": 25,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.308Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf"
+  "id": 19,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.937Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0594da3593ad01:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    }
+  ],
+  "id": 19,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.938Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
@@ -2500,39 +2775,419 @@ SyntaxError: Parse error
       "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    },
-    {
       "name": "Accept",
       "value": "*/*"
-    }
-  ],
-  "id": 26,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.313Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
       "name": "Referer",
       "value": "http://stannmo.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
     }
   ],
   "id": 27,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.318Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
+  "time": "2021-04-27T10:38:57.941Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
+}
+
+{
+  "bodySize": 1726,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 28 Aug 2015 21:51:10 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"01b6da6dbe1d01:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1726"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.943Z",
+  "url": "http://stannmo.org/Assets/Images/GoogleTranslate.gif"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 28 Aug 2015 21:51:10 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"01b6da6dbe1d01:0\",\" \""
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1726"
+    }
+  ],
+  "id": 21,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.944Z",
+  "url": "http://stannmo.org/Assets/Images/GoogleTranslate.gif"
+}
+
+{
+  "bodySize": 40507,
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.993Z",
+  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1619519937583"
+}
+
+{
+  "contentType": "text/html; charset=utf-8",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "ETag",
+      "value": "\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
+    }
+  ],
+  "id": 22,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:57.994Z",
+  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1619519937583"
+}
+
+{
+  "bodySize": 18724,
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:23:45 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 11:23:45 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "913"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.328Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+}
+
+{
+  "contentType": "text/css",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/css"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:23:45 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 11:23:45 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "913"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 25,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.329Z",
+  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
 }
 
 {
@@ -2552,8 +3207,8 @@ SyntaxError: Parse error
   ],
   "id": 28,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.323Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf"
+  "time": "2021-04-27T10:38:58.334Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf"
 }
 
 {
@@ -2573,8 +3228,8 @@ SyntaxError: Parse error
   ],
   "id": 29,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.328Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
+  "time": "2021-04-27T10:38:58.339Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
 }
 
 {
@@ -2594,8 +3249,8 @@ SyntaxError: Parse error
   ],
   "id": 30,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.332Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
+  "time": "2021-04-27T10:38:58.343Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
 }
 
 {
@@ -2615,8 +3270,8 @@ SyntaxError: Parse error
   ],
   "id": 31,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.337Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
+  "time": "2021-04-27T10:38:58.347Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf"
 }
 
 {
@@ -2636,8 +3291,8 @@ SyntaxError: Parse error
   ],
   "id": 32,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.343Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
+  "time": "2021-04-27T10:38:58.352Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
 }
 
 {
@@ -2657,8 +3312,8 @@ SyntaxError: Parse error
   ],
   "id": 33,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.349Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+  "time": "2021-04-27T10:38:58.356Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
 }
 
 {
@@ -2678,8 +3333,8 @@ SyntaxError: Parse error
   ],
   "id": 34,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.355Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+  "time": "2021-04-27T10:38:58.360Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
 }
 
 {
@@ -2699,8 +3354,8 @@ SyntaxError: Parse error
   ],
   "id": 35,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.359Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf"
+  "time": "2021-04-27T10:38:58.364Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
 {
@@ -2720,8 +3375,8 @@ SyntaxError: Parse error
   ],
   "id": 36,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.363Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+  "time": "2021-04-27T10:38:58.371Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
@@ -2741,8 +3396,8 @@ SyntaxError: Parse error
   ],
   "id": 37,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.367Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+  "time": "2021-04-27T10:38:58.377Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
 {
@@ -2762,7 +3417,70 @@ SyntaxError: Parse error
   ],
   "id": 38,
   "method": "GET",
-  "time": "2021-04-17T05:55:47.371Z",
+  "time": "2021-04-27T10:38:58.383Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 39,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.387Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 40,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.391Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 41,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.396Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf"
 }
 
@@ -2824,15 +3542,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     }
   ],
-  "id": 19,
+  "id": 27,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.381Z",
+  "time": "2021-04-27T10:38:58.406Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
@@ -2893,262 +3611,460 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     }
   ],
-  "id": 19,
+  "id": 27,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.381Z",
+  "time": "2021-04-27T10:38:58.406Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
 }
 
 {
-  "bodySize": 1726,
-  "contentType": "image/gif",
+  "bodySize": 4103,
+  "contentType": "text/javascript",
   "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/gif"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 28 Aug 2015 21:51:10 GMT"
-    },
     {
       "name": "Accept-Ranges",
       "value": "bytes"
     },
     {
-      "name": "ETag",
-      "value": "\"01b6da6dbe1d01:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1726"
-    }
-  ],
-  "id": 21,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.382Z",
-  "url": "http://stannmo.org/Assets/Images/GoogleTranslate.gif"
-}
-
-{
-  "contentType": "image/gif",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "image/gif"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Fri, 28 Aug 2015 21:51:10 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "ETag",
-      "value": "\"01b6da6dbe1d01:0\",\" \""
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Content-Length",
-      "value": "1726"
-    }
-  ],
-  "id": 21,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.382Z",
-  "url": "http://stannmo.org/Assets/Images/GoogleTranslate.gif"
-}
-
-{
-  "bodySize": 4004,
-  "contentType": "text/javascript; charset=UTF-8",
-  "headers": [
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "no-cache, must-revalidate"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Content-Language",
-      "value": "en"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Content-Disposition",
-      "value": "attachment; filename=\"f.txt\""
+      "name": "Vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "Content-Encoding",
       "value": "gzip"
     },
     {
-      "name": "Server",
-      "value": "HTTP server (unknown)"
+      "name": "Content-Type",
+      "value": "text/javascript"
     },
     {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 23,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.382Z",
-  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1618638947057"
-}
-
-{
-  "contentType": "text/javascript; charset=UTF-8",
-  "headers": [
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:17:40 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+      "value": "Tue, 27 Apr 2021 11:17:40 GMT"
     },
     {
-      "name": "Cache-Control",
-      "value": "no-cache, must-revalidate"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript; charset=UTF-8"
-    },
-    {
-      "name": "Content-Language",
-      "value": "en"
-    },
-    {
-      "name": "Pragma",
-      "value": "no-cache"
+      "name": "Last-Modified",
+      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
     },
     {
       "name": "X-Content-Type-Options",
       "value": "nosniff"
     },
     {
-      "name": "Content-Disposition",
-      "value": "attachment; filename=\"f.txt\""
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "1278"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 26,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.406Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "Content-Encoding",
       "value": "gzip"
     },
     {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:17:40 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 27 Apr 2021 11:17:40 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
       "name": "Server",
-      "value": "HTTP server (unknown)"
+      "value": "sffe"
     },
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=3600"
+    },
+    {
+      "name": "Age",
+      "value": "1278"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 23,
+  "id": 26,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.383Z",
-  "url": "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&_=1618638947057"
+  "time": "2021-04-27T10:38:58.406Z",
+  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 42,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.448Z",
+  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 43,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.451Z",
+  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 44,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.479Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 45,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.499Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "bodySize": 759,
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "256226"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 00:47:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 00:47:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 18:08:41 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "208308"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.554Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "bodySize": 27734,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170154"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.750Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170154"
+    }
+  ],
+  "id": 29,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.762Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
 }
 
 {
@@ -3209,7 +4125,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     }
   ],
   "id": 20,
@@ -3217,7 +4133,7 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.383Z",
+  "time": "2021-04-27T10:38:58.782Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
 }
 
@@ -3278,7 +4194,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:57 GMT"
     }
   ],
   "id": 20,
@@ -3286,323 +4202,8 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.383Z",
+  "time": "2021-04-27T10:38:58.782Z",
   "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 39,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.427Z",
-  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    }
-  ],
-  "id": 40,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.429Z",
-  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
-}
-
-{
-  "bodySize": 40507,
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.453Z",
-  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1618638947046"
-}
-
-{
-  "contentType": "text/html; charset=utf-8",
-  "headers": [
-    {
-      "name": "Cache-Control",
-      "value": "private, s-maxage=600,no-transform"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "ETag",
-      "value": "\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Server",
-      "value": "Microsoft-IIS/8.5"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "Set-Cookie",
-      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "1; mode=block"
-    },
-    {
-      "name": "Content-Security-Policy",
-      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    }
-  ],
-  "id": 22,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.453Z",
-  "url": "http://stannmo.org/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=91&themeID=9&menuContainerID=mainNav&_=1618638947046"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    }
-  ],
-  "id": 41,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.460Z",
-  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    }
-  ],
-  "id": 42,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.461Z",
-  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "text/css,*/*;q=0.1"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    }
-  ],
-  "id": 43,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.462Z",
-  "url": "http://stannmo.org/Assets/Styles/Print.css"
-}
-
-{
-  "headers": [
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
-    },
-    {
-      "name": "Accept",
-      "value": "*/*"
-    },
-    {
-      "name": "Referer",
-      "value": "http://stannmo.org/bids"
-    }
-  ],
-  "id": 44,
-  "method": "GET",
-  "time": "2021-04-17T05:55:47.483Z",
-  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
-}
-
-{
-  "bodySize": 28021,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:24 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.495Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
 }
 
 {
@@ -3635,11 +4236,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3662,211 +4263,13 @@ SyntaxError: Parse error
       "value": "0"
     }
   ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.497Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
-}
-
-{
-  "bodySize": 28357,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:35 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
   "id": 30,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.497Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
-}
-
-{
-  "bodySize": 27750,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.499Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
-}
-
-{
-  "bodySize": 27932,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:37 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 28,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.500Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf"
+  "time": "2021-04-27T10:38:58.821Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
 }
 
 {
@@ -3899,11 +4302,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
     },
     {
       "name": "Cache-Control",
@@ -3926,16 +4329,17 @@ SyntaxError: Parse error
       "value": "0"
     }
   ],
-  "id": 25,
+  "id": 28,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.502Z",
+  "time": "2021-04-27T10:38:58.822Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf"
 }
 
 {
+  "bodySize": 27932,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -3964,271 +4368,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:21 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 27,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.503Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:24 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 29,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.515Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:51 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 26,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.515Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:35 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 30,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.515Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
     },
     {
       "name": "Cache-Control",
@@ -4251,12 +4395,12 @@ SyntaxError: Parse error
       "value": "0"
     }
   ],
-  "id": 28,
+  "id": 31,
   "redirectURL": null,
-  "stage": "end",
+  "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.516Z",
+  "time": "2021-04-27T10:38:58.822Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf"
 }
 
@@ -4289,11 +4433,76 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:21 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 30,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.824Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
     },
     {
       "name": "Cache-Control",
@@ -4316,15 +4525,609 @@ SyntaxError: Parse error
       "value": "0"
     }
   ],
-  "id": 25,
+  "id": 28,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.516Z",
+  "time": "2021-04-27T10:38:58.839Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf"
 }
 
+{
+  "bodySize": 28357,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:35 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.839Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:10:37 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 31,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.839Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf"
+}
+
+{
+  "contentType": "text/javascript",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/javascript"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "256226"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 00:47:10 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 00:47:10 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 24 Feb 2021 18:08:41 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "208308"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 44,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.839Z",
+  "url": "https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:35 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 33,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.899Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf"
+}
+
+{
+  "bodySize": 47748,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170154"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.899Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "170154"
+    }
+  ],
+  "id": 32,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.900Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf"
+}
+
+{
+  "bodySize": 24592,
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    }
+  ],
+  "id": 45,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.900Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "contentType": "application/javascript",
+  "headers": [
+    {
+      "name": "Cache-Control",
+      "value": "private, s-maxage=600,no-transform"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/javascript"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Wed, 19 Feb 2020 06:06:46 GMT"
+    },
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "ETag",
+      "value": "\"0dfdbc3eae6d51:0\",\" \""
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Server",
+      "value": "Microsoft-IIS/8.5"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
+    },
+    {
+      "name": "Set-Cookie",
+      "value": "CP_IsMobile=false; path=/\nCP_IsMobile=false; path=/"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Content-Security-Policy",
+      "value": "frame-ancestors 'self' https://*.granicus.com http://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    }
+  ],
+  "id": 45,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:58.900Z",
+  "url": "http://stannmo.org/Assets/Scripts/RWD/MediaFramework.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 46,
+  "method": "GET",
+  "time": "2021-04-27T10:38:58.934Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+}
+
+Error: iframe sandboxes not supported
+
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:322 in Xr
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:320 in Wr
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:323
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:439
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:315
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:316 in Ar
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:315
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:330
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:333 in os
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:332
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:330
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:316
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:27
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:485 in mv
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:500
+  http://stannmo.org/bids:1739 in googleTranslateElementInit
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502 in e
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
+  https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js:502
 {
   "bodySize": 46240,
   "contentType": "font/ttf",
@@ -4355,11 +5158,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4383,15 +5186,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "170987"
+      "value": "135"
     }
   ],
-  "id": 32,
+  "id": 35,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.589Z",
+  "time": "2021-04-27T10:38:59.038Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
 }
 
@@ -4424,11 +5227,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4452,16 +5255,58 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "170987"
+      "value": "135"
     }
   ],
-  "id": 32,
+  "id": 35,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
+  "time": "2021-04-27T10:38:59.038Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Accept",
+      "value": "text/css,*/*;q=0.1"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    }
+  ],
+  "id": 47,
+  "method": "GET",
+  "time": "2021-04-27T10:38:59.038Z",
+  "url": "http://stannmo.org/Assets/Styles/Print.css"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 48,
+  "method": "GET",
+  "time": "2021-04-27T10:38:59.038Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
 }
 
 {
@@ -4494,11 +5339,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4522,15 +5367,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "135"
     }
   ],
-  "id": 34,
+  "id": 37,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
+  "time": "2021-04-27T10:38:59.039Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
 }
 
@@ -4563,11 +5408,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4591,7 +5436,138 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "135"
+    }
+  ],
+  "id": 37,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.039Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+}
+
+{
+  "bodySize": 50216,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:14:19 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 34,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.039Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:58 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:14:19 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
     }
   ],
   "id": 34,
@@ -4599,12 +5575,12 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+  "time": "2021-04-27T10:38:59.039Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
 }
 
 {
-  "bodySize": 46392,
+  "bodySize": 28392,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -4633,15 +5609,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
     },
     {
       "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -4656,90 +5632,21 @@ SyntaxError: Parse error
       "value": "0"
     },
     {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "name": "Age",
+      "value": "170154"
     },
     {
-      "name": "Age",
-      "value": "445137"
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
-  "id": 33,
+  "id": 39,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Mon, 12 Apr 2021 02:16:50 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Tue, 12 Apr 2022 02:16:50 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "445137"
-    }
-  ],
-  "id": 33,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+  "time": "2021-04-27T10:38:59.040Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
 {
@@ -4772,11 +5679,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4800,15 +5707,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "135"
     }
   ],
-  "id": 35,
+  "id": 38,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.590Z",
+  "time": "2021-04-27T10:38:59.040Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf"
 }
 
@@ -4841,11 +5748,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -4869,20 +5776,20 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "135"
     }
   ],
-  "id": 35,
+  "id": 38,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.591Z",
+  "time": "2021-04-27T10:38:59.040Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf"
 }
 
 {
-  "bodySize": 47088,
+  "bodySize": 46392,
   "contentType": "font/ttf",
   "headers": [
     {
@@ -4892,10 +5799,6 @@ SyntaxError: Parse error
     {
       "name": "Vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
     },
     {
       "name": "Content-Type",
@@ -4910,16 +5813,20 @@ SyntaxError: Parse error
       "value": "*"
     },
     {
+      "name": "Content-Length",
+      "value": "46392"
+    },
+    {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -4939,7 +5846,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "170987"
+      "value": "497463"
     }
   ],
   "id": 36,
@@ -4947,8 +5854,8 @@ SyntaxError: Parse error
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.591Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+  "time": "2021-04-27T10:38:59.040Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
@@ -4963,10 +5870,6 @@ SyntaxError: Parse error
       "value": "Accept-Encoding"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
       "name": "Content-Type",
       "value": "font/ttf"
     },
@@ -4979,16 +5882,20 @@ SyntaxError: Parse error
       "value": "*"
     },
     {
+      "name": "Content-Length",
+      "value": "46392"
+    },
+    {
       "name": "Date",
-      "value": "Thu, 15 Apr 2021 06:26:00 GMT"
+      "value": "Wed, 21 Apr 2021 16:27:55 GMT"
     },
     {
       "name": "Expires",
-      "value": "Fri, 15 Apr 2022 06:26:00 GMT"
+      "value": "Thu, 21 Apr 2022 16:27:55 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
+      "value": "Tue, 15 Sep 2020 18:11:53 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -5008,7 +5915,7 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "170987"
+      "value": "497463"
     }
   ],
   "id": 36,
@@ -5016,74 +5923,8 @@ SyntaxError: Parse error
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.591Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
-}
-
-{
-  "bodySize": 30531,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:14:19 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 31,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.591Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
+  "time": "2021-04-27T10:38:59.040Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
 }
 
 {
@@ -5115,19 +5956,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Sun, 25 Apr 2021 11:23:04 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Mon, 25 Apr 2022 11:23:04 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:14:19 GMT"
+      "value": "Tue, 15 Sep 2020 18:10:46 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -5140,15 +5977,23 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Age",
+      "value": "170154"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     }
   ],
-  "id": 31,
+  "id": 39,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.681Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf"
+  "time": "2021-04-27T10:38:59.124Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
 }
 
 {
@@ -5181,11 +6026,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5209,15 +6054,84 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "136"
     }
   ],
-  "id": 37,
+  "id": 40,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.681Z",
+  "time": "2021-04-27T10:38:59.125Z",
+  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 15 Sep 2020 18:11:07 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "136"
+    }
+  ],
+  "id": 40,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.125Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
 }
 
@@ -5251,11 +6165,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5279,15 +6193,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "136"
     }
   ],
-  "id": 38,
+  "id": 41,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
+  "time": "2021-04-27T10:38:59.125Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf"
 }
 
@@ -5320,80 +6234,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
+      "value": "Tue, 27 Apr 2021 10:36:43 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 15 Sep 2020 18:11:07 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "73"
-    }
-  ],
-  "id": 37,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
-  "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf"
-}
-
-{
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:54:34 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:54:34 GMT"
+      "value": "Wed, 27 Apr 2022 10:36:43 GMT"
     },
     {
       "name": "Last-Modified",
@@ -5417,15 +6262,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "73"
+      "value": "136"
     }
   ],
-  "id": 38,
+  "id": 41,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
+  "time": "2021-04-27T10:38:59.125Z",
   "url": "http://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf"
 }
 
@@ -5459,11 +6304,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:59 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:59 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     },
     {
       "name": "Last-Modified",
@@ -5480,22 +6329,14 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Age",
-      "value": "0"
     }
   ],
-  "id": 39,
+  "id": 42,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
+  "time": "2021-04-27T10:38:59.192Z",
   "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf"
 }
 
@@ -5528,15 +6369,208 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:59 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
+      "value": "Wed, 27 Apr 2022 10:38:59 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
     },
     {
       "name": "Last-Modified",
       "value": "Thu, 28 Jan 2021 20:43:23 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 42,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.192Z",
+  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf"
+}
+
+{
+  "bodySize": 25679,
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:59 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:59 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 28 Jan 2021 20:43:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.192Z",
+  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
+}
+
+{
+  "contentType": "font/ttf",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "Content-Type",
+      "value": "font/ttf"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Timing-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:38:59 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 27 Apr 2022 10:38:59 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Thu, 28 Jan 2021 20:43:24 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    }
+  ],
+  "id": 43,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.223Z",
+  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
+}
+
+{
+  "bodySize": 809,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "825"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 24 Apr 2021 15:51:04 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Sun, 24 Apr 2022 15:51:04 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -5556,126 +6590,56 @@ SyntaxError: Parse error
     },
     {
       "name": "Age",
-      "value": "0"
+      "value": "240475"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 39,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
-  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf"
-}
-
-{
-  "bodySize": 35856,
-  "contentType": "font/ttf",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "font/ttf"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 28 Jan 2021 20:43:24 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    }
-  ],
-  "id": 40,
+  "id": 46,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.682Z",
-  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
+  "time": "2021-04-27T10:38:59.363Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
 }
 
 {
-  "contentType": "font/ttf",
+  "contentType": "image/png",
   "headers": [
     {
       "name": "Accept-Ranges",
       "value": "bytes"
     },
     {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
       "name": "Content-Type",
-      "value": "font/ttf"
+      "value": "image/png"
     },
     {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
+      "name": "Vary",
+      "value": "Origin"
     },
     {
-      "name": "Timing-Allow-Origin",
-      "value": "*"
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "825"
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Sat, 24 Apr 2021 15:51:04 GMT"
     },
     {
       "name": "Expires",
-      "value": "Sun, 17 Apr 2022 05:55:47 GMT"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=31536000"
+      "value": "Sun, 24 Apr 2022 15:51:04 GMT"
     },
     {
       "name": "Last-Modified",
-      "value": "Thu, 28 Jan 2021 20:43:24 GMT"
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
     },
     {
       "name": "X-Content-Type-Options",
@@ -5688,15 +6652,166 @@ SyntaxError: Parse error
     {
       "name": "X-XSS-Protection",
       "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "240475"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
     }
   ],
-  "id": 40,
+  "id": 46,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.683Z",
-  "url": "http://fonts.gstatic.com/s/bitter/v17/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf"
+  "time": "2021-04-27T10:38:59.364Z",
+  "url": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+}
+
+{
+  "bodySize": 1847,
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1847"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 10:43:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 10:43:07 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "86152"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 48,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.412Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+}
+
+{
+  "contentType": "image/png",
+  "headers": [
+    {
+      "name": "Accept-Ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/png"
+    },
+    {
+      "name": "Vary",
+      "value": "Origin"
+    },
+    {
+      "name": "Cross-Origin-Resource-Policy",
+      "value": "cross-origin"
+    },
+    {
+      "name": "Content-Length",
+      "value": "1847"
+    },
+    {
+      "name": "Date",
+      "value": "Mon, 26 Apr 2021 10:43:07 GMT"
+    },
+    {
+      "name": "Expires",
+      "value": "Tue, 26 Apr 2022 10:43:07 GMT"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Tue, 22 Oct 2019 18:15:00 GMT"
+    },
+    {
+      "name": "X-Content-Type-Options",
+      "value": "nosniff"
+    },
+    {
+      "name": "Server",
+      "value": "sffe"
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "0"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "public, max-age=31536000"
+    },
+    {
+      "name": "Age",
+      "value": "86152"
+    },
+    {
+      "name": "Alt-Svc",
+      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+    }
+  ],
+  "id": 48,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:38:59.413Z",
+  "url": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
 }
 
 {
@@ -5757,15 +6872,15 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     }
   ],
-  "id": 43,
+  "id": 47,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.754Z",
+  "time": "2021-04-27T10:39:00.280Z",
   "url": "http://stannmo.org/Assets/Styles/Print.css"
 }
 
@@ -5826,315 +6941,63 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:38:58 GMT"
     }
   ],
-  "id": 43,
+  "id": 47,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.754Z",
+  "time": "2021-04-27T10:39:00.281Z",
   "url": "http://stannmo.org/Assets/Styles/Print.css"
 }
 
 {
-  "bodySize": 18724,
-  "contentType": "text/css",
   "headers": [
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "name": "Accept",
+      "value": "*/*"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:19:51 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:19:51 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=3600"
-    },
-    {
-      "name": "Age",
-      "value": "2156"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
     }
   ],
-  "id": 41,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.835Z",
-  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+  "id": 49,
+  "method": "GET",
+  "time": "2021-04-27T10:39:00.402Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
 }
 
 {
-  "contentType": "text/css",
   "headers": [
     {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
     },
     {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
     },
     {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/css"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:19:51 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:19:51 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Wed, 24 Feb 2021 19:45:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=3600"
-    },
-    {
-      "name": "Age",
-      "value": "2156"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+      "name": "Accept",
+      "value": "*/*"
     }
   ],
-  "id": 41,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.835Z",
-  "url": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+  "id": 50,
+  "method": "GET",
+  "time": "2021-04-27T10:39:00.410Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3540"
 }
 
 {
-  "bodySize": 4103,
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:53:08 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=3600"
-    },
-    {
-      "name": "Age",
-      "value": "159"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 42,
-  "redirectURL": null,
-  "stage": "start",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.846Z",
-  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
-}
-
-{
-  "contentType": "text/javascript",
-  "headers": [
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Content-Type",
-      "value": "text/javascript"
-    },
-    {
-      "name": "Access-Control-Allow-Origin",
-      "value": "*"
-    },
-    {
-      "name": "Cross-Origin-Resource-Policy",
-      "value": "cross-origin"
-    },
-    {
-      "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:53:08 GMT"
-    },
-    {
-      "name": "Expires",
-      "value": "Sat, 17 Apr 2021 06:53:08 GMT"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Thu, 25 Feb 2021 22:15:00 GMT"
-    },
-    {
-      "name": "X-Content-Type-Options",
-      "value": "nosniff"
-    },
-    {
-      "name": "Server",
-      "value": "sffe"
-    },
-    {
-      "name": "X-XSS-Protection",
-      "value": "0"
-    },
-    {
-      "name": "Cache-Control",
-      "value": "public, max-age=3600"
-    },
-    {
-      "name": "Age",
-      "value": "159"
-    },
-    {
-      "name": "Alt-Svc",
-      "value": "h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
-    }
-  ],
-  "id": 42,
-  "redirectURL": null,
-  "stage": "end",
-  "status": 200,
-  "statusText": "OK",
-  "time": "2021-04-17T05:55:47.846Z",
-  "url": "https://translate.googleapis.com/translate_static/js/element/main.js"
-}
-
-{
-  "bodySize": 39906,
-  "contentType": "application/javascript",
+  "bodySize": 2089,
+  "contentType": "image/jpeg",
   "headers": [
     {
       "name": "Cache-Control",
@@ -6142,27 +7005,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "image/jpeg"
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -6190,20 +7037,227 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:39:00 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "393859"
     }
   ],
-  "id": 44,
+  "id": 50,
   "redirectURL": null,
   "stage": "start",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.847Z",
-  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:39:00.780Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3540"
 }
 
 {
-  "contentType": "application/javascript",
+  "bodySize": 50498,
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:39:01 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Connection",
+      "value": "close"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:39:01 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=15768000"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    }
+  ],
+  "id": 49,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:39:01.898Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "contentType": "application/x-javascript",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:39:01 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "application/x-javascript"
+    },
+    {
+      "name": "Last-Modified",
+      "value": "Fri, 29 Sep 2017 12:12:30 GMT"
+    },
+    {
+      "name": "Transfer-Encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "Connection",
+      "value": "close"
+    },
+    {
+      "name": "Expires",
+      "value": "Wed, 28 Apr 2021 10:39:01 GMT"
+    },
+    {
+      "name": "Cache-Control",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "Strict-Transport-Security",
+      "value": "max-age=15768000"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "gzip"
+    }
+  ],
+  "id": 49,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:39:01.899Z",
+  "url": "http://analytics.civicplus.com//piwik.js"
+}
+
+{
+  "headers": [
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+    },
+    {
+      "name": "Referer",
+      "value": "http://stannmo.org/bids"
+    },
+    {
+      "name": "Accept",
+      "value": "*/*"
+    }
+  ],
+  "id": 51,
+  "method": "GET",
+  "time": "2021-04-27T10:39:01.914Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=316&rec=1&r=837250&h=16&m=9&s=1&url=http%3A%2F%2Fstannmo.org%2Fbids&_id=88399e6c07589620&_idts=1619519942&_idvc=1&_idn=0&_refts=0&_viewts=1619519942&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "bodySize": 43,
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:39:02 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 51,
+  "redirectURL": null,
+  "stage": "start",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:39:02.752Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=316&rec=1&r=837250&h=16&m=9&s=1&url=http%3A%2F%2Fstannmo.org%2Fbids&_id=88399e6c07589620&_idts=1619519942&_idvc=1&_idn=0&_refts=0&_viewts=1619519942&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/gif",
+  "headers": [
+    {
+      "name": "Server",
+      "value": "nginx"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 27 Apr 2021 10:39:02 GMT"
+    },
+    {
+      "name": "Content-Type",
+      "value": "image/gif"
+    },
+    {
+      "name": "Content-Length",
+      "value": "43"
+    },
+    {
+      "name": "Connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "Content-Encoding",
+      "value": "none"
+    }
+  ],
+  "id": 51,
+  "redirectURL": null,
+  "stage": "end",
+  "status": 200,
+  "statusText": "OK",
+  "time": "2021-04-27T10:39:02.758Z",
+  "url": "http://analytics.civicplus.com//piwik.php?action_name=404%2F%252Fbids%2FReferrer%3A%20&idsite=316&rec=1&r=837250&h=16&m=9&s=1&url=http%3A%2F%2Fstannmo.org%2Fbids&_id=88399e6c07589620&_idts=1619519942&_idvc=1&_idn=0&_refts=0&_viewts=1619519942&send_image=1&cookie=1&res=1024x768"
+}
+
+{
+  "contentType": "image/jpeg",
   "headers": [
     {
       "name": "Cache-Control",
@@ -6211,27 +7265,11 @@ SyntaxError: Parse error
     },
     {
       "name": "Content-Type",
-      "value": "application/javascript"
-    },
-    {
-      "name": "Content-Encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "Last-Modified",
-      "value": "Tue, 27 Jan 2015 17:49:46 GMT"
-    },
-    {
-      "name": "Accept-Ranges",
-      "value": "bytes"
+      "value": "image/jpeg"
     },
     {
       "name": "ETag",
-      "value": "\"0594da3593ad01:0\",\" \""
-    },
-    {
-      "name": "Vary",
-      "value": "Accept-Encoding"
+      "value": "\" \""
     },
     {
       "name": "Server",
@@ -6259,15 +7297,19 @@ SyntaxError: Parse error
     },
     {
       "name": "Date",
-      "value": "Sat, 17 Apr 2021 05:55:47 GMT"
+      "value": "Tue, 27 Apr 2021 10:39:00 GMT"
+    },
+    {
+      "name": "Content-Length",
+      "value": "393859"
     }
   ],
-  "id": 44,
+  "id": 50,
   "redirectURL": null,
   "stage": "end",
   "status": 200,
   "statusText": "OK",
-  "time": "2021-04-17T05:55:47.847Z",
-  "url": "http://stannmo.org/Assets/Scripts/RWD/quo.debug.js"
+  "time": "2021-04-27T10:39:06.578Z",
+  "url": "http://stannmo.org/ImageRepository/Document?documentID=3540"
 }
 

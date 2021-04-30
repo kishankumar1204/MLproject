@@ -16,7 +16,7 @@ def load_data(path, id):
             data = json.load(f)
         return data
     except OSError as e:
-        print(e.errno)
+        print("////////////////",e.errno)
 
 def load_gold_text(path, id):
     with open(os.path.join(path, '%03d.txt' % id)) as f:

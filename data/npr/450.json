@@ -291,8 +291,8 @@
       "bound": {
         "height": 67,
         "left": 222,
-        "top": 181,
-        "width": 256
+        "top": 146,
+        "width": 261
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -436,9 +436,9 @@
     {
       "bound": {
         "height": 67,
-        "left": 478,
-        "top": 181,
-        "width": 217
+        "left": 483,
+        "top": 146,
+        "width": 216
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -582,9 +582,9 @@
     {
       "bound": {
         "height": 67,
-        "left": 695,
-        "top": 181,
-        "width": 223
+        "left": 699,
+        "top": 146,
+        "width": 218
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -728,9 +728,9 @@
     {
       "bound": {
         "height": 67,
-        "left": 918,
-        "top": 181,
-        "width": 242
+        "left": 917,
+        "top": 146,
+        "width": 240
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -874,9 +874,9 @@
     {
       "bound": {
         "height": 67,
-        "left": 1160,
-        "top": 181,
-        "width": 219
+        "left": 1157,
+        "top": 146,
+        "width": 222
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1021,7 +1021,7 @@
       "bound": {
         "height": 18,
         "left": 485,
-        "top": 401,
+        "top": 366,
         "width": 801
       },
       "computed": {
@@ -1145,7 +1145,7 @@
       "bound": {
         "height": 52,
         "left": 500,
-        "top": 451,
+        "top": 416,
         "width": 662
       },
       "computed": {
@@ -1310,7 +1310,7 @@
       "bound": {
         "height": 38,
         "left": 500,
-        "top": 505,
+        "top": 470,
         "width": 664
       },
       "computed": {
@@ -1482,7 +1482,7 @@
       "bound": {
         "height": 22,
         "left": 500,
-        "top": 545,
+        "top": 510,
         "width": 664
       },
       "computed": {
@@ -1647,7 +1647,7 @@
       "bound": {
         "height": 114,
         "left": 227,
-        "top": 411,
+        "top": 376,
         "width": 232
       },
       "computed": {
@@ -1907,7 +1907,7 @@
       "bound": {
         "height": 114,
         "left": 227,
-        "top": 533,
+        "top": 498,
         "width": 232
       },
       "computed": {
@@ -2166,7 +2166,7 @@
       "bound": {
         "height": 114,
         "left": 227,
-        "top": 655,
+        "top": 620,
         "width": 232
       },
       "computed": {
@@ -2425,7 +2425,7 @@
       "bound": {
         "height": 114,
         "left": 227,
-        "top": 777,
+        "top": 742,
         "width": 232
       },
       "computed": {
@@ -2685,7 +2685,7 @@
       "bound": {
         "height": 28,
         "left": 214,
-        "top": 930,
+        "top": 895,
         "width": 244
       },
       "computed": {
@@ -2879,7 +2879,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 960,
+        "top": 925,
         "width": 244
       },
       "computed": {
@@ -2909,7 +2909,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/148/About-the-City\" target=\"_blank\" aria-label=\"About the City Opens in new window\">About the City</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/148/About-the-City\" target=\"_blank\" aria-label=\"About the City Opens in new window\" rel=\"noopener\">About the City</a>\n    ",
       "path": [
         "div",
         "div",
@@ -3101,7 +3101,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 989,
+        "top": 954,
         "width": 244
       },
       "computed": {
@@ -3323,7 +3323,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1018,
+        "top": 983,
         "width": 244
       },
       "computed": {
@@ -3545,7 +3545,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1047,
+        "top": 1012,
         "width": 244
       },
       "computed": {
@@ -3767,7 +3767,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1076,
+        "top": 1041,
         "width": 244
       },
       "computed": {
@@ -3989,7 +3989,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1105,
+        "top": 1070,
         "width": 244
       },
       "computed": {
@@ -4019,7 +4019,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/162/Ticket\" target=\"_blank\" aria-label=\"Pay a Ticket Opens in new window\">Pay a Ticket</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/162/Ticket\" target=\"_blank\" aria-label=\"Pay a Ticket Opens in new window\" rel=\"noopener\">Pay a Ticket</a>\n    ",
       "path": [
         "div",
         "div",
@@ -4211,7 +4211,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1134,
+        "top": 1099,
         "width": 244
       },
       "computed": {
@@ -4433,7 +4433,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1163,
+        "top": 1128,
         "width": 244
       },
       "computed": {
@@ -4463,7 +4463,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/174/Water-Bill\" target=\"_blank\" aria-label=\"Pay my Water Bill Opens in new window\">Pay my Water Bill</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/174/Water-Bill\" target=\"_blank\" aria-label=\"Pay my Water Bill Opens in new window\" rel=\"noopener\">Pay my Water Bill</a>\n    ",
       "path": [
         "div",
         "div",
@@ -4655,7 +4655,7 @@
       "bound": {
         "height": 27,
         "left": 214,
-        "top": 1192,
+        "top": 1157,
         "width": 244
       },
       "computed": {
@@ -4877,7 +4877,7 @@
       "bound": {
         "height": 28,
         "left": 458,
-        "top": 930,
+        "top": 895,
         "width": 244
       },
       "computed": {
@@ -5069,7 +5069,7 @@
       "bound": {
         "height": 27,
         "left": 458,
-        "top": 960,
+        "top": 925,
         "width": 244
       },
       "computed": {
@@ -5099,7 +5099,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://www.facebook.com/pages/City-of-Van-Buren-City-Hall/1515542832014411\" target=\"_blank\" aria-label=\"Van Buren Facebook Opens in new window\">Van Buren Facebook</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://www.facebook.com/pages/City-of-Van-Buren-City-Hall/1515542832014411\" target=\"_blank\" aria-label=\"Van Buren Facebook Opens in new window\" rel=\"noopener\">Van Buren Facebook</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5289,7 +5289,7 @@
       "bound": {
         "height": 27,
         "left": 458,
-        "top": 989,
+        "top": 954,
         "width": 244
       },
       "computed": {
@@ -5319,7 +5319,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://twitter.com/vanburenark\" target=\"_blank\" aria-label=\"Van Buren Twitter Opens in new window\">Van Buren Twitter</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"https://twitter.com/vanburenark\" target=\"_blank\" aria-label=\"Van Buren Twitter Opens in new window\" rel=\"noopener\">Van Buren Twitter</a>\n    ",
       "path": [
         "div",
         "div",
@@ -5509,7 +5509,7 @@
       "bound": {
         "height": 28,
         "left": 458,
-        "top": 1040,
+        "top": 1005,
         "width": 244
       },
       "computed": {
@@ -5701,7 +5701,7 @@
       "bound": {
         "height": 27,
         "left": 458,
-        "top": 1070,
+        "top": 1035,
         "width": 244
       },
       "computed": {
@@ -5921,7 +5921,7 @@
       "bound": {
         "height": 27,
         "left": 458,
-        "top": 1099,
+        "top": 1064,
         "width": 244
       },
       "computed": {
@@ -6141,7 +6141,7 @@
       "bound": {
         "height": 28,
         "left": 702,
-        "top": 930,
+        "top": 895,
         "width": 683
       },
       "computed": {
@@ -6334,7 +6334,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 960,
+        "top": 925,
         "width": 218
       },
       "computed": {
@@ -6554,7 +6554,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 989,
+        "top": 954,
         "width": 218
       },
       "computed": {
@@ -6774,7 +6774,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 1018,
+        "top": 983,
         "width": 218
       },
       "computed": {
@@ -6994,7 +6994,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 1047,
+        "top": 1012,
         "width": 218
       },
       "computed": {
@@ -7214,7 +7214,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 1076,
+        "top": 1041,
         "width": 218
       },
       "computed": {
@@ -7434,7 +7434,7 @@
       "bound": {
         "height": 27,
         "left": 934,
-        "top": 960,
+        "top": 925,
         "width": 218
       },
       "computed": {
@@ -7653,7 +7653,7 @@
       "bound": {
         "height": 27,
         "left": 934,
-        "top": 989,
+        "top": 954,
         "width": 218
       },
       "computed": {
@@ -7872,7 +7872,7 @@
       "bound": {
         "height": 27,
         "left": 934,
-        "top": 1018,
+        "top": 983,
         "width": 218
       },
       "computed": {
@@ -8091,7 +8091,7 @@
       "bound": {
         "height": 27,
         "left": 934,
-        "top": 1047,
+        "top": 1012,
         "width": 218
       },
       "computed": {
@@ -8121,7 +8121,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/161/Water-Department\" target=\"_blank\" aria-label=\"Water Department (VBMU) Opens in new window\">Water Department (VBMU)</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/161/Water-Department\" target=\"_blank\" aria-label=\"Water Department (VBMU) Opens in new window\" rel=\"noopener\">Water Department (VBMU)</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8310,7 +8310,7 @@
       "bound": {
         "height": 27,
         "left": 934,
-        "top": 1076,
+        "top": 1041,
         "width": 218
       },
       "computed": {
@@ -8529,7 +8529,7 @@
       "bound": {
         "height": 27,
         "left": 1166,
-        "top": 960,
+        "top": 925,
         "width": 218
       },
       "computed": {
@@ -8559,7 +8559,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/158/Police-Department\" target=\"_blank\" aria-label=\"Police Department Opens in new window\">Police Department</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/158/Police-Department\" target=\"_blank\" aria-label=\"Police Department Opens in new window\" rel=\"noopener\">Police Department</a>\n    ",
       "path": [
         "div",
         "div",
@@ -8749,7 +8749,7 @@
       "bound": {
         "height": 27,
         "left": 1166,
-        "top": 989,
+        "top": 954,
         "width": 218
       },
       "computed": {
@@ -8969,7 +8969,7 @@
       "bound": {
         "height": 27,
         "left": 1166,
-        "top": 1018,
+        "top": 983,
         "width": 218
       },
       "computed": {
@@ -8999,7 +8999,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/DocumentCenter/Home/View/110\" target=\"_blank\" aria-label=\"Zoning Map Opens in new window\">Zoning Map</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"/DocumentCenter/Home/View/110\" target=\"_blank\" aria-label=\"Zoning Map Opens in new window\" rel=\"noopener\">Zoning Map</a>\n    ",
       "path": [
         "div",
         "div",
@@ -9189,7 +9189,7 @@
       "bound": {
         "height": 27,
         "left": 1166,
-        "top": 1047,
+        "top": 1012,
         "width": 218
       },
       "computed": {
@@ -9219,7 +9219,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.wunderground.com/US/AR/Van_Buren.html\" target=\"_blank\" aria-label=\"Local Weather Opens in new window\">Local Weather</a>\n    ",
+      "html": "\n        <a class=\"widgetDesc widgetQuickLinksLink\" href=\"http://www.wunderground.com/US/AR/Van_Buren.html\" target=\"_blank\" aria-label=\"Local Weather Opens in new window\" rel=\"noopener\">Local Weather</a>\n    ",
       "path": [
         "div",
         "div",
@@ -9409,7 +9409,7 @@
       "bound": {
         "height": 27,
         "left": 1166,
-        "top": 1076,
+        "top": 1041,
         "width": 218
       },
       "computed": {
@@ -9629,7 +9629,7 @@
       "bound": {
         "height": 28,
         "left": 702,
-        "top": 1121,
+        "top": 1086,
         "width": 683
       },
       "computed": {
@@ -9822,7 +9822,7 @@
       "bound": {
         "height": 27,
         "left": 702,
-        "top": 1151,
+        "top": 1116,
         "width": 160
       },
       "computed": {
@@ -10042,7 +10042,7 @@
       "bound": {
         "height": 27,
         "left": 876,
-        "top": 1151,
+        "top": 1116,
         "width": 160
       },
       "computed": {
@@ -10261,7 +10261,7 @@
       "bound": {
         "height": 27,
         "left": 1050,
-        "top": 1151,
+        "top": 1116,
         "width": 160
       },
       "computed": {
@@ -10480,7 +10480,7 @@
       "bound": {
         "height": 27,
         "left": 1224,
-        "top": 1151,
+        "top": 1116,
         "width": 160
       },
       "computed": {
@@ -10700,7 +10700,7 @@
       "bound": {
         "height": 48,
         "left": 214,
-        "top": 1278,
+        "top": 1243,
         "width": 1172
       },
       "computed": {
@@ -10925,7 +10925,7 @@
       "bound": {
         "height": 109,
         "left": 214,
-        "top": 58,
+        "top": 23,
         "width": 351
       },
       "computed": {
@@ -11051,7 +11051,7 @@
       "bound": {
         "height": 37,
         "left": 1245,
-        "top": 75,
+        "top": 40,
         "width": 37
       },
       "computed": {
@@ -11298,7 +11298,7 @@
       "bound": {
         "height": 37,
         "left": 1296,
-        "top": 75,
+        "top": 40,
         "width": 37
       },
       "computed": {
@@ -11544,7 +11544,7 @@
       "bound": {
         "height": 15,
         "left": 1348,
-        "top": 80,
+        "top": 45,
         "width": 36
       },
       "computed": {
@@ -11791,7 +11791,7 @@
       "bound": {
         "height": 15,
         "left": 843,
-        "top": 136,
+        "top": 101,
         "width": 55
       },
       "computed": {
@@ -12001,7 +12001,7 @@
       "bound": {
         "height": 15,
         "left": 926,
-        "top": 136,
+        "top": 101,
         "width": 76
       },
       "computed": {
@@ -12211,7 +12211,7 @@
       "bound": {
         "height": 51,
         "left": 1321,
-        "top": 115,
+        "top": 80,
         "width": 64
       },
       "computed": {
@@ -12414,6 +12414,87 @@
         }
       ],
       "src": "http://vanburencity.org/ImageRepository/Document?documentID=32"
+    },
+    {
+      "bound": {
+        "height": 1139,
+        "left": -90,
+        "top": 0,
+        "width": 1779
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "box-sizing": "border-box",
+        "cursor": "default",
+        "margin-left": "-890px",
+        "min-height": "0px",
+        "position": "absolute",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "bannerObject"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "outer-wrap"
+          ],
+          "id": "outer-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inner-wrap"
+          ],
+          "id": "inner-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "structuralContainer1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "banner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject",
+            "external",
+            "fixedBanner"
+          ],
+          "id": "bannerDivbanner1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bannerObject"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://vanburencity.org/ImageRepository/Document?documentID=27"
     }
   ]
 }
